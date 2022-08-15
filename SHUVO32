@@ -117,3 +117,5 @@ http://dangguli.live:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 http://dangguli.live:8080/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZeeCinemaHD
 http://dangguli.live:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,musicindia
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
