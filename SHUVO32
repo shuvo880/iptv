@@ -44,7 +44,97 @@ http://dangguli.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GaanBangla
 http://dangguli.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SATV
-http://dangguli.live:8080/SATV/tracks-v1a1/mono.m3u8
+http://dangguli.live:8080/SATV/tracks-v1a1/mono.m3u8#EXTM3U
+#EXTINF:-1,bangla talkies
+http://116.204.149.23/hls/modn/list/8018/chunklist0.m3u8
+#EXTINF:-1,mastti
+http://116.204.149.23/hls/modn/list/8010/chunklist0.m3u8
+#EXTINF:-1,music india
+http://116.204.149.23/hls/modn/list/8012/chunklist0.m3u8
+#EXTINF:-1,9xm
+http://116.204.149.23/hls/modn/list/8009/chunklist0.m3u8
+#EXTINF:-1,DHOOM
+http://116.204.149.23/hls/modn/list/8008/chunklist0.m3u8
+#EXTINF:-1,sanggit bangla
+http://116.204.149.23/hls/modn/list/8014/chunklist0.m3u8
+#EXTINF:-1,b4u music
+http://116.204.149.23/hls/modn/list/8022/chunklist0.m3u8
+#EXTINF:-1,mtv classes 
+http://116.204.149.22/hls/modn/list/8005/chunklist0.m3u8
+#EXTINF:-1,boom erang
+http://116.204.149.22/hls/modn/list/8006/chunklist0.m3u8
+#EXTINF:-1,travel classes 
+http://116.204.149.22/hls/modn/list/8004/chunklist0.m3u8
+#EXTINF:-1,animal planet
+http://116.204.149.22/hls/modn/list/8028/chunklist0.m3u8
+#EXTINF:-1,discovery 
+http://116.204.149.22/hls/modn/list/8018/chunklist0.m3u8
+#EXTINF:-1,history 
+http://116.204.149.23/hls/modn/list/8023/chunklist0.m3u8
+#EXTINF:-1,syfy
+http://116.204.149.23/hls/modn/list/8039/chunklist0.m3u8
+#EXTINF:-1,national geographic 
+http://116.204.149.22/hls/modn/list/8030/chunklist0.m3u8
+#EXTINF:-1,zee24
+http://116.204.149.23/hls/modn/list/8019/chunklist0.m3u8
+#EXTINF:-1,foox news
+http://116.204.149.22/hls/modn/list/8038/chunklist0.m3u8
+#EXTINF:-1,cnbc
+http://116.204.149.22/hls/modn/list/8036/chunklist0.m3u8
+#EXTINF:-1,ary News 
+http://116.204.149.23/hls/modn/list/8006/chunklist0.m3u8
+#EXTINF:-1,fox
+http://116.204.149.22/hls/modn/list/8010/chunklist0.m3u8
+#EXTINF:-1,axw movie
+http://116.204.149.22/hls/modn/list/8002/chunklist0.m3u8
+#EXTINF:-1,HWD
+http://116.204.149.22/hls/modn/list/8037/chunklist0.m3u8
+#EXTINF:-1,b4u movie
+http://116.204.149.23/hls/modn/list/8021/chunklist0.m3u8
+#EXTINF:-1,star movies hd
+http://116.204.149.23/hls/modn/list/8029/chunklist0.m3u8
+#EXTINF:-1,star movies s hd
+http://116.204.149.23/hls/modn/list/8030/chunklist0.m3u8
+#EXTINF:-1,eurosport 
+http://116.204.149.22/hls/modn/list/8016/chunklist0.m3u8
+#EXTINF:-1,btsposts 1 hd
+http://116.204.149.23/hls/modn/list/8026/chunklist0.m3u8
+#EXTINF:-1,btsposts 2 hd
+http://116.204.149.23/hls/modn/list/8027/chunklist0.m3u8
+#EXTINF:-1,tennis chennal
+http://116.204.149.23/hls/modn/list/8015/chunklist0.m3u8
+#EXTINF:-1,sky sposts
+http://116.204.149.23/hls/modn/list/8028/chunklist0.m3u8
+#EXTINF:-1,laliga
+http://116.204.149.23/hls/modn/list/8024/chunklist0.m3u8
+#EXTINF:-1,prime laliga
+http://116.204.149.23/hls/modn/list/8017/chunklist0.m3u8
+#EXTINF:-1,sky sposts c
+http://116.204.149.23/hls/modn/list/8038/chunklist0.m3u8
+#EXTINF:-1,espn
+http://116.204.149.22/hls/modn/list/8041/chunklist0.m3u8
+#EXTINF:-1,espn 2
+http://116.204.149.22/hls/modn/list/8025/chunklist0.m3u8
+#EXTINF:-1,sky sposts laliga
+http://116.204.149.22/hls/modn/list/8034/chunklist0.m3u8
+#EXTINF:-1,golf
+http://116.204.149.22/hls/modn/list/8020/chunklist0.m3u8
+#EXTINF:-1,sky spost
+http://116.204.149.22/hls/modn/list/8019/chunklist0.m3u8
+#EXTINF:-1,axw spin hd
+http://116.204.149.22/hls/modn/list/8001/chunklist0.m3u8
+#EXTINF:-1,axw white hd
+http://116.204.149.22/hls/modn/list/8003/chunklist0.m3u8
+#EXTINF:-1,ary digital 
+http://116.204.149.23/hls/modn/list/8005/chunklist0.m3u8
+#EXTINF:-1,ary zindagi
+http://116.204.149.23/hls/modn/list/8007/chunklist0.m3u8
+#EXTINF:-1,zeesalam
+http://116.204.149.22/hls/modn/list/8000/chunklist0.m3u8
+#EXTINF:-1,derana
+http://116.204.149.22/hls/modn/list/8039/chunklist0.m3u8
+#EXTINF:-1,comedy central
+http://116.204.149.22/hls/modn/list/8024/chunklist0.m3u8
 #EXTINF:-1,TSports
 http://dangguli.live:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ColorsBanglaHD
