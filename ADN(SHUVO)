@@ -55,3 +55,27 @@ http://stream.asdd.cc:9191/and-prive-hd/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  ,Zee Bangla HD
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,Discovery Kids
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/XNnI0ie.jpg",Sony Yay
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,Colors HD
+https://tvs1.aynaott.com/ColorsHD/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/3mpHZPn.png",80.Rush Channel
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 ,Freecatv
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Six HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JwcS.jpg",VARENDRA TV
+https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Music",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/index.m3u8
+#EXTINF:-1 group-title="Music",9x Tashan
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/9ArrdIr.png",MAGIC BANGLA
+https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1 ,Tennis Channel Freecatv
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,SPORT PREMIUM 🇨🇿
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
