@@ -79,3 +79,25 @@ https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,SPORT PREMIUM 🇨🇿
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1,CHENNAL S
+https://bd.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1,bangla21tv
+https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1,nrb
+https://bd.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1,magicbanglatv
+https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1,ftv
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1,dhamaal
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1,artist-aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1,kadak
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1,dil-se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
