@@ -59,7 +59,8 @@ http://stream.asdd.cc:9191/and-tv-hd/tracks-v1a1/mono.m3u8
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Mi4XAi" group-title="Bangla",02.Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-
+#EXTINF:-1,sony-max-2
+http://stream.asdd.cc:9191/sony-max-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Sanonda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Matribhumi
