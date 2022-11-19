@@ -81,3 +81,31 @@ http://xtv.ooo:8080/live/11111/11111/245897.ts
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Colors Bangla
 http://xtv.ooo:8080/live/11111/11111/245895.ts
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",
+#EXTINF:-1,somoy
+http://103.78.255.178:8080/somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,channeli
+http://103.78.255.178:8080/channeli/tracks-v1a1/mono.m3u8
+#EXTINF:-1,jamuna
+http://103.78.255.178:8080/jamuna/tracks-v1a1/mono.m3u8
+#EXTINF:-1,gtv
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sony8
+http://103.78.255.178:8080/sony8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,starjalsha
+http://103.78.255.178:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1,zeebangla
+http://103.78.255.178:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,starplus
+http://103.78.255.178:8080/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sonymaxHD
+http://103.78.255.178:8080/sonymaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,starselect1
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,nick
+http://103.78.255.178:8080/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sbangla
+http://103.78.255.178:8080/sbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9xm
+http://103.78.255.178:8080/9xm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,
