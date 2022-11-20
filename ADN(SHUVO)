@@ -107,5 +107,7 @@ http://103.78.255.178:8080/nick/tracks-v1a1/mono.m3u8
 http://103.78.255.178:8080/sbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9xm
 http://103.78.255.178:8080/9xm/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,
+#EXTINF:-1,YES-TV
+http://stream.asdd.cc:9191/YES-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sports-18
+http://stream.asdd.cc:9191/Sports-18/tracks-v1a1/mono.m3u8
