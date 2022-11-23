@@ -117,3 +117,7 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1,fifa-free
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1,sports-ch-7
+http://stream.asdd.cc:9191/sports-ch-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sports-ch-8
+http://stream.asdd.cc:9191/sports-ch-8/tracks-v1a1/mono.m3u8
