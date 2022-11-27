@@ -150,8 +150,8 @@ http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1,BEIN sports ENGLISH 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
-#EXTINF:-1,
-
+#EXTINF:-1,ZEECINEMAHD
+https://z5ak-live.zee5.com/out/v1/1d59d08fec89495584d2b7e4059492a4/hdntl=exp=1669619014~acl=%2f*~data=hdntl~hmac=a934c91efe27e8ba671b213bcd363006d35a5ec5bc82d0c65b511e686cf42def/index_20.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
