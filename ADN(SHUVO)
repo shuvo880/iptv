@@ -1,8 +1,10 @@
  #EXTM3U
- #EXTINF:-1,toffee
+ #EXTINF:-1,toffee p
  https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
- #EXTINF:-1,fifa-free
+ #EXTINF:-1,fifa-free 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+ #EXTINF:-1,fifa-free 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
  #EXTINF:-1,YES-TV
 http://stream.asdd.cc:9191/YES-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sports-18
