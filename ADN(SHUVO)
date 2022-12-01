@@ -7,6 +7,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
 #EXTINF:-1,TOFFEE 2
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+  #EXTINF:-1,FIFA 
+ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
  #EXTINF:-1,YES-TV
 http://stream.asdd.cc:9191/YES-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sports-18
