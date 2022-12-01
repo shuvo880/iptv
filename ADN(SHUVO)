@@ -1,16 +1,5 @@
  #EXTM3U
- #EXTINF:-1,TOFFEE p
- https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
- #EXTINF:-1,fifa-free 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1,TOFFEE 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
-#EXTINF:-1,TOFFEE 2
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
-  #EXTINF:-1,FIFA 
- https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
- #EXTINF:-1,YES-TV
-http://stream.asdd.cc:9191/YES-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Sports-18
 http://stream.asdd.cc:9191/Sports-18/tracks-v1a1/mono.m3u8
 #EXTINF:-1,live1
@@ -39,6 +28,12 @@ http://stream.asdd.cc:9191/SKY-NET-2/tracks-v1a1/mono.m3u8
 http://stream.asdd.cc:9191/sky-net-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sky-net-hd
 http://stream.asdd.cc:9191/sky-net-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1,TSPORTS HD
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1,BEINSPORTS1
+http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-1,Sony-six-hd
 http://stream.asdd.cc:9191/Sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sony-ten-1-hd
@@ -57,6 +52,18 @@ http://stream.asdd.cc:9191/star-sports-2/tracks-v1a1/mono.m3u8
 http://stream.asdd.cc:9191/star-sports-select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,star-sports-select-2
 http://stream.asdd.cc:9191/star-sports-select-2/tracks-v1a1/mono.m3u8
+ #EXTINF:-1,TOFFEE p
+ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+ #EXTINF:-1,fifa-free 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1,TOFFEE 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1,TOFFEE 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+  #EXTINF:-1,FIFA 
+ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+ #EXTINF:-1,YES-TV
+http://stream.asdd.cc:9191/YES-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T-sports
 http://stream.asdd.cc:9191/T-sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ten-sports
