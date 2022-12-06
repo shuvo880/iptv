@@ -1,4 +1,3 @@
-# iptv
-bdix
-gtv
+ #EXTM3U
+#EXTINF:-1gtv
 http://103.143.235.50:8080/101/101.m3u8
