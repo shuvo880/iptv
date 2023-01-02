@@ -166,5 +166,5 @@ http://100.64.64.11/Zee_24_Ghanta/tracks-v1a1/mono.m3u8
 http://100.64.64.11/HGTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TLC
 http://100.64.64.11/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1,24_kitchen
 http://100.64.64.11/24_kitchen/tracks-v1a1/mono.m3u8
