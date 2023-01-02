@@ -180,8 +180,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1,royaltv
 https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Sony-Max
+http://160.238.0.66/amrbd/Sony-Max/chunks.m3u8?nimblesessionid=39760314
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Sanonda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Matribhumi
