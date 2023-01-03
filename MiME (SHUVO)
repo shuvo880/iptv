@@ -184,6 +184,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kabir",Matribhumi
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u
+
+
 #EXTINF:-1,Goldmines
 https://tinyurl.com/Goldmines-livetvwithshuvo-m3u
 #EXTINF:-1,jagonews24
@@ -228,109 +230,108 @@ http://208.86.19.13:81/9066.stream/index.m3u8
 http://208.86.19.13:81/6099.stream/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
 http://208.86.19.13:81/7088.stream/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,COLORS BANGLA HD
+http://208.86.19.13:81/9044.stream/index.m3u8
+#EXTINF:-1,SUN BANGLA
+http://208.86.19.13:81/9033.stream/index.m3u8
+#EXTINF:-1,AKASH AATH
+http://208.86.19.13:81/679.stream/index.m3u8
+#EXTINF:-1,History TV18 HD ltws
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/791.ts
+#EXTINF:-1,TravelXP HD ltws
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/792.ts
+#EXTINF:-1,NICK.BANGLA LTWS
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281135&extension=ts&play_token=t9lsD7UjLa
+#EXTINF:-1,SONIC.BANGLA LTWS
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AC:31:DE&stream=862986&extension=ts&play_token=tkt27uLoQq
+#EXTINF:-1,SONY YAY BANGLA ltws
+http://nordicstream.xyz:2095/q8r8D5gHvh/ZmovhgMYOa/460934
+#EXTINF:-1,MN+
+http://102.222.232.18:9981/stream/channelid/152671467?ticket=FA5603FA7B1E8553D9E5F28F3D3AD54006BEE63C&profile=matroska
+#EXTINF:-1,ACTION MOVIES
+http://102.222.232.18:9981/stream/channelid/718210474?ticket=A523B8FA094F5D3EAE44D03B7E65AF7C2A27AB95&profile=matroska
+#EXTINF:-1,& FLIX HD
+http://102.222.232.18:9981/stream/channelid/882507324?ticket=C9F9066AD6B55EFFD88F0D6122BFE18A6703360E&profile=matroska
+#EXTINF:-1,SONY PIX HD
+http://102.222.232.18:9981/stream/channelid/318926715?ticket=828C9885CB5B67B9EE6C94A7C24C397100F82096&profile=matroska
+#EXTINF:-1,MNX HD
+http://102.222.232.18:9981/stream/channelid/1102428313?ticket=B537B12EE2B4BFFEE16D7EEC8973E6D4BDBABF82&profile=matroska
+#EXTINF:-1,STAR MOVIES HD
+http://102.222.232.18:9981/stream/channelid/1581697754?ticket=D6213FB98268FE8240124AB940B42232FE6E69DE&profile=matroska
+#EXTINF:-1,IN : Star World Premier HD
+http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/100998
+#EXTINF:-1,IN : & xplore HD
+http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/100999
+#EXTINF:-1,&PICTURESHD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1,IND: ENTER 10
+http://line.365tv.xyz:8060/Faucon_iptv223dfer/EuaU8EmzdnBY/100932
+#EXTINF:-1,STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1,B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:-1,PK NEWS
+http://208.86.19.13:81/7188.stream/index.m3u8
+#EXTINF:-1,GOLDMINES
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1,SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1,UTV ACTION
+http://102.222.232.18:9981/stream/channelid/1452596058?ticket=BEDA78FF4025677F9873AAB961E816063CCE9E6F&profile=matroska
+#EXTINF:-1,COLORS CINEPLEX HD
+http://102.222.232.18:9981/stream/channelid/57589000?ticket=AEE14DF401E1E5F86E8E8AA5D978A82C39E65CFB&profile=matroska
+#EXTINF:-1,MTV India 
+http://102.222.232.18:9981/stream/channelid/1420751392?ticket=10044636502CD589D3EDD9FD9D9B2B3160D4048A&profile=matroska
+#EXTINF:-1,MTV india
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,MTV BEATS HD 2
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1,9X M
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,COLORS HD LTWS
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:-1,ZEE TV HD LTWS
+http://208.86.19.13:81/6066.stream/index.m3u8
+#EXTINF:-1,STAR PLUS HD
+http://208.86.19.13:81/6077.stream/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:-1,SONY SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1,& TV HD
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1,ARY
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281104&extension=ts&play_token=Sc6XqnWdut
+#EXTINF:-1,ARY DIGITAL HD
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281099&extension=ts&play_token=zmJWZMDLEJ
+#EXTINF:-1,ARY DEGUTAL
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=118535&extension=ts&play_token=nAggBNBiXy
+#EXTINF:-1,Ary Digital ltws
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/1018.ts
+#EXTINF:-1,Geo Super ltws
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/1016.ts
+#EXTINF:-1,Geo Entertainment ltws
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2267.ts
+#EXTINF:-1,RT_News
+http://appleiptv.com:80/7863/7863/28090
+#EXTINF:-1,BBC World News
+http://appleiptv.com:80/7863/7863/42990
+#EXTINF:-1,BBC NEWS
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/29902.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/29905.ts
+#EXTINF:-1,NDTV News UK
+http://appleiptv.com:80/7863/7863/43065
+#EXTINF:-1,FOX NEWS
+http://appleiptv.com:80/7863/7863/27476
+#EXTINF:-1,TIMES NOW NEWS HD
+http://pro.ipcover.tv:8080/alves07/20072022/209482
 #EXTINF:-1,
 
 #EXTINF:-1,
