@@ -198,36 +198,36 @@ http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,Nan TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,মিম টিভি
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1,Amar Bangla
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF:-1,Bangla 21
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1,ATN Music
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1,AB TV BD
+http://208.86.19.13:81/501.stream/index.m3u8
+#EXTINF:-1,MEEM USA
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1,BANGLA TV
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1,TIME TELEVISION BD
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1,IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1,IB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1,I TV
+http://208.86.19.13:81/512.stream/index.m3u8
+#EXTINF:-1,STAR JALSHA HD
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=83387697596AB6B4AA058ABD3EEEB37570C5AE3E&profile=matroska
+#EXTINF:-1,ZEE BANGLA 
+http://208.86.19.13:81/9066.stream/index.m3u8
+#EXTINF:-1,JALSHA MOVIES HD
+http://208.86.19.13:81/6099.stream/index.m3u8
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://208.86.19.13:81/7088.stream/index.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
