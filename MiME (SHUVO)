@@ -186,6 +186,329 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u
 
 
+#EXTINF:0,&flix HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a013
+#EXTINF:0,&pictures HD -Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01j
+#EXTINF:0,&prive HD-Rs 6
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01r
+#EXTINF:0,&tv HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02k
+#EXTINF:0,9XM  - Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a035
+#EXTINF:0,Animal PlanetHD-Rs5
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01b
+#EXTINF:0,Asianet HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01q
+#EXTINF:0,B4U Bhojpuri-Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03c
+#EXTINF:0,CHINTU TV- Rs 5
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a033
+#EXTINF:0,Cartoon NW-Rs4.25
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a020
+#EXTINF:0,Cine Active- Rs 25
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03g
+#EXTINF:0,Colors HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a012
+#EXTINF:0,Comedy Active- Rs 43
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03o
+#EXTINF:0,Cooking Active-Rs 43
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02e
+#EXTINF:0,Discovery HD-Rs8
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00q
+#EXTINF:0,Discovery Kids-Rs3.50
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02c
+#EXTINF:0,DiscoveryScienc-Rs1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01u
+#EXTINF:0,DiscoveryTurbo-Rs1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01v
+#EXTINF:0,Disney Jr.-Rs 4
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a025
+#EXTINF:0,Disney-Rs 10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a022
+#EXTINF:0,ETV Cinema-Rs 13
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03p
+#EXTINF:0,ETV HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02j
+#EXTINF:0,EUROSPORT HD-Rs 5.50
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a015
+#EXTINF:0,Enterr10- Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02o
+#EXTINF:0,Evergreen Classics-Rs43
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03h
+#EXTINF:0,FOX Life HD-Rs 2
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01y
+#EXTINF:0,GEMINI TV HD -Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00y
+#EXTINF:0,HISTORY TV18 HD-Rs7
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01d
+#EXTINF:0,Hits Active- Rs 43
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02h
+#EXTINF:0,Investigation D-Rs1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a031
+#EXTINF:0,JAYA PLUS- Rs1.68
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03k
+#EXTINF:0,JalshaMoviesHD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00u
+#EXTINF:0,KOLKATA TV-Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01x
+#EXTINF:0,KTV HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00s
+#EXTINF:0,MH ONE - Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a016
+#EXTINF:0,MN+ HD-Rs 8
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00m
+#EXTINF:0,MTV - Rs 3
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a028
+#EXTINF:0,MTV Beats- 10p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02f
+#EXTINF:0,Movies Active- Rs 59
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03i
+#EXTINF:0,Nat Geo HD-Rs14
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00p
+#EXTINF:0,NatGeo Wild HD-Rs8
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00a
+#EXTINF:0,News18 Bangla-10p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a034
+#EXTINF:0,Nick Jr.- Rs 1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02a
+#EXTINF:0,Pogo - Rs 4.25
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a027
+#EXTINF:0,SET HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a014
+#EXTINF:0,SONIC- Rs 2
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a026
+#EXTINF:0,SONY AATH- Rs 5.50
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00c
+#EXTINF:0,SONY MAX 2 - Rs 1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03j
+#EXTINF:0,SONY MAX HD -Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a009
+#EXTINF:0,SONY PIX HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01i
+#EXTINF:0,SONY SAB HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02m
+#EXTINF:0,STAR BHARAT HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01a
+#EXTINF:0,STAR JALSHA HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00r
+#EXTINF:0,STAR MOVIES HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00n
+#EXTINF:0,SUN MUSIC HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00t
+#EXTINF:0,SUN TV HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00i
+#EXTINF:0,SUPER SPORTS FOOTBALL
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03u
+#EXTINF:0,SUPER SPORTS LALIGA
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03r
+#EXTINF:0,SUPER SPORTS PREMIER LEAGUE
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03s
+#EXTINF:0,SUPER SPROTS CRICKET
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03t
+#EXTINF:0,SURYA COMEDY-Rs 4
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02n
+#EXTINF:0,SURYA HD- Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02l
+#EXTINF:0,Sony Ten 1 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a006
+#EXTINF:0,Sony Ten 2 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01n
+#EXTINF:0,Sony Ten 3 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00f
+#EXTINF:0,Sony Ten 5 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a007
+#EXTINF:0,SonyBBCearthHD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01g
+#EXTINF:0,Sports18 1 HD-Rs10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00j
+#EXTINF:0,Star GOLD HD -Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01c
+#EXTINF:0,Star Gold 2- Rs 2
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03f
+#EXTINF:0,Star Gold Romance- Rs 2
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03e
+#EXTINF:0,Star Gold Thrills- Rs 2
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03d
+#EXTINF:0,Star Maa MovHD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03m
+#EXTINF:0,Star Plus HD -Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a010
+#EXTINF:0,Star Pravah HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00w
+#EXTINF:0,StarGold SelHD-Rs8
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01f
+#EXTINF:0,StarMovieSelHD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00o
+#EXTINF:0,StarSportSL1HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01l
+#EXTINF:0,StarSportSL2HD-Rs10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01m
+#EXTINF:0,StarSports1 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a004
+#EXTINF:0,StarSports2 HD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a005
+#EXTINF:0,StarSportsFirst-50p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a02g
+#EXTINF:0,StarSuvarnaHD-Rs19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00x
+#EXTINF:0,Sun Bangla - Free
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00b
+#EXTINF:0,Super Hungama- Rs 4
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a024
+#EXTINF:0,TLC HD- Rs3
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00k
+#EXTINF:0,UDAYA HD- Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03n
+#EXTINF:0,VIJAY HD- Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01k
+#EXTINF:0,WWE
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a032
+#EXTINF:0,ZEE BANGLA HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01h
+#EXTINF:0,ZEE BOLLYWOOD-Rs3
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01w
+#EXTINF:0,ZEE Bangla Cine-Rs10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03a
+#EXTINF:0,ZEE CINEMA HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a019
+#EXTINF:0,ZEE Cafe HD - Rs10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00l
+#EXTINF:0,ZEE TALKIES HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01e
+#EXTINF:0,ZEE TAMIL HD - Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01s
+#EXTINF:0,ZEE TELUGU HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03l
+#EXTINF:0,ZEE TV HD-Rs 19
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a011
+#EXTINF:0,Zing - 10p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a03q
+#EXTINF:0,Zoom - 50p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a036
+#EXTINF:0,bindass - 10p
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a039
+#EXTINF:0,colorsBanglaHD-Rs14
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a00v
+#EXTINF:0,colorsInfintyHD-Rs9
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01o
+#EXTINF:0,colorsKanMovies-Rs3
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a038
+#EXTINF:0,hungama tv-Rs 1
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a021
+#EXTINF:0,nick - Rs 6
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a023
+#EXTINF:0,nick HD+- Rs 10
+#EXTGRP:unsorted
+http://45.125.220.129:81/play/a01p
+
+
 #EXTINF:-1,Goldmines
 https://tinyurl.com/Goldmines-livetvwithshuvo-m3u
 #EXTINF:-1,jagonews24
