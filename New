@@ -1,0 +1,479 @@
+#EXTM3U
+#EXTINF:-1,1025 MULTIPREMIER
+http://160.20.165.245:8000/play/a00b/index.m3u8
+#EXTINF:-1,1026 MULTICINEMA
+http://160.20.165.245:8000/play/a00a/index.m3u8
+#EXTINF:-1,1027 CARACOL
+http://160.20.165.245:8000/play/a00h/index.m3u8
+#EXTINF:-1,1028 HOLA TV
+http://160.20.165.245:8000/play/a009/index.m3u8
+#EXTINF:-1,1029 ANTENA 3
+http://160.20.165.245:8000/play/a00e/index.m3u8
+#EXTINF:-1,1030 A3 SERIES
+http://160.20.165.245:8000/play/a00f/index.m3u8
+#EXTINF:-1,1041 FUNBOX
+http://160.20.165.245:8000/play/a005/index.m3u8
+#EXTINF:-1,1060 PASIONES
+http://160.20.165.245:8000/play/a00g/index.m3u8
+#EXTINF:-1,12345 Pasajetv
+http://160.20.165.245:8000/play/a001/index.m3u8
+#EXTINF:-1,12346 Telemundo
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF:-1,12347 VITO TV
+http://160.20.165.245:8000/play/a004/index.m3u8
+#EXTINF:-1,12349 CLOVER
+http://160.20.165.245:8000/play/a006/index.m3u8
+#EXTINF:-1,12350 TEVE KIDS
+http://160.20.165.245:8000/play/a007/index.m3u8
+#EXTINF:-1,12351 TELERAMA
+http://160.20.165.245:8000/play/a008/index.m3u8
+#EXTINF:-1,12355 LOVE NATURE
+http://160.20.165.245:8000/play/a00d/index.m3u8
+#EXTINF:-1,A&E
+http://160.20.165.245:8000/play/a00k/index.m3u8
+#EXTINF:-1,A3 CINE
+http://160.20.165.245:8000/play/a01l/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://160.20.165.245:8000/play/a010/index.m3u8
+#EXTINF:-1,AXN
+http://160.20.165.245:8000/play/a00n/index.m3u8
+#EXTINF:-1,AZCINEMA
+http://160.20.165.245:8000/play/a01m/index.m3u8
+#EXTINF:-1,CARACOL
+http://160.20.165.245:8000/play/a00x/index.m3u8
+#EXTINF:-1,CLASSIC
+http://160.20.165.245:8000/play/a01h/index.m3u8
+#EXTINF:-1,DISCIOVERY H&H
+http://160.20.165.245:8000/play/a013/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://160.20.165.245:8000/play/a011/index.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://160.20.165.245:8000/play/a012/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://160.20.165.245:8000/play/a016/index.m3u8
+#EXTINF:-1,E!
+http://160.20.165.245:8000/play/a00l/index.m3u8
+#EXTINF:-1,ENLACE
+http://160.20.165.245:8000/play/a00u/index.m3u8
+#EXTINF:-1,EWTN
+http://160.20.165.245:8000/play/a00v/index.m3u8
+#EXTINF:-1,Ecuador tv
+http://160.20.165.245:8000/play/a00q/index.m3u8
+#EXTINF:-1,FANPOP
+http://160.20.165.245:8000/play/a01g/index.m3u8
+#EXTINF:-1,FMHFAMILY
+http://160.20.165.245:8000/play/a01j/index.m3u8
+#EXTINF:-1,FMHKIDS
+http://160.20.165.245:8000/play/a01f/index.m3u8
+#EXTINF:-1,Gama tv
+http://160.20.165.245:8000/play/a00r/index.m3u8
+#EXTINF:-1,HISTORY
+http://160.20.165.245:8000/play/a00m/index.m3u8
+#EXTINF:-1,MI MUSICA HITS
+http://160.20.165.245:8000/play/a019/index.m3u8
+#EXTINF:-1,MI MUSICA REGETON
+http://160.20.165.245:8000/play/a018/index.m3u8
+#EXTINF:-1,MI MUSICA ROMANTICA
+http://160.20.165.245:8000/play/a01b/index.m3u8
+#EXTINF:-1,MI MUSICA SALSA
+http://160.20.165.245:8000/play/a01a/index.m3u8
+#EXTINF:-1,NAT GEO
+http://160.20.165.245:8000/play/a00z/index.m3u8
+#EXTINF:-1,NTN 24
+http://160.20.165.245:8000/play/a00y/index.m3u8
+#EXTINF:-1,NUESTRA TELE
+http://160.20.165.245:8000/play/a015/index.m3u8
+#EXTINF:-1,OROMARTV
+http://160.20.165.245:8000/play/a00t/index.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://160.20.165.245:8000/play/a014/index.m3u8
+#EXTINF:-1,RT ESPAÃ‘OL
+http://160.20.165.245:8000/play/a00w/index.m3u8
+#EXTINF:-1,RTU
+http://160.20.165.245:8000/play/a00s/index.m3u8
+#EXTINF:-1,SONY
+http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://160.20.165.245:8000/play/a01c/index.m3u8
+#EXTINF:-1,SYFY
+http://160.20.165.245:8000/play/a01e/index.m3u8
+#EXTINF:-1,TITAN
+http://160.20.165.245:8000/play/a01i/index.m3u8
+#EXTINF:-1,Teleamazonas
+http://160.20.165.245:8000/play/a00p/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://160.20.165.245:8000/play/a01d/index.m3u8
+#EXTINF:-1,WARNER
+http://160.20.165.245:8000/play/a00j/index.m3u8
+#EXTINF:-1,ZOOM
+http://160.20.165.245:8000/play/a017/index.m3u8
+#EXTINF:-1,&flix HD-Rs 19
+http://103.61.73.220:8000/play/a04w
+#EXTINF:-1,&pictures HD -Rs 19
+http://103.61.73.220:8000/play/a05d
+#EXTINF:-1,&pictures SD@
+http://103.61.73.220:8000/play/a0gy
+#EXTINF:-1,&prive HD-Rs 6
+http://103.61.73.220:8000/play/a05j
+#EXTINF:-1,&tv HD - Rs 19
+http://103.61.73.220:8000/play/a04r
+#EXTINF:-1,1SPORTS@
+http://103.61.73.220:8000/play/a0g8
+#EXTINF:-1,9X JHAKAAS-Free
+http://103.61.73.220:8000/play/a0b9
+#EXTINF:-1,ADITHYA TV-Rs 9
+http://103.61.73.220:8000/play/a0du
+#EXTINF:-1,ASIANET MOVIES-Rs19
+http://103.61.73.220:8000/play/a0dv
+#EXTINF:-1,ASIANET PLUS-Rs7
+http://103.61.73.220:8000/play/a0ds
+#EXTINF:-1,Animal Planet-SD@
+http://103.61.73.220:8000/play/a0h2
+#EXTINF:-1,Animal PlanetHD-Rs5
+http://103.61.73.220:8000/play/a057
+#EXTINF:-1,Asianet HD-Rs 19
+http://103.61.73.220:8000/play/a06p
+#EXTINF:-1,BBC WORLD - Rs 1.50
+http://103.61.73.220:8000/play/a09k
+#EXTINF:-1,Balle Balle@
+http://103.61.73.220:8000/play/a0gb
+#EXTINF:-1,Bhakti Active@
+http://103.61.73.220:8000/play/a0h9
+#EXTINF:-1,Bharat Express - Free
+http://103.61.73.220:8000/play/a0f3
+#EXTINF:-1,BhojpuriCinema-Free
+http://103.61.73.220:8000/play/a0fd
+#EXTINF:-1,CHUTTI TV- Rs 6
+http://103.61.73.220:8000/play/a0e3
+#EXTINF:-1,CNN INTL - Rs 2
+http://103.61.73.220:8000/play/a09j
+#EXTINF:-1,Cartoon NW-Rs4.25
+http://103.61.73.220:8000/play/a05t
+#EXTINF:-1,Cine Active@
+http://103.61.73.220:8000/play/a0ha
+#EXTINF:-1,Colors HD-Rs 19
+http://103.61.73.220:8000/play/a04v
+#EXTINF:-1,Discovery HD-Rs8
+http://103.61.73.220:8000/play/a04f
+#EXTINF:-1,Discovery Kids-Rs3.50
+http://103.61.73.220:8000/play/a064
+#EXTINF:-1,Discovery-SD@
+http://103.61.73.220:8000/play/a0gz
+#EXTINF:-1,DiscoveryScienc-Rs1
+http://103.61.73.220:8000/play/a095
+#EXTINF:-1,DiscoveryTurbo-Rs1
+http://103.61.73.220:8000/play/a096
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.61.73.220:8000/play/a05y
+#EXTINF:-1,Disney-Rs 10
+http://103.61.73.220:8000/play/a05v
+#EXTINF:-1,EPIC @
+http://103.61.73.220:8000/play/a0hf
+#EXTINF:-1,ETV AP-@
+http://103.61.73.220:8000/play/a0hh
+#EXTINF:-1,ETV HD - Rs 19
+http://103.61.73.220:8000/play/a084
+#EXTINF:-1,ETV PLUS - Rs 11
+http://103.61.73.220:8000/play/a0e8
+#EXTINF:-1,EUROSPORT -SD@
+http://103.61.73.220:8000/play/a0gj
+#EXTINF:-1,EUROSPORT HD-Rs 5.50
+http://103.61.73.220:8000/play/a04y
+#EXTINF:-1,Evergreen Classics@
+http://103.61.73.220:8000/play/a0hb
+#EXTINF:-1,FOX Life HD-Rs 2
+http://103.61.73.220:8000/play/a05r
+#EXTINF:-1,FOX Life SD@
+http://103.61.73.220:8000/play/a0gx
+#EXTINF:-1,GEMINI COMEDY-Rs5
+http://103.61.73.220:8000/play/a0ea
+#EXTINF:-1,GEMINI MOVIES-Rs17
+http://103.61.73.220:8000/play/a0eo
+#EXTINF:-1,GEMINI MUSIC-Rs 4
+http://103.61.73.220:8000/play/a0eb
+#EXTINF:-1,Gubbare- Rs 3
+http://103.61.73.220:8000/play/a0b6
+#EXTINF:-1,HISTORY TV18 HD-Rs7
+http://103.61.73.220:8000/play/a059
+#EXTINF:-1,Investigation D-Rs1
+http://103.61.73.220:8000/play/a045
+#EXTINF:-1,J MOVIE@
+http://103.61.73.220:8000/play/a0gn
+#EXTINF:-1,JAYA PLUS@
+http://103.61.73.220:8000/play/a0hg
+#EXTINF:-1,JAYA TV - Rs 3.78
+http://103.61.73.220:8000/play/a0ee
+#EXTINF:-1,Jalsha Movies-SD@
+http://103.61.73.220:8000/play/a0hd
+#EXTINF:-1,JalshaMoviesHD-Rs19
+http://103.61.73.220:8000/play/a092
+#EXTINF:-1,KidsActivRhyme-Rs45
+http://103.61.73.220:8000/play/a0e6
+#EXTINF:-1,KidsActivToons-Rs45
+http://103.61.73.220:8000/play/a0ep
+#EXTINF:-1,Kochu TV - Rs 5
+http://103.61.73.220:8000/play/a0eh
+#EXTINF:-1,MEGA TV - Rs 3
+http://103.61.73.220:8000/play/a0ec
+#EXTINF:-1,MH ONE @
+http://103.61.73.220:8000/play/a0fy
+#EXTINF:-1,MIRROR NOW - 50p
+http://103.61.73.220:8000/play/a09o
+#EXTINF:-1,MN+ HD-Rs 8
+http://103.61.73.220:8000/play/a04b
+#EXTINF:-1,MNX - Rs 5
+http://103.61.73.220:8000/play/a09m
+#EXTINF:-1,MOVIES NOW-Rs10
+http://103.61.73.220:8000/play/a09n
+#EXTINF:-1,MTV - Rs 3
+http://103.61.73.220:8000/play/a061
+#EXTINF:-1,Movies Active@
+http://103.61.73.220:8000/play/a0hc
+#EXTINF:-1,MusicActivHits-Rs45
+http://103.61.73.220:8000/play/a0e7
+#EXTINF:-1,Nat Geo HD-Rs14
+http://103.61.73.220:8000/play/a04e
+#EXTINF:-1,Nat Geo WiLD@
+http://103.61.73.220:8000/play/a0h3
+#EXTINF:-1,Nat Geo-SD@
+http://103.61.73.220:8000/play/a0h1
+#EXTINF:-1,NatGeo Wild HD-Rs8
+http://103.61.73.220:8000/play/a043
+#EXTINF:-1,Nick Jr.- Rs 1
+http://103.61.73.220:8000/play/a063
+#EXTINF:-1,PITAARA-Free
+http://103.61.73.220:8000/play/a0b8
+#EXTINF:-1,PTC MUSIC- Free
+http://103.61.73.220:8000/play/a0fe
+#EXTINF:-1,PTC PUNJABI@
+http://103.61.73.220:8000/play/a0g4
+#EXTINF:-1,PTC Simran- Free
+http://103.61.73.220:8000/play/a06u
+#EXTINF:-1,PTC chakde@
+http://103.61.73.220:8000/play/a0g5
+#EXTINF:-1,PTCPunjabiGold-Free
+http://103.61.73.220:8000/play/a0b7
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.61.73.220:8000/play/a060
+#EXTINF:-1,PravahPicture-Rs2
+http://103.61.73.220:8000/play/a0f0
+#EXTINF:-1,Public Movies-@
+http://103.61.73.220:8000/play/a0g6
+#EXTINF:-1,Public Music-@
+http://103.61.73.220:8000/play/a0g7
+#EXTINF:-1,RANG - Free
+http://103.61.73.220:8000/play/a0dm
+#EXTINF:-1,RENGONI-Free
+http://103.61.73.220:8000/play/a0di
+#EXTINF:-1,Raj  TV@
+http://103.61.73.220:8000/play/a0g0
+#EXTINF:-1,RajMusixKannad@
+http://103.61.73.220:8000/play/a0fz
+#EXTINF:-1,RajMusixMalayalam-Free
+http://103.61.73.220:8000/play/a0de
+#EXTINF:-1,RajMusixTelugu-Free
+http://103.61.73.220:8000/play/a0d4
+#EXTINF:-1,RajNews Telugu-Free
+http://103.61.73.220:8000/play/a0f7
+#EXTINF:-1,RajNews Telugu-Free
+http://103.61.73.220:8000/play/a0d6
+#EXTINF:-1,RajNewsKannada-Free
+http://103.61.73.220:8000/play/a0d0
+#EXTINF:-1,RajNewsMalayalam-Free
+http://103.61.73.220:8000/play/a0dd
+#EXTINF:-1,Romedy NOW-Rs 5
+http://103.61.73.220:8000/play/a09p
+#EXTINF:-1,Russia Today-Free
+http://103.61.73.220:8000/play/a0fc
+#EXTINF:-1,SET HD - Rs 19
+http://103.61.73.220:8000/play/a04x
+#EXTINF:-1,SIRIPPOLI@
+http://103.61.73.220:8000/play/a0go
+#EXTINF:-1,SONIC- Rs 2
+http://103.61.73.220:8000/play/a05z
+#EXTINF:-1,SONY AATH@
+http://103.61.73.220:8000/play/a0gi
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://103.61.73.220:8000/play/a05q
+#EXTINF:-1,SONY MAX HD -Rs 19
+http://103.61.73.220:8000/play/a042
+#EXTINF:-1,SONY PAL - 50p
+http://103.61.73.220:8000/play/a053
+#EXTINF:-1,SONY PIX HD - Rs 19
+http://103.61.73.220:8000/play/a05c
+#EXTINF:-1,SONY SAB HD - Rs 19
+http://103.61.73.220:8000/play/a04s
+#EXTINF:-1,SONY SAB SD@
+http://103.61.73.220:8000/play/a0fs
+#EXTINF:-1,STAR BHARAT HD-Rs 19
+http://103.61.73.220:8000/play/a056
+#EXTINF:-1,STAR JALSHA HD-Rs19
+http://103.61.73.220:8000/play/a070
+#EXTINF:-1,STAR JALSHA@
+http://103.61.73.220:8000/play/a0gl
+#EXTINF:-1,STAR MOVIES HD-Rs19
+http://103.61.73.220:8000/play/a04c
+#EXTINF:-1,SUN MUSIC HD-Rs19
+http://103.61.73.220:8000/play/a071
+#EXTINF:-1,SUN TV HD-Rs 19 
+http://103.61.73.220:8000/play/a06z
+#EXTINF:-1,SURYA HD- Rs 19
+http://103.61.73.220:8000/play/a06s
+#EXTINF:-1,SURYA MOVIES-Rs11
+http://103.61.73.220:8000/play/a0dq
+#EXTINF:-1,ShortsTVActive@
+http://103.61.73.220:8000/play/a0h6
+#EXTINF:-1,Shraddha MH1 - Free
+http://103.61.73.220:8000/play/a0f2
+#EXTINF:-1,Sony Ten 1 HD-Rs19
+http://103.61.73.220:8000/play/a03p
+#EXTINF:-1,Sony Ten 2 HD-Rs19
+http://103.61.73.220:8000/play/a05g
+#EXTINF:-1,Sony Ten 3 HD-Rs19
+http://103.61.73.220:8000/play/a046
+#EXTINF:-1,Sony Ten 4-Rs 17
+http://103.61.73.220:8000/play/a06b
+#EXTINF:-1,Sony Ten 5 HD-Rs19
+http://103.61.73.220:8000/play/a040
+#EXTINF:-1,Sony Wah- 50p
+http://103.61.73.220:8000/play/a0ex
+#EXTINF:-1,Sony Yay- Rs 3
+http://103.61.73.220:8000/play/a0ev
+#EXTINF:-1,SonyBBCearthHD-Rs19
+http://103.61.73.220:8000/play/a05b
+#EXTINF:-1,Sports18 1 HD-Rs10
+http://103.61.73.220:8000/play/a048
+#EXTINF:-1,Star GOLD HD -Rs 19
+http://103.61.73.220:8000/play/a058
+#EXTINF:-1,Star Gold 2- Rs 2
+http://103.61.73.220:8000/play/a05o
+#EXTINF:-1,Star Gold Romance- Rs 2
+http://103.61.73.220:8000/play/a05n
+#EXTINF:-1,Star Gold Thrills- Rs 2
+http://103.61.73.220:8000/play/a05m
+#EXTINF:-1,Star Maa Gold-Rs7
+http://103.61.73.220:8000/play/a06y
+#EXTINF:-1,Star Maa HD - Rs 21
+http://103.61.73.220:8000/play/a06t
+#EXTINF:-1,Star Maa MovHD-Rs 19
+http://103.61.73.220:8000/play/a067
+#EXTINF:-1,Star Maa Music-Rs4
+http://103.61.73.220:8000/play/a0ed
+#EXTINF:-1,Star Plus HD -Rs 19
+http://103.61.73.220:8000/play/a04t
+#EXTINF:-1,Star Pravah HD-Rs19
+http://103.61.73.220:8000/play/a074
+#EXTINF:-1,Star Sports 3-SD@
+http://103.61.73.220:8000/play/a0gp
+#EXTINF:-1,Star Utsav-50p
+http://103.61.73.220:8000/play/a051
+#EXTINF:-1,StarGold SelHD-Rs8
+http://103.61.73.220:8000/play/a05a
+#EXTINF:-1,StarMovieSelHD-Rs19
+http://103.61.73.220:8000/play/a04d
+#EXTINF:-1,StarS1 HindiHD-Rs19
+http://103.61.73.220:8000/play/a041
+#EXTINF:-1,StarSportSL1HD-Rs19
+http://103.61.73.220:8000/play/a05e
+#EXTINF:-1,StarSportSL2HD-Rs10
+http://103.61.73.220:8000/play/a05f
+#EXTINF:-1,StarSports1 HD-Rs19
+http://103.61.73.220:8000/play/a0hm
+#EXTINF:-1,StarSports2 HD-Rs19
+http://103.61.73.220:8000/play/a03o
+#EXTINF:-1,StarSuvarnaHD-Rs19
+http://103.61.73.220:8000/play/a0df
+#EXTINF:-1,Sun Bangla@
+http://103.61.73.220:8000/play/a0gc
+#EXTINF:-1,TARANG MUSIC-Rs 2
+http://103.61.73.220:8000/play/a0er
+#EXTINF:-1,TARANG- Rs 14
+http://103.61.73.220:8000/play/a0eq
+#EXTINF:-1,TLC -SD@
+http://103.61.73.220:8000/play/a0h7
+#EXTINF:-1,TLC HD- Rs3
+http://103.61.73.220:8000/play/a049
+#EXTINF:-1,Telugu Active- Rs 45
+http://103.61.73.220:8000/play/a0ba
+#EXTINF:-1,ThrillerActive@
+http://103.61.73.220:8000/play/a0g3
+#EXTINF:-1,Travelxp- Rs 3
+http://103.61.73.220:8000/play/a09f
+#EXTINF:-1,UDAYA COMEDY-Rs 6
+http://103.61.73.220:8000/play/a0e4
+#EXTINF:-1,UDAYA HD- Rs 19
+http://103.61.73.220:8000/play/a07z
+#EXTINF:-1,UDAYA MOVIES-Rs19
+http://103.61.73.220:8000/play/a0dz
+#EXTINF:-1,UDAYA MUSIC-Rs 5
+http://103.61.73.220:8000/play/a0e1
+#EXTINF:-1,Udaya TV- Rs 19
+http://103.61.73.220:8000/play/a0dy
+#EXTINF:-1,VIJAY HD- Rs 19
+http://103.61.73.220:8000/play/a06o
+#EXTINF:-1,ZEE ACTION-10p
+http://103.61.73.220:8000/play/a0el
+#EXTINF:-1,ZEE ANMOL-10p
+http://103.61.73.220:8000/play/a054
+#EXTINF:-1,ZEE BANGLA HD-Rs 19
+http://103.61.73.220:8000/play/a06m
+#EXTINF:-1,ZEE BANGLA@
+http://103.61.73.220:8000/play/a0gk
+#EXTINF:-1,ZEE BOLLYWOOD-Rs3
+http://103.61.73.220:8000/play/a05p
+#EXTINF:-1,ZEE CINEMA HD-Rs 19
+http://103.61.73.220:8000/play/a055
+#EXTINF:-1,ZEE Cafe HD - Rs10
+http://103.61.73.220:8000/play/a04a
+#EXTINF:-1,ZEE CinemaluHD@
+http://103.61.73.220:8000/play/a0hj
+#EXTINF:-1,ZEE KANNADA-Rs19
+http://103.61.73.220:8000/play/a0e0
+#EXTINF:-1,ZEE KERALAM HD@
+http://103.61.73.220:8000/play/a0hk
+#EXTINF:-1,ZEE Kannada HD@
+http://103.61.73.220:8000/play/a0g9
+#EXTINF:-1,ZEE MARATHI HD-Rs 19
+http://103.61.73.220:8000/play/a06n
+#EXTINF:-1,ZEE TALKIES HD-Rs 19 
+http://103.61.73.220:8000/play/a06l
+#EXTINF:-1,ZEE TAMIL HD - Rs 19
+http://103.61.73.220:8000/play/a06q
+#EXTINF:-1,ZEE TELUGU HD@
+http://103.61.73.220:8000/play/a0hi
+#EXTINF:-1,ZEE TELUGU-Rs 19
+http://103.61.73.220:8000/play/a0eg
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://103.61.73.220:8000/play/a04u
+#EXTINF:-1,Zindagi Active- Rs 66
+http://103.61.73.220:8000/play/a0bb
+#EXTINF:-1,Zoom - 50p
+http://103.61.73.220:8000/play/a065
+#EXTINF:-1,bindass - 10p
+http://103.61.73.220:8000/play/a050
+#EXTINF:-1,colorMarathiHD-Rs17
+http://103.61.73.220:8000/play/a073
+#EXTINF:-1,colors Bangla@
+http://103.61.73.220:8000/play/a0ga
+#EXTINF:-1,colors CINEPLEX-Rs3
+http://103.61.73.220:8000/play/a0f5
+#EXTINF:-1,colors Gujarati@
+http://103.61.73.220:8000/play/a0ft
+#EXTINF:-1,colors SUPER-Rs3
+http://103.61.73.220:8000/play/a0bf
+#EXTINF:-1,colors rishtey-Rs1
+http://103.61.73.220:8000/play/a04z
+#EXTINF:-1,colorsBanglaHD-Rs14
+http://103.61.73.220:8000/play/a072
+#EXTINF:-1,colorsInfintyHD-Rs9
+http://103.61.73.220:8000/play/a05h
+#EXTINF:-1,colorsKannadHD-Rs19
+http://103.61.73.220:8000/play/a06r
+#EXTINF:-1,hungama tv-Rs 1
+http://103.61.73.220:8000/play/a05u
+#EXTINF:-1,nick - Rs 6
+http://103.61.73.220:8000/play/a05w
+#EXTINF:-1,nick HD+- Rs 10
+http://103.61.73.220:8000/play/a05i
+#EXTINF:-1,ramdhenu - Free
+http://103.61.73.220:8000/play/a0dl
