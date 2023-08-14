@@ -160,21 +160,18 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1,banglajagohls
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
+#EXTINF:-1,boishakhi tv
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,boishakhiplus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1,khushboo bangla 
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1,iB tv US
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1,Bangla tv
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1,rongeentv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1,
 
 
