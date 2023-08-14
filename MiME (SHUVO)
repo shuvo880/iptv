@@ -90,9 +90,189 @@ https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u
 
 
-#EXTINF:-1,Pathaan
-http://cds1.discoveryftp.net/Movies/Hindi/2023/Pathaan/Pathaan.2023.1080p.AMZN.WEB-DL.DDP5.1.HEVC-ShiNobi.mkv?md5=lwB_F4jiXirWf2PA_UUkHw&expires=1690198233
 
-
-
+#EXTINF:-1 ,Colors Cineplex HD
+http://103.141.2.37:25461/web/web/547
+#EXTINF:-1 ,Colors
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 ,&PICTURES
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold SD
+http://103.141.2.37:25461/web/web/555
+#EXTINF:-1 ,Star Gold-2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Gold Select HD
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 ,Zee tv
+http://180.178.188.152:8000/play/a00b
+#EXTINF:-1 ,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,&PRIVE HD-Rs 19
+http://103.113.103.249:18001/play/a01e/index.m3u8
+#EXTINF:-1 ,&flix HD-Rs 19
+http://103.113.103.249:18001/play/a01j/index.m3u8
+#EXTINF:-1 ,&pictures HD -Rs 19
+http://103.113.103.249:18001/play/a018/index.m3u8
+#EXTINF:-1 ,24 News HD
+http://103.113.103.249:18001/play/a02p/index.m3u8
+#EXTINF:-1 ,9XM
+http://103.113.103.249:18001/play/a02k/index.m3u8
+#EXTINF:-1 ,ANIMAL PLAN HD-Rs 3
+http://103.113.103.249:18001/play/a012/index.m3u8
+#EXTINF:-1 ,ARYMusik
+http://103.113.103.249:18001/play/a01q/index.m3u8
+#EXTINF:-1 ,ARYNewsAsia
+http://103.113.103.249:18001/play/a01r/index.m3u8
+#EXTINF:-1 ,ARYQTV
+http://103.113.103.249:18001/play/a01p/index.m3u8
+#EXTINF:-1 ,ARYZindagi
+http://103.113.103.249:18001/play/a01n/index.m3u8
+#EXTINF:-1 ,B4U KADAK
+http://103.113.103.249:18001/play/a02b/index.m3u8
+#EXTINF:-1 ,B4U Music
+http://103.113.103.249:18001/play/a02o/index.m3u8
+#EXTINF:-1 ,Big Magic
+http://103.113.103.249:18001/play/a02a/index.m3u8
+#EXTINF:-1 ,CITY
+http://103.113.103.249:18001/play/a02w/index.m3u8
+#EXTINF:-1 ,CITY
+http://103.113.103.249:18001/play/a02v/index.m3u8
+#EXTINF:-1 ,CITY-21
+http://103.113.103.249:18001/play/a02u/index.m3u8
+#EXTINF:-1 ,CITY-41
+http://103.113.103.249:18001/play/a02r/index.m3u8
+#EXTINF:-1 ,CITY-42 HD
+http://103.113.103.249:18001/play/a02q/index.m3u8
+#EXTINF:-1 ,Colors HD-Rs 19
+http://103.113.103.249:18001/play/a01i/index.m3u8
+#EXTINF:-1 ,Dangal 2
+http://103.113.103.249:18001/play/a026/index.m3u8
+#EXTINF:-1 ,Dhinchaak 2
+http://103.113.103.249:18001/play/a02g/index.m3u8
+#EXTINF:-1 ,Discovery HD-Rs6
+http://103.113.103.249:18001/play/a00z/index.m3u8
+#EXTINF:-1 ,Disney Chan-Rs 8
+http://103.113.103.249:18001/play/a00l/index.m3u8
+#EXTINF:-1 ,Disney Jr.-Rs 4
+http://103.113.103.249:18001/play/a00o/index.m3u8
+#EXTINF:-1 ,EUROSPORT HD-Rs 6
+http://103.113.103.249:18001/play/a01l/index.m3u8
+#EXTINF:-1 ,EXP ENTERTAINMENT
+http://103.113.103.249:18001/play/a03a/index.m3u8
+#EXTINF:-1 ,EXP MUSIC
+http://103.113.103.249:18001/play/a039/index.m3u8
+#EXTINF:-1 ,EXP NEWS
+http://103.113.103.249:18001/play/a03b/index.m3u8
+#EXTINF:-1 ,Enter10
+http://103.113.103.249:18001/play/a02f/index.m3u8
+#EXTINF:-1 ,Geo News
+http://103.113.103.249:18001/play/a036/index.m3u8
+#EXTINF:-1 ,Geo Tez
+http://103.113.103.249:18001/play/a037/index.m3u8
+#EXTINF:-1 ,HISTORY TV18 HD-Rs 7
+http://103.113.103.249:18001/play/a014/index.m3u8
+#EXTINF:-1 ,HUM NEWS HD
+http://103.113.103.249:18001/play/a032/index.m3u8
+#EXTINF:-1 ,HUM PASHTO-1
+http://103.113.103.249:18001/play/a035/index.m3u8
+#EXTINF:-1 ,HUM SITARAY
+http://103.113.103.249:18001/play/a034/index.m3u8
+#EXTINF:-1 ,KAABA Live
+http://103.113.103.249:18001/play/a03i/index.m3u8
+#EXTINF:-1 ,MASALA TV
+http://103.113.103.249:18001/play/a033/index.m3u8
+#EXTINF:-1 ,MAX HD -Rs 17
+http://103.113.103.249:18001/play/a00b/index.m3u8
+#EXTINF:-1 ,MN+ HD-Rs 10
+http://103.113.103.249:18001/play/a00v/index.m3u8
+#EXTINF:-1 ,MTV Beats
+http://103.113.103.249:18001/play/a02m/index.m3u8
+#EXTINF:-1 ,Manoranjan Movies
+http://103.113.103.249:18001/play/a029/index.m3u8
+#EXTINF:-1 ,Manoranjan TV
+http://103.113.103.249:18001/play/a02c/index.m3u8
+#EXTINF:-1 ,Masti
+http://103.113.103.249:18001/play/a02n/index.m3u8
+#EXTINF:-1 ,Movie Plus
+http://103.113.103.249:18001/play/a028/index.m3u8
+#EXTINF:-1 ,SONY•SAB HD
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 ,STAR•BHARAT
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 ,SONY•MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,ZEE•ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 ,SONY•MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Colors•Cineplex HD
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 ,MBC Bollywood HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 ,JAYA HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 ,I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 ,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 ,NAT Geo Wild HD-Rs 5
+http://103.113.103.249:18001/play/a00c/index.m3u8
+#EXTINF:-1 ,NAT GEO
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
+#EXTINF:-1 ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,79.Discovery Investigation
+http://168.205.87.198:8555/live/adriana/123456/36.m3u8
+#EXTINF:-1 ,Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 ,MEEM TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 ,COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 ,SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 ,UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 
