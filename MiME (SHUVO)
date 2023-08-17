@@ -92,6 +92,113 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Cineplex HD
+http://103.141.2.37:25461/web/web/547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold SD
+http://103.141.2.37:25461/web/web/555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold-2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MBC Bollywood HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY MAX HD
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT GEO
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hindi TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEEM TV
+http://208.86.19.13:81/502.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Law and Crime Network
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+
+
+
 
 
 
