@@ -88,6 +88,17 @@ https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u
 
 
+#EXTINF:-1,ZeeBanglaHD
+http://10.16.100.206:8080/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1,Colors Cineplex HD
+http://103.141.2.37:25461/web/web/547
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
 
 
 
