@@ -204,9 +204,9 @@ http://103.141.2.37:25461/web/web/615
 http://103.141.2.37:25461/web/web/618
 #EXTINF:-1,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 
 
