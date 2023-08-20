@@ -208,5 +208,157 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1,ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
-
+#EXTINF:-1,ViaPlay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1,JAGO_ATN Music [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1,JAGO_ATN Islam [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1,JAGO_NRB IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1,JAGO_Nan IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1,JAGO_CHANNEL S [UK] [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1,Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1,Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1,Mim TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1,boishakhi tv plus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1,
+#EXTINF:-1,ZEE CINEMA HD
+http://103.141.2.37:25461/web/web/545
+#EXTINF:-1,STAR PLUS HD
+http://103.141.2.37:25461/web/web/546
+#EXTINF:-1,COLOR CINEPLEX HD
+http://103.141.2.37:25461/web/web/547
+#EXTINF:-1,SONY
+http://103.141.2.37:25461/web/web/551
+#EXTINF:-1,SONY MAX HD
+http://103.141.2.37:25461/web/web/552
+#EXTINF:-1,ZEE TV HD
+http://103.141.2.37:25461/web/web/553
+#EXTINF:-1,STAR GOLD THRILLS
+http://103.141.2.37:25461/web/web/555
+#EXTINF:-1,9XM
+http://103.141.2.37:25461/web/web/557
+#EXTINF:-1,ROMEDY NOW
+http://103.141.2.37:25461/web/web/560
+#EXTINF:-1,SONY PIX HD
+http://103.141.2.37:25461/web/web/561
+#EXTINF:-1,MOVIES NOW HD
+http://103.141.2.37:25461/web/web/562
+#EXTINF:-1,STAR MOVIES HD
+http://103.141.2.37:25461/web/web/563
+#EXTINF:-1,SONY EARTH HD
+http://103.141.2.37:25461/web/web/564
+#EXTINF:-1,MNX HD
+http://103.141.2.37:25461/web/web/565
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.141.2.37:25461/web/web/566
+#EXTINF:-1,DISCOVERY HD
+http://103.141.2.37:25461/web/web/567
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://103.141.2.37:25461/web/web/568
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.141.2.37:25461/web/web/569
+#EXTINF:-1,MN+ HD
+http://103.141.2.37:25461/web/web/571
+#EXTINF:-1,BBC NEWS 
+http://103.141.2.37:25461/web/web/573
+#EXTINF:-1,MNX HD
+http://103.141.2.37:25461/web/web/574
+#EXTINF:-1,ROMEDYNOW
+http://103.141.2.37:25461/web/web/575
+#EXTINF:-1,NO SIGNALS
+http://103.141.2.37:25461/web/web/576
+#EXTINF:-1,SONY SPORTS 5 HD
+http://103.141.2.37:25461/web/web/577
+#EXTINF:-1,STAR SPORTS 3
+http://103.141.2.37:25461/web/web/578
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://103.141.2.37:25461/web/web/579
+#EXTINF:-1,STAR SPORTS 1 HD
+http://103.141.2.37:25461/web/web/580
+#EXTINF:-1,STAR SPORTS 2 HD
+http://103.141.2.37:25461/web/web/581
+#EXTINF:-1,SONY SPORTS 3
+http://103.141.2.37:25461/web/web/582
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
+http://103.141.2.37:25461/web/web/583
+#EXTINF:-1,SONY SPORTS 2HD
+http://103.141.2.37:25461/web/web/584
+#EXTINF:-1,SINY SPORTS 1 HD
+http://103.141.2.37:25461/web/web/585
+#EXTINF:-1,SUN BANGLA
+http://103.141.2.37:25461/web/web/589
+#EXTINF:-1,INDEPENDENT
+http://103.141.2.37:25461/web/web/590
+#EXTINF:-1,SONY 8
+http://103.141.2.37:25461/web/web/591
+#EXTINF:-1,GTV HD
+http://103.141.2.37:25461/web/web/592
+#EXTINF:-1,TRAVELXP HD
+http://103.141.2.37:25461/web/web/593
+#EXTINF:-1,CHANNEL-I
+http://103.141.2.37:25461/web/web/595
+#EXTINF:-1,MAASRANGA
+http://103.141.2.37:25461/web/web/596
+#EXTINF:-1,SOMOY
+http://103.141.2.37:25461/web/web/597
+#EXTINF:-1,ZEE BAN CINEMA
+http://103.141.2.37:25461/web/web/598
+#EXTINF:-1,COLORS BAN CINEMA
+http://103.141.2.37:25461/web/web/599
+#EXTINF:-1,JALSHA MOVIE HD
+http://103.141.2.37:25461/web/web/600
+#EXTINF:-1,COLORS BANGLA HD
+http://103.141.2.37:25461/web/web/601
+#EXTINF:-1,ZEE BANGLA HD
+http://103.141.2.37:25461/web/web/602
+#EXTINF:-1,STAR JALSHA HD
+http://103.141.2.37:25461/web/web/603
+#EXTINF:-1,CHANNEL-S
+http://103.141.2.37:25461/web/web/604
+#EXTINF:-1,ENTERR10 BANGLA
+http://103.141.2.37:25461/web/web/606
+#EXTINF:-1,ATM BANGLA
+http://103.141.2.37:25461/web/web/612
+#EXTINF:-1,NICK
+http://103.141.2.37:25461/web/web/615
+#EXTINF:-1,MADANI
+http://103.141.2.37:25461/web/web/618
+#EXTINF:-1,STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,ViaPlay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1,JAGO_ATN Music [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1,JAGO_ATN Islam [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1,JAGO_NRB IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1,JAGO_Nan IPTV [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1,JAGO_CHANNEL S [UK] [BD]
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1,Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1,Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF:-1,Mim TV
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF:-1,boishakhi tv plus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 
