@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,sports 1
+http://10.16.100.215:8082/hls/sportsLive1.m3u8
+#EXTINF:-1,sport 2
+http://10.16.100.207:8088/hls/sports1hD.m3u8
+
 #EXTINF:-1,Madani_Tv
 http://100.64.64.11/Madani_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Global_Tv
