@@ -100,7 +100,7 @@ http://10.16.100.206:8080/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1,Colors Cineplex HD
 http://103.141.2.37:25461/web/web/547
 #EXTINF:-1,SonyMaxHD
-http://103.141.2.37:25461/web/web/552
+http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1,DISCOVERY HD
 http://103.141.2.37:25461/web/web/540
 #EXTINF:-1,&PICTURESHD
