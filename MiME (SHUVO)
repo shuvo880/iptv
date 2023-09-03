@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,sports 1
-http://10.16.100.215:8082/hls/sportsLive1.m3u8
+http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,sport 2
 http://10.16.100.207:8088/hls/sports1hD.m3u8
 #EXTINF:-1,sport 3
