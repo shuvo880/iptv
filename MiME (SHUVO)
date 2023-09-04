@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1,sports 1
+http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,Madani_Tv
 http://100.64.64.11/Madani_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Global_Tv
