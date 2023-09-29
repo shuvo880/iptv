@@ -163,8 +163,6 @@ http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
 
 
 
-#EXTINF:-1,sports 1
-http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1,SonyMaxHD
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1,SONY 8
