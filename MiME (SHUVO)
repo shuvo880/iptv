@@ -82,6 +82,24 @@ http://100.64.64.11/Ekhon_Tv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1,Colore Bangla Cinema
+http://172.21.22.2:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Colors Bangla
+http://172.21.22.2:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,JalshaMovies
+http://172.21.22.2:8082/jalshamovies/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,StarJalsha
+http://172.21.22.2:8082/starjalsha/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,SonyAath
+http://172.21.22.2:8082/Sony_Aath/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Enterr10 Bangla
+http://172.21.22.2:8082/enterr10/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,SunBangla
+http://172.21.22.2:8082/sunbangla/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,ZeeBangla
+http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,ZeeBangla Cinema
+http://172.21.22.2:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?token=test
 
 
 
