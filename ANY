@@ -71,36 +71,6 @@ http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://sunplex.net/iptv/logo/DISCOVERY.jpg" group-title="",DISCOVERY
 http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://sunplex.net/iptv/logo/AXN.jpg" group-title="",AXN HD
-http://172.32.1.88:1935/tvprogram/AXN-HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://sunplex.net/iptv/logo/HBO.jpg" group-title="",HBO
-http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="",SONY AATH
-http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="",SONY HD
-http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="",SETMAX HD
-http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="",SONY PIX HD
-http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sports Live" tvg-logo="https://sunplex.net/iptv/logo/SPORTS-LIVE.jpg" group-title="",Sports Live
-http://stream.sunplex.live/SPORTS-LIVE/index.m3u8
-
-#EXTINF:-1 tvg-name="SONY Sports Ten 1 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="",SONY Sports Ten 1 HD
-http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY Sports Ten 2 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="",SONY Sports Ten 2 HD
-http://172.32.1.88:1935/tvprogram/SONY-SPORTSTEN2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY Sports Ten 3 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="",SONY Sports Ten 3 HD
-http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
-
 
 
 
