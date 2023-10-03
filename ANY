@@ -101,63 +101,6 @@ http://172.32.1.88:1935/tvprogram/SONY-SPORTSTEN2HD/playlist.m3u8
 #EXTINF:-1 tvg-name="SONY Sports Ten 3 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="",SONY Sports Ten 3 HD
 http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SONY Sports Ten 5 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="",SONY Sports Ten 5 HD
-http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Skynet Sports HD" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="",Skynet Sports HD
-http://stream.sunplex.live/SKY-NET-HD/index.m3u8
-
-#EXTINF:-1 tvg-name="Skynet Sports 1" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" group-title="",Skynet Sports 1
-http://stream.sunplex.live/SKY-NET-1/index.m3u8
-
-#EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="",Skynet Sports 2
-http://stream.sunplex.live/SKY-NET-2/index.m3u8
-
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://sunplex.net/iptv/logo/select-1-hd.jpg" group-title="",Star Sports Select 1 HD
-http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://sunplex.net/iptv/logo/rock-action.jpg" group-title="",Rock Action
-http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="",SONY MAX 2
-http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="",SONY SAB HD
-http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/BBC-Lifestyle.jpg" group-title="",BBC Lifestyle
-http://172.32.1.88:1935/tvprogram/BBC-Lifestyle/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
-http://172.32.1.88:1935/tvprogram/DD-BANGLA/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="https://sunplex.net/iptv/logo/bbc-world-news.jpg" group-title="",BBC WORLD NEWS
-http://172.32.1.88:1935/tvprogram/BBC-WORLD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="",Aljazeera HD
-http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://sunplex.net/iptv/logo/CNN.jpg" group-title="",CNN
-http://172.32.1.88:1935/tvprogram/CNN/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://sunplex.net/iptv/logo/BBC-EARTH.jpg" group-title="",BBC EARTH HD
-http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Bangladeshi",DURONTO TV
-http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://sunplex.net/iptv/logo/CBeebies.jpg" group-title="",CBeebies
-http://172.32.1.88:1935/tvprogram/CBeebies/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://sunplex.net/iptv/logo/Animax.jpg" group-title="",Animax
-http://172.32.1.88:1935/tvprogram/Animax/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="Bangladeshi",GAAN BANGLA
-http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",DW
-http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
-
 
 
 
