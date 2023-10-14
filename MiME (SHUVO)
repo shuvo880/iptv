@@ -1,12 +1,14 @@
 #EXTM3U
 #MiME
 
+#EXTINF:-1,GTV_HD
+http://100.64.64.11/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,tsports
+http://100.64.64.11/tsportstowkaiinternal_HD/index.m3u8
 #EXTINF:-1,Madani_Tv
 http://100.64.64.11/Madani_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Global_Tv
 http://100.64.64.11/Global_Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tsports
-http://100.64.64.11/tsportstowkaiinternal_HD/index.m3u8
 #EXTINF:-1,Asian_TV_HD
 http://100.64.64.11/Asian_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ananda_TV_SD
@@ -67,8 +69,6 @@ http://100.64.64.11/SA_TV_HD/tracks-v1a1/mono.m3u8
 http://100.64.64.11/Somoy_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sangshad_TV_SD
 http://100.64.64.11/Sangshad_TV_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GTV_HD
-http://100.64.64.11/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_National
 http://100.64.64.11/BTV_National/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_Chattogram
