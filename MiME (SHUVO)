@@ -28,7 +28,7 @@ http://100.64.64.11/Boishakhi_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_World_SD
 http://100.64.64.11/BTV_World_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel_24_HD
-http://100.64.64.11/Channel_24_HD/tracks-v1a1/mono.m3u8
+
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,Channel_9_HD
