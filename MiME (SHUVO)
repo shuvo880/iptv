@@ -1,4 +1,9 @@
 #EXTM3U
+
+
+
+#EXTINF:-1,Sports
+http://172.16.29.28/hls/sports3.m3u8
 #MiME
 
 #EXTINF:-1,GTV_HD
