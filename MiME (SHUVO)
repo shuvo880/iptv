@@ -294,6 +294,9 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpfvHxj/Picsart231009201330555100x100.jpg" group-title="Kolkata Drama Channels",Stra Jalsha Link 2
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
+#EXTINF:-1, SONY AAT
+https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8?hdnts=st=1700490932~exp=1700534132~acl=/*~data=45.61.146.183-WEB~hmac=25194c3da54526bc20238cf65bac1051f3c267669f8ab7b956ed9bc912d3edf2
+
 
 
 
