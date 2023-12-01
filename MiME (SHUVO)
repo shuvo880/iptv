@@ -99,16 +99,10 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/C
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
 #EXTINF:-1,Colors_Cineplex
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/Colors_Cineplex_Bollywood_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
-#EXTINF:-1,Andtv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,andtvhd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,Andpictureshd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1,Andpictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,Plex_SonyKAL
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/67f44473-c0ad-4815-95dc-dcd4cae00c7a/5.m3u8
 
 
 
@@ -293,9 +287,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-aud
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpfvHxj/Picsart231009201330555100x100.jpg" group-title="Kolkata Drama Channels",Stra Jalsha Link 2
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-
-#EXTINF:-1, SONY AAT
-https://madflix.live/jio/app/lived77aa6115ae3aaf474cc4ababeac34f5d39f9d1bace8e21c592c6f4604a04a341a6fb2858a35751446a860e69cac24a1cf0e32023f6794ce473801e7525d96faa09479bf626c9c3d466b3613b8ba0388/697/Sony_aath/8d2ea0ccd63a6042f8681b9990b48636a7c76d83bdb7c81ffd6215c1ffebf8c4c1a1b608c7c1d61906dd40bbbaef99bc1728d92ce104f44d0cf60b102e4676166cbd54266bce24f265b7dcf135b4e5c6dafeac9fc7ca09cbdcc32833b9760da56502715e48178149a19b61b8f96317a950f9f18ee820406b280be955b5dd4ee0207e60dad52ec749ab7a4985c3c65763b51336e01ebed17e1f84979d241c9bde_playlist.m3u8
 
 
 
