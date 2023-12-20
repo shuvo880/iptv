@@ -109,6 +109,9 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 
 #EXTINF:-1,Colors_HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=1173600.m3u8
+#EXTINF:-1 resolution="1920@1080",Colors_Cineplex
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_131636_eng=131600-video=4132800.m3u8
+
 #EXTINF:-1,Colors_Cineplex
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
 #EXTINF:-1,Colors_Rishtey
@@ -122,7 +125,60 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482
 #EXTINF:-1,Andpictureshd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
 
-
+#EXTINF:-1 resolution="1280@720",zeecinemahd
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 resolution="1920@1080",bollywood-hd
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/c73a03d0-a4b6-4a56-88a3-4f1a52fbc41b/0.m3u8
+#EXTINF:-1 resolution="1920@1080",bollywood-classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/b5e9358f-7327-4df1-b3e8-a75a2988c24b/0.m3u8
+#EXTINF:-1 resolution="720@404",bandwidth
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/b1a1501a-23ff-4084-baaa-edc0d5db76e6:TPE2/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
+#EXTINF:-1 resolution="1920@1080",shemabollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563d1e786c648a84cd3d78d3f262eba65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600866412065ca19df0706b6a963b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0c8b762095a9de7144220806c3084d86f108f2bdb84240db6bbfb21a5a817d42b18142c8d24ea689825a995e8777a44180c0a6de860dd4d3c26bfc06e3655b08737fab6818f9bd35234eb3135bbe556a2c3c54e8a49fff4a39954f3133929dea8c15349753eb5fe54124b201e224ec894143d86c83e94fabacf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72db997cc2e9f81fba737842f5d9c3158fc25ff0dc47d4e4394d6a80f941ea48749a48f9571dbc5c843734006cb878434e68a74eab9b22ff21dc73a9f4c040365669a2805cc88ad811652c1fc6c872dd1d0ea180cba2d10a29c5691f1ab932821b283e9d643d57b20cded37c4d993606800238f9733c940da9eb7bbbf48da54e109deaea6eb32fe3bc01d7b625ac6e37564bf3d1244d4a41789fbf345d7e298d13b48a93af235a40c1f8cff7cc5678343811531e82adb223ccc0937f6f7bab34076e7002189f00a40b8e52334544a02ec1a307608a32242e94ce0f4f556282c7858484acaf69e72e839ebf5f1b3a5b6fb8270f443d81aeecc123dc74d2be0c4cd6cf30d9263a8700/32/1920x1080_5058864/index.m3u8
+#EXTINF:-1 resolution="1920@1080",MTV_Beats_HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:-1 resolution="854@480",Musicindia
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 resolution="704@396",9xmusic
+https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
+#EXTINF:-1 resolution="1280@720",Mastiiii
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/654abb47-4a33-4c68-8a79-fe96ba535430/2.m3u8
+#EXTINF:-1 resolution="854@480",9Xjalwa
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 resolution="854@480",Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 resolution="854@480",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 resolution="1920@1080",MTV_HD_Plus
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/MTV_HD_Plus_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:-1 resolution="1280@720",epic
+https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+#EXTINF:-1 resolution="1920@1080",yrfmusic
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/6037c821-fe13-4184-913f-3661ad388c96/0.m3u8
+#EXTINF:-1 resolution="1920@1080",Sonic_Nickelodeon
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB-audio_98835_hin=98800-video=2600000.m3u8
+#EXTINF:-1 resolution="720@576",Discovery Kids
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
+#EXTINF:-1 resolution="1920@1080",Discovery HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 resolution="720@576",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 resolution="1920@1080",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
+#EXTINF:-1 resolution="704@396",Manoranjan Grand
+https://yuppftalive.akamaized.net/080823/manoranjangrand/chunks.m3u8
+#EXTINF:-1 resolution="704@396",Manoranjan TV
+https://yuppftalive.akamaized.net/080823/manoranjantv/chunks.m3u8
+#EXTINF:-1 resolution="1920@1080",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+#EXTINF:-1 resolution="1920@1080",Bein Sports 1
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 resolution="1920@1080",Bein Sports Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/94781d82-e58c-470f-bc84-b4a71a161d3c/2.m3u8
+#EXTINF:-1 resolution="960@540",Viaplay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/f28c9b08-e7a1-4dc3-9989-8b9583caa365/1.m3u8
+#EXTINF:-1 resolution="1920@1080",RTA Sport
+https://hls.rtasport.live/hls/stream.m3u8
 
 
 #EXTINF:-1,SUNBANGLA CINEMA
