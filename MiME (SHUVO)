@@ -183,3 +183,84 @@ https://hls.rtasport.live/hls/stream.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 resolution="1280@720",ToonzKidz
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/8bf3b3e1-f342-4ed6-9120-88190fccffcc/2.m3u8
+#EXTINF:-1 resolution="1280@720",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 resolution="1920@1080",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_1.m3u8
+#EXTINF:-1 resolution="1920@1080",Best Action TV
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/301ab0de-858d-4f02-ba01-806f110c5a43/2.m3u8
+#EXTINF:-1 resolution="1920@1080",Best Thriller TV
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/23a000a0-b3ee-456b-b2e8-f402f9f31fb0/0.m3u8
+#EXTINF:-1,Star Movies
+https://edge2.laotv.la/live/StarMovie/sc-gaFECQ/a1_index.m3u8
+#EXTINF:-1 resolution="1920@1080",Clubbing TV
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/Clubbing_TV_voot_MOB-audio_98835_hin=98800-video=2600000.m3u8
+#EXTINF:-1,Boomerang
+https://edge2.laotv.la/live/Boomerang/sc-gaFECQ/a1_index.m3u8
+#EXTINF:-1 resolution="1920@1080",Nick Junior
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/Nick_Junior_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
+#EXTINF:-1 resolution="1920@1080",Colors Infinity HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/Colors_Infinity_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:-1 resolution="1920@1080",Comedy Central HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+#EXTINF:-1 resolution="854@480",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 resolution="1280@720",HGTV
+https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_15.m3u8
+#EXTINF:-1 resolution="720@576",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_11.m3u8
+#EXTINF:-1 resolution="1280@720",DMAX
+https://food-dlvr-ott.akamaized.net/primary/2/07543219680b429fa16f1f5796eda058/index_21.m3u8
+#EXTINF:-1 resolution="960@540",Discovery HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
+#EXTINF:-1 resolution="1280@720",TRVL Channel
+https://food-dlvr-ott.akamaized.net/primary/3/76c422fdc309498c9e66920149d0c7c4/index_14.m3u8
+#EXTINF:-1 resolution="960@540",Investigation Discovery
+https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_13.m3u8
+#EXTINF:-1 resolution="1280@720",Xplore
+https://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 resolution="1280@720",Wild Earth
+https://wildearth-plex.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 resolution="1280@720",Now 9
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 resolution="720@576",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_10.m3u8
+#EXTINF:-1 resolution="1280@720",Food Network
+https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_16.m3u8
+#EXTINF:-1 resolution="854@480",Universal Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/5ec9551c-c2ee-4c85-a059-a0ce2061f07d/1.m3u8
+#EXTINF:-1 resolution="1280@720",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb563d1e786c648a84cd3d78d3f362eba65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600866412065ca19df0706b6a963b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0c8b762095a9de7144220806c3084d86f108f2bdb84240db6bbfb21a5a812944b38443cdd149a6d1d55cc85e8777a44180c3f68e820d87d39331a152e0650a01722bab6818f9bd35234eb3135bbe556a2c3c54e8a49fff4a39954f3133929dea8c15349753eb5fe54124b201e224ec894143d86c83e94fabacf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72db997cc2e9f81fba737842f5d9c3158fc25ff0dc47d4e4394d6a80f941ea48749a48f9571dbc5c843734006cb878434e68a74eab9b22ff21dc73a9f4c040365669a2805cc88ad811652c1fc6c872dd1d0ea180cba2d10a29c5691f1ab932821b283e9d643d57b20cded37c4d993606800238f9733c940da9eb7bbbf48da54e109deaea6eb32fe3bc01d7b625ac6e37564bf3d1244d4a41789fbf345d7e298d13b48a93af235a40c1f8cff7cc5678343811531e82adb223ccc0937f6f7bab34076e7002189f00a40b8e52334544a02ec1a307608a32242e94ce0f4f556282c7858484acaf69e72e839ebf5f1b3a5b6fb8270f453f84e7953824c2d800e19a25edfa0f5ab3d9bf5469/171/1280x720_2657600/index.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Highway Thru Hell Channel
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Zen
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 resolution="1280@720",Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Thats Funny
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Romatique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Fear This
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 resolution="1280@720",Local Now Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist_1280x720_m.m3u8
+#EXTINF:-1 resolution="1920@1080",Zoo Moo HD
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 resolution="1920@1080",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 resolution="1920@1080",Nick HD Plus
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/Nick_HD_Plus_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
