@@ -127,6 +127,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 
 
+#biscope
 #EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="BAN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title=Bioscope Playlist by t.me/bdixtv24", LiveSportsLinksOfficial
 https://video.twimg.com/amplify_video/1740038056349196288/pl/avc1/1280x720/mp4a/128000/LQ3ypfsErbL09WDn.m3u8?container=fmp4&tag=14
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Somoy TV
@@ -253,7 +254,6 @@ http://api.techpriyo.com/bio.php?id=mtv-beats|User-Agent=bdixtv24
 http://api.techpriyo.com/bio.php?id=vh1|User-Agent=bdixtv24
 #EXTINF:-1 tvg-id="65" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Yay
 http://api.techpriyo.com/bio.php?id=sony-yay-live|User-Agent=bdixtv24
-
 
 
 
