@@ -4,10 +4,6 @@
 
 #MiME
 
-#EXTINF:-1,GTV_HD
-http://100.64.64.11/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tsports
-http://100.64.64.11/tsportstowkaiinternal_HD/index.m3u8
 #EXTINF:-1,Madani_Tv
 http://100.64.64.11/Madani_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Global_Tv
@@ -121,6 +117,12 @@ https://yuppftalive.akamaized.net/080823/khushboobangla/chunks.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1,SUNBANGLA CINEMA
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1,Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1,COLORS BANGLA HD
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1,StarMovie
+https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1_index.m3u8
 
 
 
