@@ -108,7 +108,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audi
 #EXTINF:-1 resolution="854@480",zeebanglacinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 resolution="426@240",enterr10 bangla
-https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 #EXTINF:-1 resolution="1280@720",tv9 bangla
 https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/392cdd16-05ef-4ac9-b644-123787921a74/3.m3u8
 #EXTINF:-1 resolution="1920@1080",Colors_Bangla_HD
@@ -124,136 +124,6 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 
 
-
-
-
-#biscope
-#EXTINF:-1 tvg-id="1" tvg-name="LiveSportsLinksOfficial" tvg-country="BAN" tvg-logo="https://telegra.ph/file/ab229fc12e3cc674619b3.jpg" tvg-chno="1" group-title=Bioscope Playlist by t.me/bdixtv24", LiveSportsLinksOfficial
-https://video.twimg.com/amplify_video/1740038056349196288/pl/avc1/1280x720/mp4a/128000/LQ3ypfsErbL09WDn.m3u8?container=fmp4&tag=14
-#EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Somoy TV
-http://api.techpriyo.com/bio.php?id=somoy-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="2" tvg-name="Sony Sports Ten 1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 1
-http://api.techpriyo.com/bio.php?id=sony-ten-1-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="3" tvg-name="Sony HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b5ee0f7-d26a-45b5-94a1-24b7ec1421f0/74b936f0-12b0-487f-bccf-71f71031ec66.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony HD
-http://api.techpriyo.com/bio.php?id=sony-hd-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="4" tvg-name="Sony Sports Ten 5" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 5
-http://api.techpriyo.com/bio.php?id=sony-ten-5|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="5" tvg-name="Sony MAX HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony MAX HD
-http://api.techpriyo.com/bio.php?id=sony-max-hd-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="6" tvg-name="Sony Sports Ten 2" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 2
-http://api.techpriyo.com/bio.php?id=sony-ten-2-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="7" tvg-name="Sony Sports Ten 3" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 3
-http://api.techpriyo.com/bio.php?id=sony-ten-3-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="8" tvg-name="Zee Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Zee Bangla
-http://api.techpriyo.com/bio.php?id=zee-bangla|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="9" tvg-name="Colors Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2d207502-d828-4c9e-a53d-5091b91470e0/561a542e-8ea9-4b34-ac4c-18b3dc19f2f3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Colors Bangla
-http://api.techpriyo.com/bio.php?id=colors-bangla|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="10" tvg-name="NTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",NTV
-http://api.techpriyo.com/bio.php?id=ntv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="11" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Wah
-http://api.techpriyo.com/bio.php?id=sony-wah-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="12" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ekattor TV
-http://api.techpriyo.com/bio.php?id=ekattur-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="13" tvg-name="Rajdhani TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Rajdhani TV
-http://api.techpriyo.com/bio.php?id=rajdhani-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="14" tvg-name="Zee Bollywood" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Zee Bollywood
-http://api.techpriyo.com/bio.php?id=zee-bollywood|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="15" tvg-name="Channel 24" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Rajdhani TV
-http://api.techpriyo.com/bio.php?id=channel-24|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="16" tvg-name="Colors Asia" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/144db557-f209-49fe-ba87-92f554ab325c/3a09ab22-3aa4-44fa-a950-b2d9390163da.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Colors Asia
-http://api.techpriyo.com/bio.php?id=colors-asia|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="17" tvg-name="Zee Cinema HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Zee Cinema HD
-http://api.techpriyo.com/bio.php?id=zee-cinema-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="18" tvg-name="RTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",RTV
-http://api.techpriyo.com/bio.php?id=rtv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="19" tvg-name="Bangla Vision" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e29634d1-25f0-455e-b24f-66568c17845c/31d65e04-de18-4287-afbd-255903ecc2c7.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Bangla Vision
-http://api.techpriyo.com/bio.php?id=bangla-vision|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="20" tvg-name="Sony Aath" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a15c6418-e6b3-424d-a401-071c2b7a7752/564026c6-1ffd-45b8-8614-c03dc46eabeb.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Aath
-http://api.techpriyo.com/bio.php?id=sony-aath-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="21" tvg-name="Channel I" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Channel I
-http://api.techpriyo.com/bio.php?id=channel-i|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="22" tvg-name="Comedy Central" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/0293d035-9b77-4d7d-8274-6ae9fa2ceb7f/27a5dcbd-8c0d-42f0-b32e-4821a5c9ffcc.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Comedy Central
-http://api.techpriyo.com/bio.php?id=comedy-central|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="23" tvg-name="Boishakhi Television" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a2dc3ab-3f2e-4508-93e6-0f76fe090228/75f82d30-06b2-46a0-aa15-483058e0e482.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Boishakhi Television
-http://api.techpriyo.com/bio.php?id=boishakhi-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="24" tvg-name="Independent TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Independent TV
-http://api.techpriyo.com/bio.php?id=independent-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="25" tvg-name="ATN Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0242c14-04df-4e2e-9e22-0e577839ce12/47490942-bd2d-4c40-94a0-5656c4a763b7.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",ATN Bangla
-http://api.techpriyo.com/bio.php?id=atn-bangla|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="26" tvg-name="Asian TV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Asian TV HD
-http://api.techpriyo.com/bio.php?id=asian-tv-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="27" tvg-name="Bangla TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Bangla TV
-http://api.techpriyo.com/bio.php?id=bangla-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="28" tvg-name="Saudi Quran" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/96ac36ef-72c2-4b4c-971f-bff70b261bc6/bab0e03a-46ef-48f3-bac1-6ccf894f9538.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Saudi Quran
-http://api.techpriyo.com/bio.php?id=sudi-quran|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="29" tvg-name="Ananda TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f18423a6-1fa1-4d67-ade6-24b3a0bc5001/7e4cc4f0-6654-4e35-aa16-05e77eedb092.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ananda TV
-http://api.techpriyo.com/bio.php?id=ananda-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="30" tvg-name="Nexus Television HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Nexus Television HD
-http://api.techpriyo.com/bio.php?id=nexus-television-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="31" tvg-name="Ekushey TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/46aff9ff-495f-496a-9afb-7becd7cf4b83/0f56df70-0311-49bd-a203-72bea071cea6.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ekushey TV
-http://api.techpriyo.com/bio.php?id=ekushey-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="32" tvg-name="BTV World" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BTV World
-http://api.techpriyo.com/bio.php?id=btv-world|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="33" tvg-name="Sangsad TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20923e29-ea03-4d63-b31e-eb26e77465ae/340a2a0f-5bb1-430f-a316-6e4c2a9e7bda.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sangsad TV
-http://api.techpriyo.com/bio.php?id=sangsad-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="34" tvg-name="BTV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0d33074-ff46-42fc-a620-a791b6abb04d/e73e8b3d-630a-4792-bf0c-6dc3510937b5.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BTV HD
-http://api.techpriyo.com/bio.php?id=btv-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="35" tvg-name="Al Jazeera" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/dab2d561-ef54-40dd-9650-43dee09b92d0/29f2064c-f8a5-41ac-8a82-b5d7135b99b1.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Al Jazeera
-http://api.techpriyo.com/bio.php?id=al-jazeera-english-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="36" tvg-name="Global TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/56fa3129-679c-45e6-ab9c-ba3ee95b5853/dda03273-bec9-490e-8ad5-3e318221dbc8.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Global TV
-http://api.techpriyo.com/bio.php?id=global-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="37" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3ffb1ec8-6553-4130-b63f-aac838c014a4/51e0aaee-7f68-4f9b-b404-5a40e51e9596.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Ekhon TV
-http://api.techpriyo.com/bio.php?id=ekhon-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="41" tvg-name="Bijoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/475ebdaa-6f12-4238-9bf4-0270d63ff340/01261017-8d27-4e85-8a02-157551d91289.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Bijoy TV
-http://api.techpriyo.com/bio.php?id=bijoy-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="42" tvg-name="DW" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b1067a5-7c9d-442f-afa7-5f8eecda9258/527b6507-7a6f-494f-843b-e0b5fb5248b4.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",DW
-http://api.techpriyo.com/bio.php?id=dw-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="43" tvg-name="Jamuna TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/481332d4-1a8f-4d79-9928-f0f5f891d14c/9f8bfabe-ee88-4027-923e-77f7f3eeaec9.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Jamuna TV
-http://api.techpriyo.com/bio.php?id=jamuna-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="44" tvg-name="Lotus Macau" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c2c7d2f5-25ff-4fa5-ad9a-7222f0f53929/73ae6cdb-7d43-4840-b78c-2106d3d00c4a.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Lotus Macau
-http://api.techpriyo.com/bio.php?id=lotus-macau-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="45" tvg-name="News 24 HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c70be28f-95ff-4daa-b432-300795099919/f0a5fda1-19ab-438a-a391-702e70c52f17.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",News 24 HD
-http://api.techpriyo.com/bio.php?id=news-24-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="46" tvg-name="DBC News" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",DBC News
-http://api.techpriyo.com/bio.php?id=dbc-news|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="47" tvg-name="Sony Pix" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0860fc1-7dc4-42dc-acbd-51ec4c3a97f2/26f092d0-b009-46b4-ad34-f7b6d9c20a13.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Pix
-http://api.techpriyo.com/bio.php?id=sony-pix-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="48" tvg-name="SA TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",SATV
-http://api.techpriyo.com/bio.php?id=sa-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="49" tvg-name="Sony SAB TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony SAB TV
-http://api.techpriyo.com/bio.php?id=sony-sab-tv-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="50" tvg-name="Mohona TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3437aec4-f99a-4802-8633-c0267d7cce21/b81ab70e-f47f-4c1a-82f3-db5d7c2acd3b.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Mohonta TV
-http://api.techpriyo.com/bio.php?id=mohona-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="51" tvg-name="BBC Earth HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2fe644f3-bf5f-4b81-86f0-ee989252c9d9/16b21868-911e-438b-b2c4-de04438b18d3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",BBC Earth HD
-http://api.techpriyo.com/bio.php?id=bbc-earth-hd-live|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="52" tvg-name="My TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/7d1c5d3f-449d-4bf5-9a7e-ab8079ebecd4/11e79c92-ff02-4fcd-be6d-7f3023b157b8.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",My TV
-http://api.techpriyo.com/bio.php?id=my-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="53" tvg-name="Sony Pal" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e0aa7349-6c5a-4635-96e2-caa5c535e961/10116794-5177-49f6-89ac-979a7dd9f904.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Pal
-http://api.techpriyo.com/bio.php?id=sony-pal|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="54" tvg-name="MAX 2" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b8889e85-bc30-4fbc-8a8d-76fb798534eb/104bc03f-1390-4257-b8e9-70aa76a150d3.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",MAX 2
-http://api.techpriyo.com/bio.php?id=max-2|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="55" tvg-name="Nickelodeon" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Nickelodeon
-http://api.techpriyo.com/bio.php?id=nickelodeon|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="56" tvg-name="Colors Bangla Cinema" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/30ebec11-5004-4bf7-9c5c-d604edc23dc5/1892d401-f522-4ef8-959e-7e3a3d2f1fc7.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Colors Bangla Cinema
-http://api.techpriyo.com/bio.php?id=colors-bangla-cinema|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="57" tvg-name="History TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c34fd2d6-9dce-4fed-b973-08c039bf018f/c1763c44-93da-40f8-88fa-e4608772066b.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24", History TV
-http://api.techpriyo.com/bio.php?id=history-tv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="58" tvg-name="Colors Rishtey" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/17d8fd6b-67ce-4c6a-8b5b-7cd7b3ea68cc/7885c62f-ae2a-48dd-8dfb-011f4cedb6ed.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Colors Rishtey
-http://api.techpriyo.com/bio.php?id=colors-rishtey|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="59" tvg-name="Nick Junior" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Nick Junior 
-http://api.techpriyo.com/bio.php?id=nick-junior|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="60" tvg-name="Zee TV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e76ee8d5-571a-4bd1-b72b-e09a3e986160/fae71bed-37a1-4b94-8382-d103f429b6b7.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Zee TV HD
-http://api.techpriyo.com/bio.php?id=zee-tv-hd|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="61" tvg-name="MTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",MTV
-http://api.techpriyo.com/bio.php?id=mtv|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="62" tvg-name="Colors Infinity" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20921d50-bc3d-4d99-9357-78320a582e40/9085e9bd-b79a-47d7-9d24-7fb85a741968.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Colors Infinity
-http://api.techpriyo.com/bio.php?id=colors-infinity|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="63" tvg-name="MTV Beats" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",MTV Beats 
-http://api.techpriyo.com/bio.php?id=mtv-beats|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="64" tvg-name="VH1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",VH1
-http://api.techpriyo.com/bio.php?id=vh1|User-Agent=bdixtv24
-#EXTINF:-1 tvg-id="65" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Yay
-http://api.techpriyo.com/bio.php?id=sony-yay-live|User-Agent=bdixtv24
 
 
 
