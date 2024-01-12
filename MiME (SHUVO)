@@ -93,43 +93,7 @@ http://100.64.64.11/Ekhon_Tv/tracks-v1a1/mono.m3u8
 
 #any
 
-#EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="",Madani_Tv
-http://100.64.64.11/Madani_Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Global_Tv
-http://100.64.64.11/Global_Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Asian_TV_HD
-http://100.64.64.11/Asian_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Ananda_TV_SD
-http://100.64.64.11/Ananda_TV_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",ATN_Bangla_SD
-http://100.64.64.11/ATN_Bangla_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",ATN_News_SD
-http://100.64.64.11/ATN_News_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Bangla_TV_HD
-http://100.64.64.11/Bangla_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Bangla_Vision_HD
-http://100.64.64.11/Bangla_Vision_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Bijoy_TV_HD
-http://100.64.64.11/Bijoy_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Boishakhi_TV_HD
-http://100.64.64.11/Boishakhi_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",BTV_World_SD
-http://100.64.64.11/BTV_World_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Channel_24_HD
-http://100.64.64.11:80/Channel_24_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Channel_9_HD
-http://100.64.64.11/Channel_9_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Channel_I_HD
-http://100.64.64.11/Channel_I_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",DBC_News_HD
-http://100.64.64.11/DBC_News_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Deepto_TV_HD
-http://100.64.64.11/Deepto_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Desh_TV_SD
-http://100.64.64.11/Desh_TV_SD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",Duronto_TV_HD
-http://100.64.64.11/Duronto_TV_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="",greentv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
