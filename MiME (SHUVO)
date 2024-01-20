@@ -1,5 +1,37 @@
 #EXTM3U
 
+#hb
+
+
+#EXTINF:-1 group-title=" " resolution="1172@720",TSports
+http://10.20.30.40:8088/1101/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1172@720",TSports2
+http://10.20.30.40:8088/1102/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1172@720",GaziTV
+http://10.20.30.40:8088/1103/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1280@720",StarSports1
+http://10.20.30.40:8088/1104/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1760@1080",StarSports2
+http://10.20.30.40:8088/1105/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1280@720",SonySports1
+http://10.20.30.40:8088/1106/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1920@1080",SonySports2
+http://10.20.30.40:8088/1107/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1280@720",SonySports5
+http://10.20.30.40:8088/1108/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1172@720",StarSportsSelect1
+http://10.20.30.40:8088/1109/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1920@1080",StarSportsSelect2
+http://10.20.30.40:8088/1110/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1280@720",Psports
+http://10.20.30.40:8088/1111/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="1920@1080",Dubaisports2
+http://10.20.30.40:8088/1114/tracks-v1a1/mono.m3u8?token=?
+#EXTINF:-1 resolution="640@360",@
+http://10.20.30.40:8088/1115/tracks-v1a1/mono.m3u8?token=?
+
+
+
 
 #MiME
 
