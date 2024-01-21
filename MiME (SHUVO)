@@ -12,7 +12,7 @@ http://10.20.30.40:8088/1102/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,GaziTV
 http://10.20.30.40:8088/1103/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,StarSports1HD
-http://10.20.30.40:8088/1103/tracks-v1a1/mono.m3u8?token=?
+http://10.20.30.40:8088/1104/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,StarSport2HD
 http://10.20.30.40:8088/1105/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,SonySports1HD
@@ -52,7 +52,7 @@ http://10.20.30.40:8088/1208/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,ATN News
 http://10.20.30.40:8088/1209/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,Boishakhi Tv
-http://10.20.30.40:8088/1210/tracks-v1a1/mono.m3u8?token=?
+http://10.20.30.40:8088/1210/trackSonyAmono.m3u8?token=?
 #EXTINF:-1,EkattorTV
 http://10.20.30.40:8088/1211/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,Ekushey Tv
@@ -79,7 +79,7 @@ http://10.20.30.40:8088/1303/tracks-v1a1/mono.m3u8?token=?
 http://10.20.30.40:8088/1304/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,ZeeBanglaChenema
 http://10.20.30.40:8088/1305/tracks-v1a1/mono.m3u8?token=?
-#EXTINF:-1,SonyAtt
+#EXTINF:-1,SonyAath
 http://10.20.30.40:8088/1306/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,StarPlusHD
 http://10.20.30.40:8088/1401/tracks-v1a1/mono.m3u8?token=?
@@ -121,7 +121,7 @@ http://10.20.30.40:8088/1606/tracks-v1a1/mono.m3u8?token=?
 http://10.20.30.40:8088/1604/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,Zing
 http://10.20.30.40:8088/1603/tracks-v1a1/mono.m3u8?token=?
-#EXTINF:-1,Discovry 
+#EXTINF:-1,Discovery  
 http://10.20.30.40:8088/1902/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,National Geographic
 http://10.20.30.40:8088/1901/tracks-v1a1/mono.m3u8?token=?
