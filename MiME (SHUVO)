@@ -52,7 +52,7 @@ http://10.20.30.40:8088/1208/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,ATN News
 http://10.20.30.40:8088/1209/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,Boishakhi Tv
-http://10.20.30.40:8088/1210/trackSonyAmono.m3u8?token=?
+http://10.20.30.40:8088/1210/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,EkattorTV
 http://10.20.30.40:8088/1211/tracks-v1a1/mono.m3u8?token=?
 #EXTINF:-1,Ekushey Tv
