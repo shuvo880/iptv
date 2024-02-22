@@ -232,7 +232,7 @@ http://10.20.30.40:8088/1704/tracks-v1a1/mono.m3u8?token=?
 
 
 #EXTM3U
-#EXTINF:-1 ,#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png"group-title="
+#EXTINF:-1 ,#EXTINF:-1 Greentv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 ,StarMovie
 https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1_index.m3u8
