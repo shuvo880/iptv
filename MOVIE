@@ -18,5 +18,9 @@ http://ms.towkai.com/Videos/Year_Date_Wise_Content/2023/11_November_2023/13_11_2
 http://ms.towkai.com/Videos/Year_Date_Wise_Content/2024/February_2024/11_02_2024/Guntur_Karam_(2024).mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Dasara
 http://ms.towkai.com:80/Videos/Year_Date_Wise_Content/2023/5_May_2023/07_05_2023/Dasara_(2023).mp4/tracks-v1a1/mono.m3u8
-#EXTM3UThunivu
+#EXTINF:-1 ,Thunivu
 http://ms.towkai.com:80/Videos/Year_Date_Wise_Content/2023/3_March_2023/01_03_2023/Thunivu_(2023).mp4/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 ,Land of Bad
+http://ms.towkai.com:80/Videos/Year_Date_Wise_Content/2024/March_2024/19_03_2024/Land_of_Bad_(2024).mp4/tracks-v1a1/mono.m3u8
