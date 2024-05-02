@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, Major
+http://103.112.150.230/Data/disk2/movies/hindidub/Major (2022)/Major.2022.mp4
 
 #EXTINF:-1 ,RoyalFlix-Teri Baaton Mein Aisa Uljha Jiya
 http://103.112.150.230/Data/disk1/movies/bollywood/2024/Teri Baaton Mein Aisa Uljha Jiya (2024)/Teri Baaton Mein Aisa Uljha Jiya.mp4
