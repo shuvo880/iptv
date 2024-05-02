@@ -48,5 +48,7 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282022%29%2010
 
 #EXTINF:-1,Ayalaan http://103.112.150.230/Data/disk1/movies/hindidub/Ayalaan (2024)/Ayalaan.mp4 
 
-EXTINF:-1, Vikram
+#EXTINF:-1, Vikram
  http://103.112.150.230/Data/disk2/movies/hindidub/Vikram (2022)/Vikram (2022).mp4 
+
+#EXTINF:-1,Major http://103.112.150.230/Data/disk2/movies/hindidub/Major%20(2022)/Major.2022.mp4 
