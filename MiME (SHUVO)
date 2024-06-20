@@ -7,6 +7,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717192692/ei/l
 http://172.19.178.49:18190/SN-ST-TV-01/tracks-v1a1/mono.m3u8
 #EXTINF:-1,sonyten2
 http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nagorik Tv
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.pnghttps://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg" group-title="ISLAMIC CHANNELS",Zee TVISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
