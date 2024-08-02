@@ -15,6 +15,12 @@ http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 
 
+
+
+
+
+#EXTINF:-1,jamuna tv
+http://113.212.111.246:8080/hls//col12.m3u8
 #EXTINF:-1,sananda
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.pnghttps://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg" group-title="ISLAMIC CHANNELS",Zee TVISLAM Bangla
