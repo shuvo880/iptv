@@ -1,6 +1,752 @@
 #EXTM3U
 #EXTINF:-1 ,iPTV BY SHUVO
 https://drive.usercontent.google.com/download?id=1BdyyL4ha5Uo7LcBDkyTYv-FAq9-7b87q&export=download&authuser=0
+
+#EXTINF:-1 ,Gyan Brikshya
+https://jio.dinesh29.com.np/live/jio-universal/gyan-brikshya/index.ts
+#EXTINF:-1 ,Jonack
+https://jio.dinesh29.com.np/live/jio-universal/jonack/index.ts
+#EXTINF:-1 ,Indradhanu
+https://jio.dinesh29.com.np/live/jio-universal/indradhanu/index.ts
+#EXTINF:-1 ,North East Live
+https://jio.dinesh29.com.np/live/jio-universal/north-east-live/index.ts
+#EXTINF:-1 ,Assam Talks
+https://jio.dinesh29.com.np/live/jio-universal/assam-talks/index.ts
+#EXTINF:-1 ,TIME8
+https://jio.dinesh29.com.np/live/jio-universal/time8/index.ts
+#EXTINF:-1 ,ND 24
+https://jio.dinesh29.com.np/live/jio-universal/nd-24/index.ts
+#EXTINF:-1 ,NK TV Plus
+https://jio.dinesh29.com.np/live/jio-universal/nk-tv-plus/index.ts
+#EXTINF:-1 ,Pratham Khabar 24x7
+https://jio.dinesh29.com.np/live/jio-universal/pratham-khabar-24x7/index.ts
+#EXTINF:-1 ,Sony aath
+https://jio.dinesh29.com.np/live/jio-universal/sony-aath/index.ts
+#EXTINF:-1 ,Colors Bengali HD
+https://jio.dinesh29.com.np/live/jio-universal/colors-bengali-hd/index.ts
+#EXTINF:-1 ,Colors Bangla SD
+https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-sd/index.ts
+#EXTINF:-1 ,Rongeen TV
+https://jio.dinesh29.com.np/live/jio-universal/rongeen-tv/index.ts
+#EXTINF:-1 ,Sun Bangla
+https://jio.dinesh29.com.np/live/jio-universal/sun-bangla/index.ts
+#EXTINF:-1 ,Channel Vision
+https://jio.dinesh29.com.np/live/jio-universal/channel-vision/index.ts
+#EXTINF:-1 ,Nick Bangla
+https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
+#EXTINF:-1 ,Zee Bangla Cinema
+https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-cinema/index.ts
+#EXTINF:-1 ,Colors Bangla Cinema
+https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
+#EXTINF:-1 ,Sangeet Bangla
+https://jio.dinesh29.com.np/live/jio-universal/sangeet-bangla/index.ts
+#EXTINF:-1 ,24 Ghanta TV
+https://jio.dinesh29.com.np/live/jio-universal/24-ghanta-tv/index.ts
+#EXTINF:-1 ,ABP Ananda
+https://jio.dinesh29.com.np/live/jio-universal/abp-ananda/index.ts
+#EXTINF:-1 ,News Time TV
+https://jio.dinesh29.com.np/live/jio-universal/news-time-tv/index.ts
+#EXTINF:-1 ,DD Bangla
+https://jio.dinesh29.com.np/live/jio-universal/dd-bangla/index.ts
+#EXTINF:-1 ,R Plus
+https://jio.dinesh29.com.np/live/jio-universal/r-plus/index.ts
+#EXTINF:-1 ,Calcutta News
+https://jio.dinesh29.com.np/live/jio-universal/calcutta-news/index.ts
+#EXTINF:-1 ,BHOOMI 24x7
+https://jio.dinesh29.com.np/live/jio-universal/bhoomi-24x7/index.ts
+#EXTINF:-1 ,Tara TV
+https://jio.dinesh29.com.np/live/jio-universal/tara-tv/index.ts
+#EXTINF:-1 ,24Hrs TV
+https://jio.dinesh29.com.np/live/jio-universal/24hrs-tv/index.ts
+#EXTINF:-1 ,Ananda Barta
+https://jio.dinesh29.com.np/live/jio-universal/ananda-barta/index.ts
+#EXTINF:-1 ,Raatdin News Network
+https://jio.dinesh29.com.np/live/jio-universal/raatdin-news-network/index.ts
+#EXTINF:-1 ,Globe TV
+https://jio.dinesh29.com.np/live/jio-universal/globe-tv/index.ts
+#EXTINF:-1 ,Oscar Movies
+https://jio.dinesh29.com.np/live/jio-universal/oscar-movies/index.ts
+#EXTINF:-1 ,B4U Bhojpuri
+https://jio.dinesh29.com.np/live/jio-universal/b4u-bhojpuri/index.ts
+#EXTINF:-1 ,Zee Bioskope SD
+https://jio.dinesh29.com.np/live/jio-universal/zee-bioskope-sd/index.ts
+#EXTINF:-1 ,Sangeet Bhojpuri
+https://jio.dinesh29.com.np/live/jio-universal/sangeet-bhojpuri/index.ts
+#EXTINF:-1 ,Zee Bihar Jharkhand
+https://jio.dinesh29.com.np/live/jio-universal/zee-bihar-jharkhand/index.ts
+#EXTINF:-1 ,News18 BIHAR
+https://jio.dinesh29.com.np/live/jio-universal/news18-bihar/index.ts
+#EXTINF:-1 ,ET Now
+https://jio.dinesh29.com.np/live/jio-universal/et-now/index.ts
+#EXTINF:-1 ,HHDL
+https://jio.dinesh29.com.np/live/jio-universal/hhdl/index.ts
+#EXTINF:-1 ,VISVAS
+https://jio.dinesh29.com.np/live/jio-universal/visvas/index.ts
+#EXTINF:-1 ,PM e Vidya 02
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-02/index.ts
+#EXTINF:-1 ,PM e Vidya 07
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-07/index.ts
+#EXTINF:-1 ,PM e Vidya 03
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-03/index.ts
+#EXTINF:-1 ,PM e Vidya 04
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-04/index.ts
+#EXTINF:-1 ,PM e Vidya 06
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-06/index.ts
+#EXTINF:-1 ,PM e Vidya 08
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-08/index.ts
+#EXTINF:-1 ,PM e Vidya 10
+https://jio.dinesh29.com.np/live/jio-universal/pm-e-vidya-10/index.ts
+#EXTINF:-1 ,Swayam Prabha 01
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-01/index.ts
+#EXTINF:-1 ,Swayam Prabha 03
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-03/index.ts
+#EXTINF:-1 ,Swayam Prabha 04
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-04/index.ts
+#EXTINF:-1 ,Swayam Prabha 07
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-07/index.ts
+#EXTINF:-1 ,Swayam Prabha 05
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-05/index.ts
+#EXTINF:-1 ,Swayam Prabha 06
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-06/index.ts
+#EXTINF:-1 ,Swayam Prabha 09
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-09/index.ts
+#EXTINF:-1 ,Swayam Prabha 10
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-10/index.ts
+#EXTINF:-1 ,Swayam Prabha 11
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-11/index.ts
+#EXTINF:-1 ,Swayam Prabha 12
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-12/index.ts
+#EXTINF:-1 ,Swayam Prabha 13
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-13/index.ts
+#EXTINF:-1 ,Swayam Prabha 14
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-14/index.ts
+#EXTINF:-1 ,Swayam Prabha 15
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-15/index.ts
+#EXTINF:-1 ,Swayam Prabha 21
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-21/index.ts
+#EXTINF:-1 ,Swayam Prabha 18
+https://jio.dinesh29.com.np/live/jio-universal/swayam-prabha-18/index.ts
+#EXTINF:-1 ,India Science
+https://jio.dinesh29.com.np/live/jio-universal/india-science/index.ts
+#EXTINF:-1 ,TV Teacher
+https://jio.dinesh29.com.np/live/jio-universal/tv-teacher/index.ts
+#EXTINF:-1 ,Birla Brainiacs
+https://jio.dinesh29.com.np/live/jio-universal/birla-brainiacs/index.ts
+#EXTINF:-1 ,Lifology
+https://jio.dinesh29.com.np/live/jio-universal/lifology/index.ts
+#EXTINF:-1 ,Omnicuris
+https://jio.dinesh29.com.np/live/jio-universal/omnicuris/index.ts
+#EXTINF:-1 ,Gyanvani 2
+https://jio.dinesh29.com.np/live/jio-universal/gyanvani-2/index.ts
+#EXTINF:-1 ,Aakash EduTV NEET
+https://jio.dinesh29.com.np/live/jio-universal/aakash-edutv-neet/index.ts
+#EXTINF:-1 ,Aakash EduTV JEE
+https://jio.dinesh29.com.np/live/jio-universal/aakash-edutv-jee/index.ts
+#EXTINF:-1 ,Jio Exclusive HD
+https://jio.dinesh29.com.np/live/jio-universal/jio-exclusive-hd/index.ts
+#EXTINF:-1 ,Zee Cafe HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-hd/index.ts
+#EXTINF:-1 ,Colors Infinity SD
+https://jio.dinesh29.com.np/live/jio-universal/colors-infinity-sd/index.ts
+#EXTINF:-1 ,Comedy Central SD
+https://jio.dinesh29.com.np/live/jio-universal/comedy-central-sd/index.ts
+#EXTINF:-1 ,Zee Cafe SD
+https://jio.dinesh29.com.np/live/jio-universal/zee-cafe-sd/index.ts
+#EXTINF:-1 ,Animal Planet HD World
+https://jio.dinesh29.com.np/live/jio-universal/animal-planet-hd-world/index.ts
+#EXTINF:-1 ,Nick HD+
+https://jio.dinesh29.com.np/live/jio-universal/nick-hd/index.ts
+#EXTINF:-1 ,FTV HD
+https://jio.dinesh29.com.np/live/jio-universal/ftv-hd/index.ts
+#EXTINF:-1 ,Fashion India
+https://jio.dinesh29.com.np/live/jio-universal/fashion-india/index.ts
+#EXTINF:-1 ,&Flix HD
+https://jio.dinesh29.com.np/live/jio-universal/and-flix-hd/index.ts
+#EXTINF:-1 ,And Prive HD
+https://jio.dinesh29.com.np/live/jio-universal/and-prive-hd/index.ts
+#EXTINF:-1 ,VH1 HD
+https://jio.dinesh29.com.np/live/jio-universal/vh1-hd/index.ts
+#EXTINF:-1 ,VH1
+https://jio.dinesh29.com.np/live/jio-universal/vh1/index.ts
+#EXTINF:-1 ,CNN
+https://jio.dinesh29.com.np/live/jio-universal/cnn/index.ts
+#EXTINF:-1 ,Times NOW
+https://jio.dinesh29.com.np/live/jio-universal/times-now/index.ts
+#EXTINF:-1 ,Wion
+https://jio.dinesh29.com.np/live/jio-universal/wion/index.ts
+#EXTINF:-1 ,GOA 365
+https://jio.dinesh29.com.np/live/jio-universal/goa-365/index.ts
+#EXTINF:-1 ,Mirror Now
+https://jio.dinesh29.com.np/live/jio-universal/mirror-now/index.ts
+#EXTINF:-1 ,News 9
+https://jio.dinesh29.com.np/live/jio-universal/news-9/index.ts
+#EXTINF:-1 ,Channel News Asia International
+https://jio.dinesh29.com.np/live/jio-universal/channel-news-asia-international/index.ts
+#EXTINF:-1 ,CVR English
+https://jio.dinesh29.com.np/live/jio-universal/cvr-english/index.ts
+#EXTINF:-1 ,Republic TV
+https://jio.dinesh29.com.np/live/jio-universal/republic-tv/index.ts
+#EXTINF:-1 ,Times Now World
+https://jio.dinesh29.com.np/live/jio-universal/times-now-world/index.ts
+#EXTINF:-1 ,TV5 Monde
+https://jio.dinesh29.com.np/live/jio-universal/tv5-monde/index.ts
+#EXTINF:-1 ,RT TV
+https://jio.dinesh29.com.np/live/jio-universal/rt-tv/index.ts
+#EXTINF:-1 ,Eurosport HD
+https://jio.dinesh29.com.np/live/jio-universal/eurosport-hd/index.ts
+#EXTINF:-1 ,Sony Ten 2 HD
+https://jio.dinesh29.com.np/live/jio-universal/sony-ten-2-hd/index.ts
+#EXTINF:-1 ,Eurosport
+https://jio.dinesh29.com.np/live/jio-universal/eurosport/index.ts
+#EXTINF:-1 ,ESG TV
+https://jio.dinesh29.com.np/live/jio-universal/esg-tv/index.ts
+#EXTINF:-1 ,Sundrani TV
+https://jio.dinesh29.com.np/live/jio-universal/sundrani-tv/index.ts
+#EXTINF:-1 ,Lakshya TV
+https://jio.dinesh29.com.np/live/jio-universal/lakshya-tv/index.ts
+#EXTINF:-1 ,Dada Bhagwan Foundation Gujarati
+https://jio.dinesh29.com.np/live/jio-universal/dada-bhagwan-foundation-gujarati/index.ts
+#EXTINF:-1 ,Colors Gujarati
+https://jio.dinesh29.com.np/live/jio-universal/colors-gujarati/index.ts
+#EXTINF:-1 ,Colors Gujarati Cinema
+https://jio.dinesh29.com.np/live/jio-universal/colors-gujarati-cinema/index.ts
+#EXTINF:-1 ,Zee 24 Kalak
+https://jio.dinesh29.com.np/live/jio-universal/zee-24-kalak/index.ts
+#EXTINF:-1 ,Mantavya News
+https://jio.dinesh29.com.np/live/jio-universal/mantavya-news/index.ts
+#EXTINF:-1 ,Divyang News
+https://jio.dinesh29.com.np/live/jio-universal/divyang-news/index.ts
+#EXTINF:-1 ,India News Gujarat
+https://jio.dinesh29.com.np/live/jio-universal/india-news-gujarat/index.ts
+#EXTINF:-1 ,Buletin India
+https://jio.dinesh29.com.np/live/jio-universal/buletin-india/index.ts
+#EXTINF:-1 ,Janadesh News
+https://jio.dinesh29.com.np/live/jio-universal/janadesh-news/index.ts
+#EXTINF:-1 ,CNBC Awaaz
+https://jio.dinesh29.com.np/live/jio-universal/cnbc-awaaz/index.ts
+#EXTINF:-1 ,Zee Business
+https://jio.dinesh29.com.np/live/jio-universal/zee-business/index.ts
+#EXTINF:-1 ,Aastha
+https://jio.dinesh29.com.np/live/jio-universal/aastha/index.ts
+#EXTINF:-1 ,Arihant TV
+https://jio.dinesh29.com.np/live/jio-universal/arihant-tv/index.ts
+#EXTINF:-1 ,Vedic TV
+https://jio.dinesh29.com.np/live/jio-universal/vedic-tv/index.ts
+#EXTINF:-1 ,Hare krsna
+https://jio.dinesh29.com.np/live/jio-universal/hare-krsna/index.ts
+#EXTINF:-1 ,Swar Shree
+https://jio.dinesh29.com.np/live/jio-universal/swar-shree/index.ts
+#EXTINF:-1 ,Bhaktisagar 2
+https://jio.dinesh29.com.np/live/jio-universal/bhaktisagar-2/index.ts
+#EXTINF:-1 ,Om Shanti
+https://jio.dinesh29.com.np/live/jio-universal/om-shanti/index.ts
+#EXTINF:-1 ,Sarv Dharam Sangam
+https://jio.dinesh29.com.np/live/jio-universal/sarv-dharam-sangam/index.ts
+#EXTINF:-1 ,Prarthana Bhawan
+https://jio.dinesh29.com.np/live/jio-universal/prarthana-bhawan/index.ts
+#EXTINF:-1 ,Krishna Vani
+https://jio.dinesh29.com.np/live/jio-universal/krishna-vani/index.ts
+#EXTINF:-1 ,Shri Jain Nakoda Parshwanath Tirth
+https://jio.dinesh29.com.np/live/jio-universal/shri-jain-nakoda-parshwanath-tirth/index.ts
+#EXTINF:-1 ,AMMA TV
+https://jio.dinesh29.com.np/live/jio-universal/amma-tv/index.ts
+#EXTINF:-1 ,Dharm Granth TV
+https://jio.dinesh29.com.np/live/jio-universal/dharm-granth-tv/index.ts
+#EXTINF:-1 ,Sanatan TV
+https://jio.dinesh29.com.np/live/jio-universal/sanatan-tv/index.ts
+#EXTINF:-1 ,Jigyasa TV
+https://jio.dinesh29.com.np/live/jio-universal/jigyasa-tv/index.ts
+#EXTINF:-1 ,Atmadarshan TV
+https://jio.dinesh29.com.np/live/jio-universal/atmadarshan-tv/index.ts
+#EXTINF:-1 ,Manav Dharam
+https://jio.dinesh29.com.np/live/jio-universal/manav-dharam/index.ts
+#EXTINF:-1 ,Ishvani TV
+https://jio.dinesh29.com.np/live/jio-universal/ishvani-tv/index.ts
+#EXTINF:-1 ,Dada Bhagwan Foundation
+https://jio.dinesh29.com.np/live/jio-universal/dada-bhagwan-foundation/index.ts
+#EXTINF:-1 ,Yeshuaa TV
+https://jio.dinesh29.com.np/live/jio-universal/yeshuaa-tv/index.ts
+#EXTINF:-1 ,Mangalmay Live
+https://jio.dinesh29.com.np/live/jio-universal/mangalmay-live/index.ts
+#EXTINF:-1 ,Z10 TV
+https://jio.dinesh29.com.np/live/jio-universal/z10-tv/index.ts
+#EXTINF:-1 ,Kripa TV
+https://jio.dinesh29.com.np/live/jio-universal/kripa-tv/index.ts
+#EXTINF:-1 ,Aaryaa Bhakti
+https://jio.dinesh29.com.np/live/jio-universal/aaryaa-bhakti/index.ts
+#EXTINF:-1 ,Bhakti Sagar
+https://jio.dinesh29.com.np/live/jio-universal/bhakti-sagar/index.ts
+#EXTINF:-1 ,Utkarsh Primary
+https://jio.dinesh29.com.np/live/jio-universal/utkarsh-primary/index.ts
+#EXTINF:-1 ,Utkarsh HSBTE
+https://jio.dinesh29.com.np/live/jio-universal/utkarsh-hsbte/index.ts
+#EXTINF:-1 ,Utkarsh Secondary
+https://jio.dinesh29.com.np/live/jio-universal/utkarsh-secondary/index.ts
+#EXTINF:-1 ,Utkarsh Higher
+https://jio.dinesh29.com.np/live/jio-universal/utkarsh-higher/index.ts
+#EXTINF:-1 ,Gyanvani 1
+https://jio.dinesh29.com.np/live/jio-universal/gyanvani-1/index.ts
+#EXTINF:-1 ,Sanskrit
+https://jio.dinesh29.com.np/live/jio-universal/sanskrit/index.ts
+#EXTINF:-1 ,Medha Secondary
+https://jio.dinesh29.com.np/live/jio-universal/medha-secondary/index.ts
+#EXTINF:-1 ,PTD Chhattisgarrh
+https://jio.dinesh29.com.np/live/jio-universal/ptd-chhattisgarrh/index.ts
+#EXTINF:-1 ,Zee TV HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-tv-hd/index.ts
+#EXTINF:-1 ,DD National
+https://jio.dinesh29.com.np/live/jio-universal/dd-national/index.ts
+#EXTINF:-1 ,SET HD
+https://jio.dinesh29.com.np/live/jio-universal/set-hd/index.ts
+#EXTINF:-1 ,TEST1 HD
+https://jio.dinesh29.com.np/live/jio-universal/test1-hd/index.ts
+#EXTINF:-1 ,TEST2 HD
+https://jio.dinesh29.com.np/live/jio-universal/test2-hd/index.ts
+#EXTINF:-1 ,DD Arunprabha
+https://jio.dinesh29.com.np/live/jio-universal/dd-arunprabha/index.ts
+#EXTINF:-1 ,DD Gyandarshan
+https://jio.dinesh29.com.np/live/jio-universal/dd-gyandarshan/index.ts
+#EXTINF:-1 ,Zee TV
+https://jio.dinesh29.com.np/live/jio-universal/zee-tv/index.ts
+#EXTINF:-1 ,Big Magic
+https://jio.dinesh29.com.np/live/jio-universal/big-magic/index.ts
+#EXTINF:-1 ,Colors SD
+https://jio.dinesh29.com.np/live/jio-universal/colors-sd/index.ts
+#EXTINF:-1 ,Green Chillies
+https://jio.dinesh29.com.np/live/jio-universal/green-chillies/index.ts
+#EXTINF:-1 ,And TV
+https://jio.dinesh29.com.np/live/jio-universal/and-tv/index.ts
+#EXTINF:-1 ,Bollywood Hungama
+https://jio.dinesh29.com.np/live/jio-universal/bollywood-hungama/index.ts
+#EXTINF:-1 ,RC Studio
+https://jio.dinesh29.com.np/live/jio-universal/rc-studio/index.ts
+#EXTINF:-1 ,Jio Events HD
+https://jio.dinesh29.com.np/live/jio-universal/jio-events-hd/index.ts
+#EXTINF:-1 ,Wellness
+https://jio.dinesh29.com.np/live/jio-universal/wellness/index.ts
+#EXTINF:-1 ,Zee Cinema HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-cinema-hd/index.ts
+#EXTINF:-1 ,B4U Movies
+https://jio.dinesh29.com.np/live/jio-universal/b4u-movies/index.ts
+#EXTINF:-1 ,And Pictures HD
+https://jio.dinesh29.com.np/live/jio-universal/and-pictures-hd/index.ts
+#EXTINF:-1 ,Sony Max SD
+https://jio.dinesh29.com.np/live/jio-universal/sony-max-sd/index.ts
+#EXTINF:-1 ,B4U Kadak
+https://jio.dinesh29.com.np/live/jio-universal/b4u-kadak/index.ts
+#EXTINF:-1 ,Colors Cineplex HD
+https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-hd/index.ts
+#EXTINF:-1 ,&Xplore HD
+https://jio.dinesh29.com.np/live/jio-universal/and-xplore-hd/index.ts
+#EXTINF:-1 ,Zee Classic
+https://jio.dinesh29.com.np/live/jio-universal/zee-classic/index.ts
+#EXTINF:-1 ,Colors Cineplex Bollywood
+https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-bollywood/index.ts
+#EXTINF:-1 ,And Pictures
+https://jio.dinesh29.com.np/live/jio-universal/and-pictures/index.ts
+#EXTINF:-1 ,Hiff Movies
+https://jio.dinesh29.com.np/live/jio-universal/hiff-movies/index.ts
+#EXTINF:-1 ,9X Jalwa
+https://jio.dinesh29.com.np/live/jio-universal/9x-jalwa/index.ts
+#EXTINF:-1 ,MTV Beats HD
+https://jio.dinesh29.com.np/live/jio-universal/mtv-beats-hd/index.ts
+#EXTINF:-1 ,Boogle Bollywood
+https://jio.dinesh29.com.np/live/jio-universal/boogle-bollywood/index.ts
+#EXTINF:-1 ,Insync
+https://jio.dinesh29.com.np/live/jio-universal/insync/index.ts
+#EXTINF:-1 ,Haryana Beats
+https://jio.dinesh29.com.np/live/jio-universal/haryana-beats/index.ts
+#EXTINF:-1 ,Artist Aloud
+https://jio.dinesh29.com.np/live/jio-universal/artist-aloud/index.ts
+#EXTINF:-1 ,RS Bharat
+https://jio.dinesh29.com.np/live/jio-universal/rs-bharat/index.ts
+#EXTINF:-1 ,DD News
+https://jio.dinesh29.com.np/live/jio-universal/dd-news/index.ts
+#EXTINF:-1 ,India News MP
+https://jio.dinesh29.com.np/live/jio-universal/india-news-mp/index.ts
+#EXTINF:-1 ,Zee Bharat
+https://jio.dinesh29.com.np/live/jio-universal/zee-bharat/index.ts
+#EXTINF:-1 ,News18 Punjab Haryana
+https://jio.dinesh29.com.np/live/jio-universal/news18-punjab-haryana/index.ts
+#EXTINF:-1 ,Zee News MP Chattisgarh
+https://jio.dinesh29.com.np/live/jio-universal/zee-news-mp-chattisgarh/index.ts
+#EXTINF:-1 ,Zee Rajasthan
+https://jio.dinesh29.com.np/live/jio-universal/zee-rajasthan/index.ts
+#EXTINF:-1 ,Jan TV
+https://jio.dinesh29.com.np/live/jio-universal/jan-tv/index.ts
+#EXTINF:-1 ,India Voice
+https://jio.dinesh29.com.np/live/jio-universal/india-voice/index.ts
+#EXTINF:-1 ,JK 24x7 News
+https://jio.dinesh29.com.np/live/jio-universal/jk-24x7-news/index.ts
+#EXTINF:-1 ,Taaza TV
+https://jio.dinesh29.com.np/live/jio-universal/taaza-tv/index.ts
+#EXTINF:-1 ,News State UK UP
+https://jio.dinesh29.com.np/live/jio-universal/news-state-uk-up/index.ts
+#EXTINF:-1 ,News India 24x7
+https://jio.dinesh29.com.np/live/jio-universal/news-india-24x7/index.ts
+#EXTINF:-1 ,SMBC TV
+https://jio.dinesh29.com.np/live/jio-universal/smbc-tv/index.ts
+#EXTINF:-1 ,Total TV
+https://jio.dinesh29.com.np/live/jio-universal/total-tv/index.ts
+#EXTINF:-1 ,Janta TV
+https://jio.dinesh29.com.np/live/jio-universal/janta-tv/index.ts
+#EXTINF:-1 ,News11
+https://jio.dinesh29.com.np/live/jio-universal/news11/index.ts
+#EXTINF:-1 ,Khabar Fast
+https://jio.dinesh29.com.np/live/jio-universal/khabar-fast/index.ts
+#EXTINF:-1 ,TV 100
+https://jio.dinesh29.com.np/live/jio-universal/tv-100/index.ts
+#EXTINF:-1 ,APN News
+https://jio.dinesh29.com.np/live/jio-universal/apn-news/index.ts
+#EXTINF:-1 ,Prime News
+https://jio.dinesh29.com.np/live/jio-universal/prime-news/index.ts
+#EXTINF:-1 ,A1 TV Rajasthan
+https://jio.dinesh29.com.np/live/jio-universal/a1-tv-rajasthan/index.ts
+#EXTINF:-1 ,First India News
+https://jio.dinesh29.com.np/live/jio-universal/first-india-news/index.ts
+#EXTINF:-1 ,News 1 India
+https://jio.dinesh29.com.np/live/jio-universal/news-1-india/index.ts
+#EXTINF:-1 ,INH 24x7
+https://jio.dinesh29.com.np/live/jio-universal/inh-24x7/index.ts
+#EXTINF:-1 ,DNN
+https://jio.dinesh29.com.np/live/jio-universal/dnn/index.ts
+#EXTINF:-1 ,Jantantra
+https://jio.dinesh29.com.np/live/jio-universal/jantantra/index.ts
+#EXTINF:-1 ,Swadesh News
+https://jio.dinesh29.com.np/live/jio-universal/swadesh-news/index.ts
+#EXTINF:-1 ,Total Tv Haryana
+https://jio.dinesh29.com.np/live/jio-universal/total-tv-haryana/index.ts
+#EXTINF:-1 ,ANB News
+https://jio.dinesh29.com.np/live/jio-universal/anb-news/index.ts
+#EXTINF:-1 ,TEST13 HD
+https://jio.dinesh29.com.np/live/jio-universal/test13-hd/index.ts
+#EXTINF:-1 ,Network 10
+https://jio.dinesh29.com.np/live/jio-universal/network-10/index.ts
+#EXTINF:-1 ,AB News
+https://jio.dinesh29.com.np/live/jio-universal/ab-news/index.ts
+#EXTINF:-1 ,Samachar 24
+https://jio.dinesh29.com.np/live/jio-universal/samachar-24/index.ts
+#EXTINF:-1 ,MP News
+https://jio.dinesh29.com.np/live/jio-universal/mp-news/index.ts
+#EXTINF:-1 ,News State MPCG
+https://jio.dinesh29.com.np/live/jio-universal/news-state-mpcg/index.ts
+#EXTINF:-1 ,C News Bharat
+https://jio.dinesh29.com.np/live/jio-universal/c-news-bharat/index.ts
+#EXTINF:-1 ,Prime TV
+https://jio.dinesh29.com.np/live/jio-universal/prime-tv/index.ts
+#EXTINF:-1 ,FM News
+https://jio.dinesh29.com.np/live/jio-universal/fm-news/index.ts
+#EXTINF:-1 ,IND 24
+https://jio.dinesh29.com.np/live/jio-universal/ind-24/index.ts
+#EXTINF:-1 ,Anaadi TV
+https://jio.dinesh29.com.np/live/jio-universal/anaadi-tv/index.ts
+#EXTINF:-1 ,Bharat AtoZ
+https://jio.dinesh29.com.np/live/jio-universal/bharat-atoz/index.ts
+#EXTINF:-1 ,Aryan TV National
+https://jio.dinesh29.com.np/live/jio-universal/aryan-tv-national/index.ts
+#EXTINF:-1 ,KP News 24x7
+https://jio.dinesh29.com.np/live/jio-universal/kp-news-24x7/index.ts
+#EXTINF:-1 ,Jan Setu News
+https://jio.dinesh29.com.np/live/jio-universal/jan-setu-news/index.ts
+#EXTINF:-1 ,NEWS 24 MPCG
+https://jio.dinesh29.com.np/live/jio-universal/news-24-mpcg/index.ts
+#EXTINF:-1 ,STV Haryana News
+https://jio.dinesh29.com.np/live/jio-universal/stv-haryana-news/index.ts
+#EXTINF:-1 ,Sansad TV Rajya Sabha
+https://jio.dinesh29.com.np/live/jio-universal/sansad-tv-rajya-sabha/index.ts
+#EXTINF:-1 ,IN 24 News
+https://jio.dinesh29.com.np/live/jio-universal/in-24-news/index.ts
+#EXTINF:-1 ,Samachar Nation
+https://jio.dinesh29.com.np/live/jio-universal/samachar-nation/index.ts
+#EXTINF:-1 ,KKD News
+https://jio.dinesh29.com.np/live/jio-universal/kkd-news/index.ts
+#EXTINF:-1 ,HNN 24x7
+https://jio.dinesh29.com.np/live/jio-universal/hnn-24x7/index.ts
+#EXTINF:-1 ,India TV Yoga Channel
+https://jio.dinesh29.com.np/live/jio-universal/india-tv-yoga-channel/index.ts
+#EXTINF:-1 ,India TV Aap Ki Adalat
+https://jio.dinesh29.com.np/live/jio-universal/india-tv-aap-ki-adalat/index.ts
+#EXTINF:-1 ,Desh News
+https://jio.dinesh29.com.np/live/jio-universal/desh-news/index.ts
+#EXTINF:-1 ,Bharat TV24
+https://jio.dinesh29.com.np/live/jio-universal/bharat-tv24/index.ts
+#EXTINF:-1 ,PR News
+https://jio.dinesh29.com.np/live/jio-universal/pr-news/index.ts
+#EXTINF:-1 ,Bharat Nation
+https://jio.dinesh29.com.np/live/jio-universal/bharat-nation/index.ts
+#EXTINF:-1 ,Bharat Update
+https://jio.dinesh29.com.np/live/jio-universal/bharat-update/index.ts
+#EXTINF:-1 ,SACH BEDHADAK
+https://jio.dinesh29.com.np/live/jio-universal/sach-bedhadak/index.ts
+#EXTINF:-1 ,Sri Krishna Matha Udupi
+https://jio.dinesh29.com.np/live/jio-universal/sri-krishna-matha-udupi/index.ts
+#EXTINF:-1 ,Colors Kannada HD
+https://jio.dinesh29.com.np/live/jio-universal/colors-kannada-hd/index.ts
+#EXTINF:-1 ,Colors Super
+https://jio.dinesh29.com.np/live/jio-universal/colors-super/index.ts
+#EXTINF:-1 ,Udaya HD
+https://jio.dinesh29.com.np/live/jio-universal/udaya-hd/index.ts
+#EXTINF:-1 ,Siri Kannada
+https://jio.dinesh29.com.np/live/jio-universal/siri-kannada/index.ts
+#EXTINF:-1 ,Daijiworld TV 24x7
+https://jio.dinesh29.com.np/live/jio-universal/daijiworld-tv-24x7/index.ts
+#EXTINF:-1 ,Udaya Movies
+https://jio.dinesh29.com.np/live/jio-universal/udaya-movies/index.ts
+#EXTINF:-1 ,Colors Kannada Cinema
+https://jio.dinesh29.com.np/live/jio-universal/colors-kannada-cinema/index.ts
+#EXTINF:-1 ,Public Movies
+https://jio.dinesh29.com.np/live/jio-universal/public-movies/index.ts
+#EXTINF:-1 ,Zee Picchar HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-picchar-hd/index.ts
+#EXTINF:-1 ,Raj Music Kannada
+https://jio.dinesh29.com.np/live/jio-universal/raj-music-kannada/index.ts
+#EXTINF:-1 ,Udaya Music
+https://jio.dinesh29.com.np/live/jio-universal/udaya-music/index.ts
+#EXTINF:-1 ,News18 Kannada News
+https://jio.dinesh29.com.np/live/jio-universal/news18-kannada-news/index.ts
+#EXTINF:-1 ,BTV
+https://jio.dinesh29.com.np/live/jio-universal/btv/index.ts
+#EXTINF:-1 ,TV 5 Kannada
+https://jio.dinesh29.com.np/live/jio-universal/tv-5-kannada/index.ts
+#EXTINF:-1 ,News First
+https://jio.dinesh29.com.np/live/jio-universal/news-first/index.ts
+#EXTINF:-1 ,Goodness
+https://jio.dinesh29.com.np/live/jio-universal/goodness/index.ts
+#EXTINF:-1 ,Harvest TV 24x7
+https://jio.dinesh29.com.np/live/jio-universal/harvest-tv-24x7/index.ts
+#EXTINF:-1 ,Powervision TV
+https://jio.dinesh29.com.np/live/jio-universal/powervision-tv/index.ts
+#EXTINF:-1 ,BVTV
+https://jio.dinesh29.com.np/live/jio-universal/bvtv/index.ts
+#EXTINF:-1 ,KITE VICTERS
+https://jio.dinesh29.com.np/live/jio-universal/kite-victers/index.ts
+#EXTINF:-1 ,Surya HD
+https://jio.dinesh29.com.np/live/jio-universal/surya-hd/index.ts
+#EXTINF:-1 ,Kannur One
+https://jio.dinesh29.com.np/live/jio-universal/kannur-one/index.ts
+#EXTINF:-1 ,Zee Keralam HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-keralam-hd/index.ts
+#EXTINF:-1 ,Malanadu TV
+https://jio.dinesh29.com.np/live/jio-universal/malanadu-tv/index.ts
+#EXTINF:-1 ,Safari TV
+https://jio.dinesh29.com.np/live/jio-universal/safari-tv/index.ts
+#EXTINF:-1 ,Nick Malayalam
+https://jio.dinesh29.com.np/live/jio-universal/nick-malayalam/index.ts
+#EXTINF:-1 ,Sonic Malayalam
+https://jio.dinesh29.com.np/live/jio-universal/sonic-malayalam/index.ts
+#EXTINF:-1 ,Propex TV
+https://jio.dinesh29.com.np/live/jio-universal/propex-tv/index.ts
+#EXTINF:-1 ,Raj Music Malayalam
+https://jio.dinesh29.com.np/live/jio-universal/raj-music-malayalam/index.ts
+#EXTINF:-1 ,Surya Music
+https://jio.dinesh29.com.np/live/jio-universal/surya-music/index.ts
+#EXTINF:-1 ,Asianet News
+https://jio.dinesh29.com.np/live/jio-universal/asianet-news/index.ts
+#EXTINF:-1 ,Manorama News
+https://jio.dinesh29.com.np/live/jio-universal/manorama-news/index.ts
+#EXTINF:-1 ,Media One TV
+https://jio.dinesh29.com.np/live/jio-universal/media-one-tv/index.ts
+#EXTINF:-1 ,Real News Kerala
+https://jio.dinesh29.com.np/live/jio-universal/real-news-kerala/index.ts
+#EXTINF:-1 ,Shri Hingulambika Devi Temple
+https://jio.dinesh29.com.np/live/jio-universal/shri-hingulambika-devi-temple/index.ts
+#EXTINF:-1 ,Shri Mangal Dev Grah Temple
+https://jio.dinesh29.com.np/live/jio-universal/shri-mangal-dev-grah-temple/index.ts
+#EXTINF:-1 ,DD Sahayadri
+https://jio.dinesh29.com.np/live/jio-universal/dd-sahayadri/index.ts
+#EXTINF:-1 ,Colors Marathi HD
+https://jio.dinesh29.com.np/live/jio-universal/colors-marathi-hd/index.ts
+#EXTINF:-1 ,Colors Marathi SD
+https://jio.dinesh29.com.np/live/jio-universal/colors-marathi-sd/index.ts
+#EXTINF:-1 ,Zee Marathi HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-marathi-hd/index.ts
+#EXTINF:-1 ,Sugran
+https://jio.dinesh29.com.np/live/jio-universal/sugran/index.ts
+#EXTINF:-1 ,Fakt Marathi
+https://jio.dinesh29.com.np/live/jio-universal/fakt-marathi/index.ts
+#EXTINF:-1 ,Zee Talkies HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-talkies-hd/index.ts
+#EXTINF:-1 ,Zee 24 Taas
+https://jio.dinesh29.com.np/live/jio-universal/zee-24-taas/index.ts
+#EXTINF:-1 ,Lokshahi News
+https://jio.dinesh29.com.np/live/jio-universal/lokshahi-news/index.ts
+#EXTINF:-1 ,Jai Maharashtra
+https://jio.dinesh29.com.np/live/jio-universal/jai-maharashtra/index.ts
+#EXTINF:-1 ,Colors Oriya
+https://jio.dinesh29.com.np/live/jio-universal/colors-oriya/index.ts
+#EXTINF:-1 ,Manjari TV
+https://jio.dinesh29.com.np/live/jio-universal/manjari-tv/index.ts
+#EXTINF:-1 ,Ekamra Cinema
+https://jio.dinesh29.com.np/live/jio-universal/ekamra-cinema/index.ts
+#EXTINF:-1 ,Argus News
+https://jio.dinesh29.com.np/live/jio-universal/argus-news/index.ts
+#EXTINF:-1 ,Badakhabar
+https://jio.dinesh29.com.np/live/jio-universal/badakhabar/index.ts
+#EXTINF:-1 ,Garv Punjabi Gurbani
+https://jio.dinesh29.com.np/live/jio-universal/garv-punjabi-gurbani/index.ts
+#EXTINF:-1 ,Gurkibani
+https://jio.dinesh29.com.np/live/jio-universal/gurkibani/index.ts
+#EXTINF:-1 ,Ek Onkar
+https://jio.dinesh29.com.np/live/jio-universal/ek-onkar/index.ts
+#EXTINF:-1 ,Sanjha TV
+https://jio.dinesh29.com.np/live/jio-universal/sanjha-tv/index.ts
+#EXTINF:-1 ,Live Punjabi TV
+https://jio.dinesh29.com.np/live/jio-universal/live-punjabi-tv/index.ts
+#EXTINF:-1 ,JUSPunjabi
+https://jio.dinesh29.com.np/live/jio-universal/juspunjabi/index.ts
+#EXTINF:-1 ,Luv Punjab TV
+https://jio.dinesh29.com.np/live/jio-universal/luv-punjab-tv/index.ts
+#EXTINF:-1 ,Zee Punjabi
+https://jio.dinesh29.com.np/live/jio-universal/zee-punjabi/index.ts
+#EXTINF:-1 ,Punjab Plus
+https://jio.dinesh29.com.np/live/jio-universal/punjab-plus/index.ts
+#EXTINF:-1 ,Desi Channel
+https://jio.dinesh29.com.np/live/jio-universal/desi-channel/index.ts
+#EXTINF:-1 ,Global Sanjh
+https://jio.dinesh29.com.np/live/jio-universal/global-sanjh/index.ts
+#EXTINF:-1 ,Pitaara
+https://jio.dinesh29.com.np/live/jio-universal/pitaara/index.ts
+#EXTINF:-1 ,mh1 (Music)
+https://jio.dinesh29.com.np/live/jio-universal/mh1-music/index.ts
+#EXTINF:-1 ,Only Music
+https://jio.dinesh29.com.np/live/jio-universal/only-music/index.ts
+#EXTINF:-1 ,Zee Punjabi HP Haryana
+https://jio.dinesh29.com.np/live/jio-universal/zee-punjabi-hp-haryana/index.ts
+#EXTINF:-1 ,JUS 24x7
+https://jio.dinesh29.com.np/live/jio-universal/jus-24x7/index.ts
+#EXTINF:-1 ,ABP Sanjha
+https://jio.dinesh29.com.np/live/jio-universal/abp-sanjha/index.ts
+#EXTINF:-1 ,News Only
+https://jio.dinesh29.com.np/live/jio-universal/news-only/index.ts
+#EXTINF:-1 ,Sai TV
+https://jio.dinesh29.com.np/live/jio-universal/sai-tv/index.ts
+#EXTINF:-1 ,Madha TV
+https://jio.dinesh29.com.np/live/jio-universal/madha-tv/index.ts
+#EXTINF:-1 ,Hosanna TV
+https://jio.dinesh29.com.np/live/jio-universal/hosanna-tv/index.ts
+#EXTINF:-1 ,SVBC
+https://jio.dinesh29.com.np/live/jio-universal/svbc/index.ts
+#EXTINF:-1 ,SVBC4
+https://jio.dinesh29.com.np/live/jio-universal/svbc4/index.ts
+#EXTINF:-1 ,Jaya TV HD
+https://jio.dinesh29.com.np/live/jio-universal/jaya-tv-hd/index.ts
+#EXTINF:-1 ,Peppers TV
+https://jio.dinesh29.com.np/live/jio-universal/peppers-tv/index.ts
+#EXTINF:-1 ,MK TV
+https://jio.dinesh29.com.np/live/jio-universal/mk-tv/index.ts
+#EXTINF:-1 ,Vendhar TV
+https://jio.dinesh29.com.np/live/jio-universal/vendhar-tv/index.ts
+#EXTINF:-1 ,Sun TV HD
+https://jio.dinesh29.com.np/live/jio-universal/sun-tv-hd/index.ts
+#EXTINF:-1 ,Vaanavil TV
+https://jio.dinesh29.com.np/live/jio-universal/vaanavil-tv/index.ts
+#EXTINF:-1 ,Zee Tamil HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-tamil-hd/index.ts
+#EXTINF:-1 ,Colors Tamil
+https://jio.dinesh29.com.np/live/jio-universal/colors-tamil/index.ts
+#EXTINF:-1 ,Imayam TV
+https://jio.dinesh29.com.np/live/jio-universal/imayam-tv/index.ts
+#EXTINF:-1 ,Moon TV
+https://jio.dinesh29.com.np/live/jio-universal/moon-tv/index.ts
+#EXTINF:-1 ,MK Six
+https://jio.dinesh29.com.np/live/jio-universal/mk-six/index.ts
+#EXTINF:-1 ,Sony Yay Tamil
+https://jio.dinesh29.com.np/live/jio-universal/sony-yay-tamil/index.ts
+#EXTINF:-1 ,J Movies
+https://jio.dinesh29.com.np/live/jio-universal/j-movies/index.ts
+#EXTINF:-1 ,Sun Life
+https://jio.dinesh29.com.np/live/jio-universal/sun-life/index.ts
+#EXTINF:-1 ,Raj Digital Plus
+https://jio.dinesh29.com.np/live/jio-universal/raj-digital-plus/index.ts
+#EXTINF:-1 ,KTV HD
+https://jio.dinesh29.com.np/live/jio-universal/ktv-hd/index.ts
+#EXTINF:-1 ,Raj Musix
+https://jio.dinesh29.com.np/live/jio-universal/raj-musix/index.ts
+#EXTINF:-1 ,Tunes 6
+https://jio.dinesh29.com.np/live/jio-universal/tunes-6/index.ts
+#EXTINF:-1 ,Sun Music HD
+https://jio.dinesh29.com.np/live/jio-universal/sun-music-hd/index.ts
+#EXTINF:-1 ,Jaya Plus
+https://jio.dinesh29.com.np/live/jio-universal/jaya-plus/index.ts
+#EXTINF:-1 ,Sathiyam TV
+https://jio.dinesh29.com.np/live/jio-universal/sathiyam-tv/index.ts
+#EXTINF:-1 ,Sun News
+https://jio.dinesh29.com.np/live/jio-universal/sun-news/index.ts
+#EXTINF:-1 ,Puthiya Thalimurai
+https://jio.dinesh29.com.np/live/jio-universal/puthiya-thalimurai/index.ts
+#EXTINF:-1 ,Raj News&#160;24x7
+https://jio.dinesh29.com.np/live/jio-universal/raj-news-24x7/index.ts
+#EXTINF:-1 ,Lotus News
+https://jio.dinesh29.com.np/live/jio-universal/lotus-news/index.ts
+#EXTINF:-1 ,News J
+https://jio.dinesh29.com.np/live/jio-universal/news-j/index.ts
+#EXTINF:-1 ,N5TV
+https://jio.dinesh29.com.np/live/jio-universal/n5tv/index.ts
+#EXTINF:-1 ,Sony Ten 4 HD Tamil
+https://jio.dinesh29.com.np/live/jio-universal/sony-ten-4-hd-tamil/index.ts
+#EXTINF:-1 ,Sony Ten 4 Tamil
+https://jio.dinesh29.com.np/live/jio-universal/sony-ten-4-tamil/index.ts
+#EXTINF:-1 ,Divya Vani
+https://jio.dinesh29.com.np/live/jio-universal/divya-vani/index.ts
+#EXTINF:-1 ,Hindu Dharmam
+https://jio.dinesh29.com.np/live/jio-universal/hindu-dharmam/index.ts
+#EXTINF:-1 ,Calvary
+https://jio.dinesh29.com.np/live/jio-universal/calvary/index.ts
+#EXTINF:-1 ,AP-CIE-SIVE
+https://jio.dinesh29.com.np/live/jio-universal/ap-cie-sive/index.ts
+#EXTINF:-1 ,Vissa TV
+https://jio.dinesh29.com.np/live/jio-universal/vissa-tv/index.ts
+#EXTINF:-1 ,Gemini TV HD
+https://jio.dinesh29.com.np/live/jio-universal/gemini-tv-hd/index.ts
+#EXTINF:-1 ,Zee Telugu HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-telugu-hd/index.ts
+#EXTINF:-1 ,Studio Yuva Alpha
+https://jio.dinesh29.com.np/live/jio-universal/studio-yuva-alpha/index.ts
+#EXTINF:-1 ,Sony Yay Telugu
+https://jio.dinesh29.com.np/live/jio-universal/sony-yay-telugu/index.ts
+#EXTINF:-1 ,Pogo Telugu
+https://jio.dinesh29.com.np/live/jio-universal/pogo-telugu/index.ts
+#EXTINF:-1 ,Zee Cinemalu
+https://jio.dinesh29.com.np/live/jio-universal/zee-cinemalu/index.ts
+#EXTINF:-1 ,Gemini Life
+https://jio.dinesh29.com.np/live/jio-universal/gemini-life/index.ts
+#EXTINF:-1 ,Gemini Movies HD
+https://jio.dinesh29.com.np/live/jio-universal/gemini-movies-hd/index.ts
+#EXTINF:-1 ,Zee Cinemalu HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-cinemalu-hd/index.ts
+#EXTINF:-1 ,ETV Cinema HD
+https://jio.dinesh29.com.np/live/jio-universal/etv-cinema-hd/index.ts
+#EXTINF:-1 ,Raj Music Telugu
+https://jio.dinesh29.com.np/live/jio-universal/raj-music-telugu/index.ts
+#EXTINF:-1 ,Gemini Music HD
+https://jio.dinesh29.com.np/live/jio-universal/gemini-music-hd/index.ts
+#EXTINF:-1 ,Raj News Telugu
+https://jio.dinesh29.com.np/live/jio-universal/raj-news-telugu/index.ts
+#EXTINF:-1 ,HM TV
+https://jio.dinesh29.com.np/live/jio-universal/hm-tv/index.ts
+#EXTINF:-1 ,ABN Andhra Jyothi
+https://jio.dinesh29.com.np/live/jio-universal/abn-andhra-jyothi/index.ts
+#EXTINF:-1 ,T News
+https://jio.dinesh29.com.np/live/jio-universal/t-news/index.ts
+#EXTINF:-1 ,TV 5 News
+https://jio.dinesh29.com.np/live/jio-universal/tv-5-news/index.ts
+#EXTINF:-1 ,6 TV
+https://jio.dinesh29.com.np/live/jio-universal/6-tv/index.ts
+#EXTINF:-1 ,I News
+https://jio.dinesh29.com.np/live/jio-universal/i-news/index.ts
+#EXTINF:-1 ,Studio One
+https://jio.dinesh29.com.np/live/jio-universal/studio-one/index.ts
+#EXTINF:-1 ,Sony Ten 4 Telugu
+https://jio.dinesh29.com.np/live/jio-universal/sony-ten-4-telugu/index.ts
+#EXTINF:-1 ,Mercy TV
+https://jio.dinesh29.com.np/live/jio-universal/mercy-tv/index.ts
+#EXTINF:-1 ,4 TV
+https://jio.dinesh29.com.np/live/jio-universal/4-tv/index.ts
+#EXTINF:-1 ,Aalami Samay
+https://jio.dinesh29.com.np/live/jio-universal/aalami-samay/index.ts
+#EXTINF:-1 ,ANN News
+https://jio.dinesh29.com.np/live/jio-universal/ann-news/index.ts
+
 #EXTINF:-1 ,DBC
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717192692/ei/lPNZZvGKDKXKi9oPiOOmsAU/ip/86.107.43.88/id/05Afa-zSRR4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177562/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f06uCJQIRbnZC1oWqwakaNlmmW3NBdXHH-wax9GejMUkSepHFVVE5xK6YjA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVJ_1Lg1vJlYal1ro-wuGxAwxY657RD_wq0QTDv6g9ikCIQD7TcqJ4yWWkLgs2zmYZVPGQt3DgVKF_IUrpEvKGD2urA%3D%3D/file/index.m3u8
 #EXTINF:-1 ,sonyten2
