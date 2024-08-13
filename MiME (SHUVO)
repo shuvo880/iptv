@@ -2,6 +2,10 @@
 #EXTINF:-1 ,iPTV BY SHUVO
 https://drive.usercontent.google.com/download?id=1BdyyL4ha5Uo7LcBDkyTYv-FAq9-7b87q&export=download&authuser=0
 
+#EXTINF:-1 ,JAMUNA TV
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 ,DBC
@@ -13,6 +17,10 @@ http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,jalsha movies hd
 http://172.19.178.39:18190/JS-TV-06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,sananda
+#EXTINF:-1 ,ZEE BANGLAHD
+http://172.19.178.39:18190/JS-TV-09/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR JALSHA HD
+http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
 #EXTINF:-1 ,Zee TVISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
