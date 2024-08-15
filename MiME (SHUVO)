@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnJ42DF/FB-IMG-1723727204380.jpg" resolution="1920@1080",iPTV BY SHUVO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnJ42DF/FB-IMG-1723727204380.jpg" ,iPTV BY SHUVO
 https://api3.mp4.to/static/downloads/8882674b-2f9f-485b-aa9a-abb6bf893c14/km_20240815_1080p_60f_20240815_191332.m3u8
 #EXTINF:-1 ,JAMUNA TV
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
@@ -100,10 +100,7 @@ http://humsab.xyz/IN_STGOLD/index.m3u8
 
 
 
-#EXTINF:-1 ,DBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717192692/ei/lPNZZvGKDKXKi9oPiOOmsAU/ip/86.107.43.88/id/05Afa-zSRR4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177562/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f06uCJQIRbnZC1oWqwakaNlmmW3NBdXHH-wax9GejMUkSepHFVVE5xK6YjA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVJ_1Lg1vJlYal1ro-wuGxAwxY657RD_wq0QTDv6g9ikCIQD7TcqJ4yWWkLgs2zmYZVPGQt3DgVKF_IUrpEvKGD2urA%3D%3D/file/index.m3u8
-#EXTINF:-1 ,sonyten2
-http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Nagorik Tv
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,jalsha movies hd
