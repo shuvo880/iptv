@@ -8,6 +8,99 @@ http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1,JamunaTV
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GaziTV
+http://172.19.178.39:18190/JS-TV-01/index.m3u8
+#EXTINF:-1,MaasragaTV
+http://172.19.178.39:18190/JS-TV-02/index.m3u8
+#EXTINF:-1,SomoyTV
+http://172.19.178.39:18190/JS-TV-05/index.m3u8
+#EXTINF:-1,JalshaMovieHD
+http://172.19.178.39:18190/JS-TV-06/index.m3u8
+#EXTINF:-1,ChanneliHD 
+http://172.19.178.39:18190/JS-TV-07/index.m3u8
+#EXTINF:-1,StarJalshaHD
+http://172.19.178.39:18190/JS-TV-08/index.m3u8
+#EXTINF:-1,ZeeBangla HD
+http://172.19.178.39:18190/JS-TV-09/index.m3u8
+#EXTINF:-1,TSports HD
+http://172.19.178.39:18190/U-TV-01/index.m3u8
+#EXTINF:-1,SonySports 5
+http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8
+#EXTINF:-1,ATNBangla
+http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
+#EXTINF:-1,ATN News
+http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
+#EXTINF:-1,Sports18 HD1
+http://172.19.178.59:18190/SN-ST-TV-23/index.m3u8
+#EXTINF:-1,Nagorik TV
+http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
+#EXTINF:-1,Diptto TV
+http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
+#EXTINF:-1,ETV
+http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
+#EXTINF:-1,PeaceTV Bangla
+http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8
+#EXTINF:-1,Asian TV
+http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
+#EXTINF:-1,Ekattor TV
+http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
+#EXTINF:-1,MYTV
+http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
+#EXTINF:-1,NTV
+http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
+#EXTINF:-1,P Sports
+http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8
+#EXTINF:-1,DBC News
+http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
+#EXTINF:-1,StarSport1HD
+http://172.19.178.39:18190/JS-TV-04/index.m3u8
+#EXTINF:-1,BanglaVision
+http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
+#EXTINF:-1,RTV
+http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8
+#EXTINF:-1,ZeeChenamaHD
+http://172.19.178.59:18190/SN-ST-TV-39/index.m3u8
+#EXTINF:-1,STARGOLDSELECT
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+#EXTINF:-1,SonyAtth
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#EXTINF:-1,ZeeBanglaCinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1,Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1,amarbangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1,Ruposhi Bangla
+https://cdn3.pishow.tv/live/281/master.m3u8
+#EXTINF:-1,ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1,24ghanta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF:-1,TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1,sangeetbangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
+#EXTINF:-1,musicindia
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
+#EXTINF:-1,9Xtashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1,9XJalwa
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+#EXTINF:-1,mtvbeats
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1,showbox
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1,B4U Music
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1,StatGoldHD
+http://humsab.xyz/IN_STGOLD/index.m3u8
+
+
+
+
+
 #EXTINF:-1 ,DBC
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717192692/ei/lPNZZvGKDKXKi9oPiOOmsAU/ip/86.107.43.88/id/05Afa-zSRR4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177562/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f06uCJQIRbnZC1oWqwakaNlmmW3NBdXHH-wax9GejMUkSepHFVVE5xK6YjA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVJ_1Lg1vJlYal1ro-wuGxAwxY657RD_wq0QTDv6g9ikCIQD7TcqJ4yWWkLgs2zmYZVPGQt3DgVKF_IUrpEvKGD2urA%3D%3D/file/index.m3u8
 #EXTINF:-1 ,sonyten2
