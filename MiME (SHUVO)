@@ -95,6 +95,8 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1,StatGoldHD
 http://humsab.xyz/IN_STGOLD/index.m3u8
+#EXTINF:-1,Sony MAX
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 
 
 
