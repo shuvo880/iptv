@@ -97,6 +97,8 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 http://humsab.xyz/IN_STGOLD/index.m3u8
 #EXTINF:-1,Sony MAX
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1,Colors Cineplex
+http://tv.cloudcdn.me/live.ts?channelId=470&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 
 
