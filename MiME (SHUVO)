@@ -3,8 +3,8 @@
 https://api3.mp4.to/static/downloads/8882674b-2f9f-485b-aa9a-abb6bf893c14/km_20240815_1080p_60f_20240815_191332.m3u8
 #EXTINF:-1 ,JAMUNA TV
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 ,Titanic
+http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
 #EXTINF:-1,JamunaTV
