@@ -1,3 +1,25 @@
+#EXTINF:-1,DBC NEWS 
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN NEWS
+http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SOMOY NEWS
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHANNELi
+http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NTV
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
+#EXTINF:-1JAMUNA TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTV
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BOISHAKHE TV
+http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BANGLAVISION
+http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/lRpkGHj.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
