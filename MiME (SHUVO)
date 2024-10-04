@@ -8,7 +8,7 @@ http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
-#EXTINF:-1JAMUNA TV
+#EXTINF:-1,JAMUNA TV
 http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
