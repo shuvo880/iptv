@@ -17,6 +17,9 @@ http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLAVISION
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,asiantv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
 
 
 
