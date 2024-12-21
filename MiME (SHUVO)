@@ -1,4 +1,108 @@
 #EXTM3U
+#EXTINF:-1 ,JAMUNA TV
+http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SOMOYNEWS
+http://172.19.178.39:18190/JS-TV-05/index.m3u8
+#EXTINF:-1 ,JALSHA MOVIES
+http://172.19.178.39:18190/JS-TV-06/index.m3u8
+#EXTINF:-1 ,CHANNELi
+http://172.19.178.39:18190/JS-TV-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR JASHA
+http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE BANGLA
+http://172.19.178.39:18190/JS-TV-09/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY AATH
+http://172.19.178.49:18190/sn-sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ATN NEWS
+http://172.19.178.49:18190/sn-atnnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DESHTV
+http://172.19.178.49:18190/sn-deshtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NAGORIKTV
+http://172.19.178.49:18190/sn-nagorik/tracks-v1/mono.m3u8
+#EXTINF:-1 ,ETV
+http://172.19.178.49:18190/sn-ekusheytv/tracks-v1/mono.m3u8
+#EXTINF:-1 ,BANGLAVISION
+http://172.19.178.49:18190/sn-banglavision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MYTV
+http://172.19.178.49:18190/sn-mytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NTV
+http://172.19.178.49:18190/sn-ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TSPORTS
+http://172.19.178.49:18190/sn-gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,RTV
+http://172.19.178.49:18190/sn-rtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,channel24
+http://172.19.178.49:18190/sn-channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SATVHD
+http://172.19.178.59:18190/sn-satv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,KIDS CREATION
+http://172.19.178.59:18190/sn-kidscreation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,peacetvbangla
+http://172.19.178.59:18190/sn-peacetvbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,saudisunnahtv
+http://172.19.178.59:18190/sn-saudisunnahtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,saudiqurantv
+http://172.19.178.59:18190/sn-saudiqurantv/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 1HD
+http://172.19.178.39:18190/JS-TV-04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY SPORTS5
+http://172.19.178.29:18190/CLOUD-TV-01/index.m3u8
+#EXTINF:-1 ,GTV
+http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MAASRANGA TV
+http://172.19.178.39:18190/JS-TV-02/index.m3u8
+#EXTINF:-1 ,PSPORTS
+http://172.19.178.59:18190/sn-ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR SPORTS 2HD
+http://172.19.178.39:18190/U-TV-03/index.m3u8
+#EXTINF:-1 ,sportstv
+http://172.19.178.59:18190/sn-sportstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,aljazeera
+http://172.19.178.59:18190/sn-aljazeera/index.m3u8
+#EXTINF:-1 ,deutschewelle
+http://172.19.178.59:18190/sn-deutschewelle/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="",ATN NEWS
 http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",SOMOY NEWS
