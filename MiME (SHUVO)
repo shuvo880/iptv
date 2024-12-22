@@ -64,7 +64,7 @@ http://172.19.178.59:18190/sn-aljazeera/index.m3u8
 #EXTINF:-1 ,deutschewelle
 http://172.19.178.59:18190/sn-deutschewelle/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ALL Time MOVIES
-
+http://103.156.169.82:8000/play/a01a/index.m3u8
 
 
 
