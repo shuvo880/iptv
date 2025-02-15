@@ -1,4 +1,75 @@
 #EXTM3U
+
+#EXTINF:-1 ,LIVE SPORTS
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,TSPORTS
+http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,GAZI TV
+http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SONY SPORTS 1 HD
+http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SONY SPORTS 2 HD
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SONY SPORTS 5 HD
+http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,LIVE SPORTS
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,EKATTOR TV
+http://10.20.30.40:8088/201/index.m3u8?
+#EXTINF:-1 ,ATN BANGLA HD
+http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,ATN NEWS HD
+http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,DBC NEWS
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SOMOY NEWS
+http://10.20.30.40:8088/205/tracks-v1/mono.m3u8?
+#EXTINF:-1 ,MAASRANGA HD
+http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,CHANNEL I HD
+http://10.20.30.40:8088/207/index.m3u8?
+#EXTINF:-1 ,N TV
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,JAMUNA TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,RTV HD
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,ZEE BANGLA HD
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,STAR JALSHA HD
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,JALSHA MOVIES HD
+http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,COLORS BANGLA HD
+http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SONY ATTH
+http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,JAMUNA TV
 http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SOMOYNEWS
