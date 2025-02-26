@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 ,SONY MAX
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TSPORTSHD
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DURONTO TV
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR JALSHA MOVIES 
+http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 #EXTINF:-1 ,LIVE SPORTS
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?
