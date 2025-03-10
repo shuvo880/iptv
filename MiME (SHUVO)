@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 GOLDMINES
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+
+
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
