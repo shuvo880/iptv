@@ -1,4 +1,105 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Channel I
+https://tvs2.aynaott.com/channeli/index.m3u8?token=a1b8f913c5d5f85a2f3880d3f257cf17150ca871-943d09a29807f5329024b11960c80406-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", NTV
+https://tvs2.aynaott.com/ntv/index.m3u8?token=4d84c4ae6a2df2e6d83dc02ce487e4adfa3388ed-05bde336f83fceee181ded1f614dca43-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Bangla Vision
+https://tvs2.aynaott.com/banglavision/index.m3u8?token=f0899ea11bee28b803e03e047580665005b30b79-9c9ef1af75d706b9ad94c3172d2eb813-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", RTV
+https://tvs1.aynaott.com/rtv/index.m3u8?token=92df475cd94a519781d933d10f30dc171f633e7a-3ef3446d97ce6b8e68627f2ed150dabb-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", ATN Bangla
+https://tvs2.aynaott.com/atnbangla/index.m3u8?token=d0e2acb038cc03ecfcaa38ab4268bc08370ebdd9-9439eb361797b7c30b92b874682ea75b-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", ETV
+https://tvs1.aynaott.com/etv/index.m3u8?token=3735b6c987d71067666fcf0b58e8e05c110149fe-1f95be0fc8c9a7ceceda20d9ce143d70-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Maasranga TV
+https://tvs2.aynaott.com/maasrangatv/index.m3u8?token=6bcbdc0bc3a571a48d8900f313d13667d1178e34-7872b2951b54d9d1163bef7e24acb671-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Deepto TV
+https://tvs2.aynaott.com/deeptotv/index.m3u8?token=bc03fade180a585c7ed5c3ed1b904a04c6f27535-b492ccbf0d6bf223a10f075bfef39f71-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Somoy News TV
+https://tvsen2.aynascope.net/8b9qxpFy/index.m3u8
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", T Sports HD
+https://tvs2.aynaott.com/tsportshd/index.m3u8?token=594d6102e3610a6140bf138fa4740c606e3635b1-f090d29cdf080ca01db89ee50184126f-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Gazi TV
+https://tvs2.aynaott.com/gtvhd/index.m3u8?token=ab3281f52a5069fb7bed4f6f88dd23a5b113989a-e2b9ca8136a5ef0dccf30a921b2d046b-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Desh TV
+https://tvs1.aynaott.com/deshtv/index.m3u8?token=8554aa5e14bbaacddc2de7182130da47756eff78-8778bc58befa85e52a4964dd02330471-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="Boishakhi TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Boishakhi TV
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?token=55768649ccc4756384a21c883f8c47fa3b453d06-3d198a621d065d6bf7011cbd0548888c-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8?token=3d6583679075e282184655f517d1efe50f1acccb-e50054f7424fd73b2abd4934a04ec7f4-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Channel 24
+https://tvs1.aynaott.com/channel24/index.m3u8?token=36ead94bde20b3936297c268074e55f05dd470ce-1f15ee55c6e8aacb2ed0fb13c95c66dc-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Asian TV
+https://tvs1.aynaott.com/asiantv/index.m3u8?token=91ed38a8f45d817f0930b010010b81f350900a43-f2f3319ef382ea81b76ba7e4faac51fd-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", ATN News
+https://tvs1.aynaott.com/atnnews/index.m3u8?token=b58d49989fe0798f94aa1a951518d0a309963c32-70e818fc799a5b9e9f8a06bb78a44d53-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Independent TV
+https://tvs1.aynaott.com/independenttv/index.m3u8?token=da6a63e3ca7a06a367a1c8726f862c267506561e-b28b8ebd3d86a3723d2069bc2b9dc15c-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", SA TV
+https://tvs1.aynaott.com/satv/index.m3u8?token=0b503c1af955f83d5bb50976157aa66ab934af01-07ac8f8cfdcccef21f616166301efe10-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="0875f2c8-2043-499b-9472-2872412a6340" tvg-name="DBC News" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", DBC News
+https://tvs1.aynaott.com/dbcnews/index.m3u8?token=41347c8c9ee4041d48f793e86b4cb75dcd2c3a7c-a15e889d5f4bf17fb5131e3313601505-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Ekhon TV
+https://tvs1.aynaott.com/ekhontv/index.m3u8?token=ef821857db1415fde6b21e7f12dc7bb35d1a1c4e-0b4a3deda02a6b250f7c4fb23bf2111f-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", News 24 BD
+https://tvs2.aynaott.com/News24/index.m3u8?token=89e40c2eaa148d7a1a7c8700eeb4a420a641f728-2188fea0961c9189329b4c354d67d2bb-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" tvg-name="Duronto TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Duronto TV
+https://tvs1.aynaott.com/durontotv/index.m3u8?token=f766a660231e047d7cbf9c927da1db4289c71300-365a9f8e930ce75d535d05dd304a2262-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Bangla TV
+https://tvs1.aynaott.com/banglatv/index.m3u8?token=e5c22f8671643891c95292ace6f2ec5b6ee53a97-172a54d980c5d48545548df7ca2fbb64-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Ekattor TV
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?token=9c812aecc16da6f171e5271a75b947813d3c970f-79c7518537439efb2597afbf0e75ec4e-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Jamuna TV
+https://tvs1.aynaott.com/jamunatv/index.m3u8?token=4ebd02a5277b8ae7de9f9faf1878b81e029ef1a9-bd4c891b658789858b1dc6c0e4916f3a-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Mohona TV
+https://tvs1.aynaott.com/mohonatv/index.m3u8?token=1078c9811acaafc4fe080bc9dfdddbd5e9d37342-f54aa667c9fc351759035ee0cf81ed5f-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", NEXUS TV
+https://tvs1.aynaott.com/nexustv/index.m3u8?token=5d0fadb06fe14675757f3cb345d7f934597d4b6e-adebe2d770259ace2483d0f34da55e72-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="f7c89459-37bf-4129-904d-33b0a4c0d590" tvg-name="Bijoy TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Bijoy TV
+https://tvs1.aynaott.com/bijoytv/index.m3u8?token=115c6cffa61f53135231b6eefeb7e93f677d8fda-7272d68b624ecee0a9682cdd083828e6-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Global TV
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?token=a9464e4a1aa4a47a76247e6ca36852d1359a1856-b77237d6ee29f82d5ba5e76d9a5a24ed-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="c0480a4a-f066-4a20-9f7d-73bbd852260f" tvg-name="My TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", My TV
+https://tvs1.aynaott.com/mytv/index.m3u8?token=185985c5ac57845181e54e6fbf3ba4e3157e6a5c-47f1a9e861aec2b95e19bb69514894fd-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-name="Ananda TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Ananda TV
+https://tvs1.aynaott.com/anandatv/index.m3u8?token=928289ad45a067be8ddc8a1dc5964a5f63f098e6-6cf618a966901e53ca4948cb753b34c8-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", A sports
+https://tvs1.aynaott.com/asports/index.m3u8?token=7ae4b562804d75787cb212a1097fe62120a4f9ad-e16a4f6f29268616ce77bb087a03e02c-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-name="P TV Sports" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", P TV Sports
+https://tvs2.aynaott.com/PtvSports/index.m3u8?token=5504de42e9e87fb31a5b701b4ea61b85af5d2ea4-fb2d5f61401cb651c33d84993014fef9-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="93c7e57d-e666-488a-aec9-a339a7e5eb74" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Fox Sports 2
+https://tvs3.aynaott.com/foxsports2/index.m3u8?token=c544d0bf1604b5c1b4dd8a94eab27e9afacdcc17-1354f334988a93a769e81d01d136cc29-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Star Sports 1 HD
+https://tvs2.aynaott.com/ssport1hd/index.m3u8?token=ad6111adf83ac288a9356baca9766669122e0fea-79fe1ef85f50f60ea67690c241b1bf12-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="6cce2b86-f371-4184-b288-988de0607926" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Star Sports Select 2 HD
+https://tvs1.aynaott.com/spsel2/index.m3u8?token=e673f69b757ee81a1af49abd2637a473b1a25301-630de6cb10597b44b939e3ed701c23a3-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="f1e1b6c8-9a1b-492d-bdf9-b63295e6073e" tvg-name="Sports 18" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Sports 18
+https://tvs1.aynaott.com/sports18/index.m3u8?token=470725f4f230792817f75714726399da8743c882-9a2a01601a0f1ef75d33e288bab0c739-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-name="Bein Sports" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Bein Sports
+https://tvs1.aynaott.com/beinsports/index.m3u8?token=02d0a5f12411b6b73213b08db86d72c316c86fa9-07d9575b5df1db4b67f6fac9d8b0f7d7-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="10bb1341-2aa8-4be2-8a25-76a75f5a3ee7" tvg-name="BT Sports 2" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", BT Sports 2
+https://tvs1.aynaott.com/btSport2/index.m3u8?token=5be43729854c643d2a3ec0d190b0985f29b39ce5-a86bf88e85f38adee622d5528cd2b8b8-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-name="Espn" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Espn
+https://tvs2.aynaott.com/espn/index.m3u8?token=6701dd2724320baa21a5a657f3d1aad759863190-2988b12858b4c0a81eaab127de67f42a-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="32d28b2c-aded-481d-833b-cee57cecfc93" tvg-name="TSN 2" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", TSN 2
+https://tvs3.aynaott.com/tsn2/index.m3u8?token=b84da1764eca8bd5ab115f60dfdf1bc771322c14-34699feecd76413b980ffc417ff7b659-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="5c62ff81-0efc-42eb-9dbe-65402fa54afb" tvg-name="Baby TV" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Baby TV
+https://tvs1.aynaott.com/babytv/index.fmp4.m3u8?token=f2b2bb1e5f628dbb920bd3e05ffe30cda764dc2d-2ae9de3bb73490c4dc2673442965baf0-1741987237-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Cartoon Network
+https://tvs2.aynaott.com/cartoonnetwork/index.fmp4.m3u8?token=1181e47ed7cdf95c10aa64bd51b848e4fd394a8f-295f8cdc42221f5c2399794e709cbca1-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="d6d46db7-a14a-45ad-b576-b40c80406134" tvg-name="PBS Kids" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", PBS Kids
+https://tvs2.aynaott.com/pbskids/index.fmp4.m3u8?token=c4832836563a285ba7844daecf2b685e40224673-7d3910fc76ecf4f3050aeb8bb17422ff-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" tvg-name="Disney JR" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Disney JR
+https://tvs2.aynaott.com/disney/index.fmp4.m3u8?token=9d7841e3e4f45d8d3bc59086a6bce0338f767a58-c3bcde9d5e6c926fe29c985d5cc719ce-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="3830c379-539b-4e18-9943-9664574c850b" tvg-name="Nicktoons" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Nicktoons
+https://tvs2.aynaott.com/nicktoons/index.fmp4.m3u8?token=407b770cf419627fa38013171aae81f7381fca59-4b3d6456c2a628ccba1114cc908cd8cd-1742062837-1741976137&amp;remote=no_check_ip
+#EXTINF:-1 tvg-id="c197b1bc-8909-4176-a50f-f855a4a51c1f" tvg-name="Nickjr" tvg-logo="https://i.ibb.co.com/svqQFnJh/Dark-Abstract-Black-Panther-Gaming-Logo-20250314-145236-0000.png" group-title="AynaOTT", Nickjr
+https://tvs2.aynaott.com/nickjr/index.fmp4.m3u8?token=121909ebde6f3d3134776af827ba8d82481fef49-6fb6418f0bead4c6894e23b270b7f93a-1742062837-1741976137&amp;remote=no_check_ip
+ 
+
+
+
+
 
 
 #EXTINF:-1 GOLDMINES
