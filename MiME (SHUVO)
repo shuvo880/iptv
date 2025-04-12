@@ -9,6 +9,20 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 ,GOLDMINES
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#EXTINF:-1 ,ZEE BANGLA HD
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,STAR JALSHA HD
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,JALSHA MOVIES HD
+http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,COLORS BANGLA HD
+http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SONY ATTH
+http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,colorsbanglahd
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 ,ZEE BANGLA
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 ,SOMOY TV
