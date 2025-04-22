@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1,StarJalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CtHWMFZ/Colors-HD100x100.png" group-title="VOOT",Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB8gKf2/hdpluslogo100x100.png" group-title="VOOT",Nick HD+
