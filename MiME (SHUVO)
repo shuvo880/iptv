@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 ,TSPORTS
 http://116.204.149.16/t_sports/index.m3u8
@@ -62,8 +61,6 @@ https://m1.merichunidya.com:999/hls/skystennis.m3u8?md5=6gOOiOrtJyWjTHiRGOx3uA&e
 https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=xNOHyXIcWyc3-Ee6fL6cKA&expires=1746607736
 #EXTINF:-1 ,Deshi TV HD
 http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 ,Ekhattor
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733571712/ei/IOBTZ6fuGpONg8UPn5_vaA/ip/172.69.78.143/id/2lV5aITTikI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AQn3pFRF85AOyHLNYSMYAwYJ7LUE6JHjDIdAyCP0tVldkFZJBiOi2-0nuzj8tMTjH-Of8u7gXGRtpGl_/spc/qtApAfViolvnmpoONZ0holGq1h2Gp9rjQsed8wURlJUj6BRQMtIQAdwSVUQ_ORE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51353498%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbkuMAYhlrLNLCvJJk33ZNnLBlmeq1fS3vLlly98hHaYCIDs_GsH7tpnpBvOkqF9tlxBUpYoWD4MHiCQLSg6rVcLc/file/index.m3u8
 #EXTINF:-1 ,T Sports HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/TSports.m3u
 #EXTINF:-1 ,T Sports HD
@@ -84,16 +81,12 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://bdixtv24.com/ayna/watch.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d&format=.m3u8
 #EXTINF:-1 ,TARA BANGLA CINAMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 ,Ekushey Tv
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8 
 #EXTINF:-1 ,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 ,Mohona TV
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 ,Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 ,Discovery Kids
@@ -116,8 +109,6 @@ https://cdn.hoichoi24.com/DiscoveryHD/video.m3u8
 https://cdn.hoichoi24.com/Colors-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Calcutta News
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
-#EXTINF:-1 ,Zee Bangla Cinema
-http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 ,SUN BANGLA HD
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Sun_Bangla.m3u8
 #EXTINF:-1 ,Bangla Pulas
@@ -150,8 +141,6 @@ https://cdn.hoichoi24.com/A-sports/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 ,Sony Sports 3 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
-#EXTINF:-1 ,Sony Sports 4 HD
-http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 ,Sony Liv HD
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 ,Geo Super
@@ -162,12 +151,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 ,BAN U-19 VS IND U-19 [ENG]
 https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 ,CricLife-1
-http://xtv.ooo:8080/live/danyear12/am809100/371469.m3u8
-#EXTINF:-1 ,CricLife-2
-http://xtv.ooo:8080/live/danyear12/am809100/371470.m3u8
-#EXTINF:-1 ,Sony Pix HD
-http://opplex.tv:8080/live/global/global/109966.ts
 #EXTINF:-1 ,COLORS HD
 https://mhdtvstream.com/live.php?id=144&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 ,RISHTEY
@@ -234,8 +217,6 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 ,Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 ,MINIMAX
-https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 ,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 ,Me TV
@@ -254,8 +235,6 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=76723|Referer=RANAPK
 https://fifabd.xyz/OPLLX/play.m3u8?id=167551|Referer=RANAPK
 #EXTINF:-1 ,Cartoon Network
 https://fifabd.xyz/OPLLX/play.m3u8?id=150478|Referer=RANAPK
-#EXTINF:-1 ,T Sports
-http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167590.m3u8
 #EXTINF:-1 ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 ,beIN sports Xtra
@@ -284,8 +263,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 #EXTINF:-1 ,Enter 10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 ,Sony Aath
-https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
 #EXTINF:-1 ,Sony sub
 https://fifabd.xyz/OPLLX/play.m3u8?id=221256|Referer=RANAPK
 #EXTINF:-1 ,Star jalsha
@@ -362,12 +339,6 @@ https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
 https://otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
 #EXTINF:-1 ,Korean Drama Active
 https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
-#EXTINF:-1 ,Movies Now HD
-https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
-#EXTINF:-1 ,MNX HD
-https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
-#EXTINF:-1 ,MN Plus HD
-https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
 #EXTINF:-1 ,Music India
 https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
 #EXTINF:-1 ,NDTV 24x7
@@ -448,8 +419,6 @@ https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
 #EXTINF:-1 ,The Q
 https://otttv.co.in/d2h/livestream/the-q/master.m3u8
-#EXTINF:-1 ,Times Now Navbharat
-https://otttv.co.in/d2h/livestream/times-now-navbharat/master.m3u8
 #EXTINF:-1 ,TLC
 https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
 #EXTINF:-1 ,Total Bhakti
@@ -508,14 +477,6 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1 ,JAMUNA TV
-http://xtv.ooo:8080/danyear12/am809100/245917
-#EXTINF:-1 ,NEWS 24 HD
-http://xtv.ooo:8080/danyear12/am809100/245903
-#EXTINF:-1 ,ATN Bangla
-http://xtv.ooo:8080/danyear12/am809100/245909
-#EXTINF:-1 ,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Kumilla tv
@@ -538,28 +499,14 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 ,Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ,Sony YAY
-http://xtv.ooo:8080/danyear12/am809100/314753
 #EXTINF:-1 ,Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 ,Discovery Bangla
-http://xtv.ooo:8080/danyear12/am809100/206287
-#EXTINF:-1 ,NAT GEO HD Bangla
-http://xtv.ooo:8080/danyear12/am809100/206285
-#EXTINF:-1 ,Net Geo wild
-http://xtv.ooo:8080/danyear12/am809100/206286
 #EXTINF:-1 ,Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://xtv.ooo:8080/danyear12/am809100/109975
-#EXTINF:-1 ,Jalsha Movies HD
-http://xtv.ooo:8080/danyear12/am809100/245900
 #EXTINF:-1 ,Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 #EXTINF:-1 ,Colors Bangla Cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 ,Sun Bangla
-http://xtv.ooo:8080/danyear12/am809100/245906
 #EXTINF:-1 ,TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 ,Enter 10 Bangla
@@ -574,8 +521,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 #EXTINF:-1 ,R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 ,Sangeet Bangla
-http://xtv.ooo:8080/danyear12/am809100/245933
 #EXTINF:-1 ,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 ,Music India
@@ -586,102 +531,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 ,&Tv
-http://xtv.ooo:8080/danyear12/am809100/109952
-#EXTINF:-1 ,Star Gold Thrills
-http://xtv.ooo:8080/danyear12/am809100/221258
-#EXTINF:-1 ,Star Gold HD
-http://xtv.ooo:8080/danyear12/am809100/66177
-#EXTINF:-1 ,Star Gold-2 HD
-http://xtv.ooo:8080/danyear12/am809100/109959
 #EXTINF:-1 ,Zee Bolly Wood HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
-#EXTINF:-1 ,Zee Cinema
-http://xtv.ooo:8080/danyear12/am809100/109958
-#EXTINF:-1 ,Zee Action
-http://xtv.ooo:8080/danyear12/am809100/66191
-#EXTINF:-1 ,SONY SAB
-http://xtv.ooo:8080/danyear12/am809100/66174
-#EXTINF:-1 ,SONY MAX-2
-http://xtv.ooo:8080/danyear12/am809100/66189
 #EXTINF:-1 ,South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 ,Star Movies HD
-http://xtv.ooo:8080/danyear12/am809100/66213
-#EXTINF:-1 ,Star Movies Select HD
-http://xtv.ooo:8080/danyear12/am809100/66215
-#EXTINF:-1 ,Live Sports-1
-http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
-#EXTINF:-1 ,Live Sports-2
-http://xtv.ooo:8080/danyear12/am809100/346373
 #EXTINF:-1 ,Live Sports-3
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 ,Live Sports-4
-http://xtv.ooo:8080/danyear12/am809100/233178
-#EXTINF:-1 ,T-Sports [2]
-http://xtv.ooo:8080/danyear12/am809100/167590
-#EXTINF:-1 ,Star Sports 1
-http://xtv.ooo:8080/danyear12/am809100/220062
-#EXTINF:-1 ,Star Sports 1-[2]
-http://xtv.ooo:8080/danyear12/am809100/167575
 #EXTINF:-1 ,Star Sports-1 Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,Star Sports 2
-http://xtv.ooo:8080/danyear12/am809100/167576
-#EXTINF:-1 ,Star Sports 3
-http://xtv.ooo:8080/danyear12/am809100/167577
 #EXTINF:-1 ,Star Sports Select 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,Star Sports Select 1
-http://xtv.ooo:8080/danyear12/am809100/167578
-#EXTINF:-1 ,Star Sports Select 2
-http://xtv.ooo:8080/danyear12/am809100/167579
-#EXTINF:-1 ,Sports-18
-http://xtv.ooo:8080/danyear12/am809100/382205
-#EXTINF:-1 ,Sony Sports-1 HD
-http://xtv.ooo:8080/danyear12/am809100/167570
-#EXTINF:-1 ,Sony Sports-2 HD
-http://xtv.ooo:8080/danyear12/am809100/167571
-#EXTINF:-1 ,Sony Sports-3 HD
-http://xtv.ooo:8080/danyear12/am809100/167572
-#EXTINF:-1 ,Sony Sports-4
-http://xtv.ooo:8080/danyear12/am809100/167595
-#EXTINF:-1 ,Sony Sports-5 HD
-http://xtv.ooo:8080/danyear12/am809100/167580
-#EXTINF:-1 ,PTV Sports
-http://xtv.ooo:8080/danyear12/am809100/220059
-#EXTINF:-1 ,Ten Sports
-http://xtv.ooo:8080/danyear12/am809100/220060
-#EXTINF:-1 ,Ten Sports Cricket
-http://xtv.ooo:8080/danyear12/am809100/167587
-#EXTINF:-1 ,Geo Super TV
-http://xtv.ooo:8080/danyear12/am809100/167568
-#EXTINF:-1 ,Willow HD
-http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
-#EXTINF:-1 ,FOX Cricket 501
-http://xtv.ooo:8080/danyear12/am809100/167593
-#EXTINF:-1 ,Astro Cricket
-http://xtv.ooo:8080/danyear12/am809100/167581
-#EXTINF:-1 ,CricLife-1
-http://xtv.ooo:8080/danyear12/am809100/371469
-#EXTINF:-1 ,CricLife-2
-http://xtv.ooo:8080/danyear12/am809100/371470
-#EXTINF:-1 ,Sky Sports Cricket
-http://xtv.ooo:8080/danyear12/am809100/167594
-#EXTINF:-1 ,Sky Sports Football
-http://xtv.ooo:8080/danyear12/am809100/346241
-#EXTINF:-1 ,Super Sport Cricket
-http://xtv.ooo:8080/danyear12/am809100/167592
-#EXTINF:-1 ,Laliga tv
-http://xtv.ooo:8080/danyear12/am809100/238479
-#EXTINF:-1 ,Suppersports Football
-http://xtv.ooo:8080/danyear12/am809100/238480
-#EXTINF:-1 ,BeIN Sports 1
-http://xtv.ooo:8080/live/danyear12/am809100/381330.ts
-#EXTINF:-1 ,BeIN Sports 3
-http://xtv.ooo:8080/live/danyear12/am809100/381332.ts
-#EXTINF:-1 ,BeIN Sports 4
-http://xtv.ooo:8080/live/danyear12/am809100/381335.ts
 #EXTINF:-1 ,BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 ,LIVE SPORTS
@@ -732,8 +591,6 @@ http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8?
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,ZEE BANGLA
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
-#EXTINF:-1 ,SONY SPORTS5
-http://172.19.178.29:18190/CLOUD-TV-01/index.m3u8
 #EXTINF:-1 ,ATN NEWS
 http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SOMOY NEWS
@@ -746,12 +603,6 @@ http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BANGLAVISION
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,asiantv
-https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 ,tsports
-http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 ,BANGLA TV HD
@@ -806,8 +657,6 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 ,Pogo Hindi
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 ,PTV
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?|drmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
 #EXTINF:-1 ,PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTINF:-1 ,PEACE TV ENGLISH
