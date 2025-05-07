@@ -75,14 +75,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 ,N TV
-https://bdixtv24.com/ayna/watch.php?id=1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d&format=.m3u8
 #EXTINF:-1 ,TARA BANGLA CINAMA
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 ,MASSRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Peace TV
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8 
 #EXTINF:-1 ,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 ,Rongeen TV
@@ -101,8 +97,6 @@ https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134
 https://raw.githubusercontent.com/Miraz6755/My-tv/refs/heads/main/Zee_Bangla.m3u8
 #EXTINF:-1 ,Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
-
-
 #EXTINF:-1 ,Calcutta News
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 ,SUN BANGLA HD
@@ -131,7 +125,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 ,TNT Sports 2
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-
 #EXTINF:-1 ,Willow TV
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 #EXTINF:-1 ,Sony Sports 3 HD
@@ -188,7 +181,6 @@ https://mhdtvstream.com/live.php?id=1657&extension=.m3u8|Referer=https://mhdtvst
 https://mhdtvstream.com/live.php?id=1763&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 ,COLORS CINEPLEX SUPERHITS
 https://mhdtvstream.com/live.php?id=1450&extension=.m3u8|Referer=https://mhdtvstream.com/
-
 #EXTINF:-1 ,SPORTS 18 1
 https://mhdtvstream.com/live.php?id=1985&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 ,SPORTS 18 2
@@ -197,7 +189,6 @@ https://mhdtvstream.com/live.php?id=2852&extension=.m3u8|Referer=https://mhdtvst
 https://mhdtvstream.com/live.php?id=2853&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 ,SPORTS 18 KHEL
 https://mhdtvstream.com/live.php?id=1998&extension=.m3u8|Referer=https://mhdtvstream.com/
-
 #EXTINF:-1 ,Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS
@@ -288,7 +279,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/sangeetbho
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 ,Zoom
 http://watchindia.net:8880/live/40972/04523/842.m3u8
-
 #EXTINF:-1 ,& Pictures (And Pictures)
 https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
 #EXTINF:-1 ,9X Jalwa
@@ -511,9 +501,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 #EXTINF:-1 ,R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 ,Zoom
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 ,Music India
+#EXTINF:-1 ,music india
 https://cdn-2.pishow.tv/live/226/226_1.m3u8
 #EXTINF:-1 ,ICC_9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8 
