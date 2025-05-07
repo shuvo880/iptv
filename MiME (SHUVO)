@@ -8,7 +8,7 @@ http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 ,GAZITV
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?
 
-#EXTM3U
+
 #EXTINF:-1 ,Star Sports 1
 https://m2.merichunidya.com:999/hls/star1in.m3u8?md5=hWMivKe67-8zERfi5Oudrw&expires=1746607727
 #EXTINF:-1 ,Star Sports 1 Hindi
@@ -63,7 +63,7 @@ https://m1.merichunidya.com:999/hls/skystennis.m3u8?md5=6gOOiOrtJyWjTHiRGOx3uA&e
 https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=xNOHyXIcWyc3-Ee6fL6cKA&expires=1746607736
 
 
-#EXTM3U
+
 #EXTINF:-1 ,Deshi TV HD
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 ,Ekhattor
