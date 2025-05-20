@@ -23,6 +23,13 @@ http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8?
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,ZEE BANGLA
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,SCi-Fi
+http://130.193.73.10:8937/play/a02q
+
+
+
+
+
 #EXTINF:-1 ,BTV WORLD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA--NpWI16nUzntdc3QeimzQ/m3u8
 #EXTINF:-1 ,T SPORTS HD
