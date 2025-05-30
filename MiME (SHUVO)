@@ -5,12 +5,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 ,colorsbanglahd
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 ,FAST SPORTS
-https://tv.mymoviebazar.net/stream/stream11.m3u8
-#EXTINF:-1 ,TSPORTS
-https://tv.mymoviebazar.net/stream/stream56.m3u8
-#EXTINF:-1 ,STAR SPORTS 3
-https://tv.mymoviebazar.net/stream/stream13.m3u8
+
 #EXTINF:-1 ,mastiii
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/e5ae73ce-a805-481a-802f-e14eefdba343/1.m3u8
 #EXTINF:-1 ,BTV WORLD
