@@ -1,4 +1,95 @@
 #EXTM3U
+#EXTINF:-1,Live Sports
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TSports
+http://10.20.30.40:8088/102/index.m3u8?
+#EXTINF:-1,Gazi Tv
+http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 1
+http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 2
+http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Sports 1
+http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Sports 2
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Sports 3
+http://10.20.30.40:8088/121/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 1 SLT
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 2 SLT
+http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekattor Tv
+http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN Bangla
+http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN NEWS
+http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DBC NEWS
+http://10.20.30.40:8088/204/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Somoy News 
+http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Maasraga TV
+http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel i
+http://10.20.30.40:8088/207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,N TV
+http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jamuna TV
+http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
+#EXTINF:-1,R TV
+http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Boishakhi TV
+http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BanglaVision
+http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZeeBangla 
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarJalsha
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JalshaMovie
+http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ColorsBangla
+http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZeeBangla C
+http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SonyAath
+http://10.20.30.40:8088/306/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarPlus
+http://10.20.30.40:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarGold
+http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SatSony
+http://10.20.30.40:8088/403/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SonyMax
+http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors
+http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZeeCinema
+http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
+#EXTINF:-1,&Pictures
+http://10.20.30.40:8088/407/tracks-v1a1/mono.m3u8
+#EXTINF:-1,StarMovies
+http://10.20.30.40:8088/501/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MoviesNow
+http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Pix
+http://10.20.30.40:8088/503/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DisniyJonior
+http://10.20.30.40:8088/602/tracks-a1/mono.m3u8
+#EXTINF:-1,NickJR
+http://10.20.30.40:8088/601/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4UMusic
+http://10.20.30.40:8088/701/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SangeetBangla
+http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Masti
+http://10.20.30.40:8088/703/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9xm
+http://10.20.30.40:8088/704/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 ,TSPORTS
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 ,GOLDMINES
