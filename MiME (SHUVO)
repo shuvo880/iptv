@@ -18,8 +18,8 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1,ZeeCinema
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Nagorik TV 
+https://mohon-iptv.vercel.app/MOHON-IPTV/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
