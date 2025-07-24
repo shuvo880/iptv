@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 ,TSPORTS
+https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=?
+
 #EXTINF:-1 ,TSPORTS
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,TSPORTS
