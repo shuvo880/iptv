@@ -26,8 +26,6 @@ http://172.16.29.3:8090/hls/9xm.m3u8
 
 #EXTINF:-1 ,TSPORTS
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,TSPORTS
-http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 ,GOLDMINES
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 ,colorsbanglahd
