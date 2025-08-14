@@ -22,7 +22,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1,Zee-Bangla-Cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
-#EXTINF:-1,Zee-Bangla
+#EXTINF:-1,Zee-Bangla 1
+http://10.20.30.40:8088/301/index.m3u8?
+#EXTINF:-1,Zee-Bangla 2
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1,ZeeCinema
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
