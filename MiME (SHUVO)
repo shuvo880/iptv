@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,SonyTen1
+http://ms.towkai.com/sony_ten1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 ,TSPORTS
 https://live.tsports.com/?bitrate=1024000&channel=tsports_live_1_1080&res=?
