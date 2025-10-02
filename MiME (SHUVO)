@@ -91,3 +91,23 @@ http://103.175.242.10:8080/sunbangla/index.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
 http://103.175.242.10:8080/zeebangla/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1,Sony Entertainment HD
+51.15.7.9:3141/sethd/index.m3u8
+#EXTINF:-1,SONY max HD
+51.15.7.9:3141/max/index.m3u8
+#EXTINF:-1,SONY max2 HD
+51.15.7.9:3141/max2/index.m3u8
+#EXTINF:-1,stargold HD
+51.15.7.9:3141/stargold/index.m3u8
+#EXTINF:-1,Zee Cafe
+51.15.7.9:3141/cafe/index.m3u8
+#EXTINF:-1,epic HD
+51.15.7.9:3141/epic/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+51.15.7.9:3141/zeecinema/index.m3u8
