@@ -1,6 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1,tsports
+http://10.20.30.40:8088/102/index.m3u8?
+#EXTINF:-1,starjalsha
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:-1,zeebangla
+http://10.20.30.40:8088/301/index.m3u8
+
+
+
+#EXTINF:-1,tsports
 http://ms.towkai.com/tsports_ml/index.m3u8
 #EXTINF:-1,BtvNational
 http://ms.towkai.com/BtvNational/index.m3u8
