@@ -1,208 +1,229 @@
 #EXTM3U
-
-#EXTINF:-1,tsports
+#EXTINF:-1 ,tsports
 http://10.20.30.40:8088/102/index.m3u8?
-#EXTINF:-1,starjalsha
+#EXTINF:-1 ,starjalsha
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
-#EXTINF:-1,zeebangla
+#EXTINF:-1 ,zeebangla
 http://10.20.30.40:8088/301/index.m3u8
-
-
-
-#EXTINF:-1,tsports
-http://ms.towkai.com/tsports_ml/index.m3u8
-#EXTINF:-1,BtvNational
+#EXTINF:-1 ,tsports
+http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BtvNational
 http://ms.towkai.com/BtvNational/index.m3u8
-#EXTINF:-1,BTVChattogram
+#EXTINF:-1 ,BTVChattogram
 http://ms.towkai.com/BTVChattogram/index.m3u8
-#EXTINF:-1,btvnews
-http://ms.towkai.com/btvnews_ml/index.m3u8
-#EXTINF:-1,atnbangla
+#EXTINF:-1 ,btvnews
+http://ms.towkai.com/BTVNewsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,atnbangla
 http://ms.towkai.com/atnbangla_ml/index.m3u8
-#EXTINF:-1,ChanneliHD
+#EXTINF:-1 ,ChanneliHD
 http://ms.towkai.com/ChanneliHD/index.m3u8
-#EXTINF:-1,Ekusheytv
+#EXTINF:-1 ,Ekusheytv
 http://ms.towkai.com/Ekusheytv/index.m3u8
-#EXTINF:-1,ntvsd
+#EXTINF:-1 ,ntvsd
 http://ms.towkai.com/ntvsd/index.m3u8
-#EXTINF:-1,rtvhd
+#EXTINF:-1 ,rtvhd
 http://ms.towkai.com/rtvhd/index.m3u8
-#EXTINF:-1,boishakhi
+#EXTINF:-1 ,boishakhi
 http://ms.towkai.com/boishakhi_ml/index.m3u8
-#EXTINF:-1,banglavision
+#EXTINF:-1 ,banglavision
 http://ms.towkai.com/banglavision_ml/index.m3u8
-#EXTINF:-1,DeshSD
+#EXTINF:-1 ,DeshSD
 http://ms.towkai.com/DeshSD/index.m3u8
-#EXTINF:-1,mytv
+#EXTINF:-1 ,mytv
 http://ms.towkai.com/mytv/index.m3u8
-#EXTINF:-1,atnnews
+#EXTINF:-1 ,atnnews
 http://ms.towkai.com/atnnews_ml/index.m3u8
-#EXTINF:-1,MOHONA
+#EXTINF:-1 ,MOHONA
 http://ms.towkai.com/MOHONA/index.m3u8
-#EXTINF:-1,somoytv
+#EXTINF:-1 ,somoytv
 http://ms.towkai.com/somoytv/index.m3u8
-#EXTINF:-1,iTV
+#EXTINF:-1 ,iTV
 http://ms.towkai.com/itv_ml/index.m3u8
-#EXTINF:-1,maasranga
+#EXTINF:-1 ,maasranga
 http://ms.towkai.com/maasranga/index.m3u8
-#EXTINF:-1,channel9
+#EXTINF:-1 ,channel9
 http://ms.towkai.com/channel9_ml/index.m3u8
-#EXTINF:-1,channel24
+#EXTINF:-1 ,channel24
 http://ms.towkai.com/channel24_ml/index.m3u8
-#EXTINF:-1,gazi
+#EXTINF:-1 ,gazi
 http://ms.towkai.com/gazi_ml/index.m3u8
-#EXTINF:-1,EkattorHD
+#EXTINF:-1 ,EkattorHD
 http://ms.towkai.com/EkattorHD/index.m3u8
-#EXTINF:-1,asiantv
+#EXTINF:-1 ,asiantv
 http://ms.towkai.com/asiantv_ml/index.m3u8
-#EXTINF:-1,satv
+#EXTINF:-1 ,satv
 http://ms.towkai.com/satv/index.m3u8
-#EXTINF:-1,Jamuna_SD
+#EXTINF:-1 ,Jamuna_SD
 http://ms.towkai.com/Jamuna_SD/index.m3u8
-#EXTINF:-1,DeeptoHD
+#EXTINF:-1 ,DeeptoHD
 http://ms.towkai.com/DeeptoHD/index.m3u8
-#EXTINF:-1,dbcnews
+#EXTINF:-1 ,dbcnews
 http://ms.towkai.com/dbcnews_ml/index.m3u8
-#EXTINF:-1,News24HD
+#EXTINF:-1 ,News24HD
 http://ms.towkai.com/News24HD/index.m3u8
-#EXTINF:-1,banglatv
+#EXTINF:-1 ,banglatv
 http://ms.towkai.com/banglatv/index.m3u8
-#EXTINF:-1,DurontoHD
+#EXTINF:-1 ,DurontoHD
 http://ms.towkai.com/DurontoHD/index.m3u8
-#EXTINF:-1,nagorik
+#EXTINF:-1 ,nagorik
 http://ms.towkai.com/nagorik/index.m3u8
-#EXTINF:-1,anandatv
+#EXTINF:-1 ,anandatv
 http://ms.towkai.com/anandatv_ml/index.m3u8
-#EXTINF:-1,ekhon
-http://ms.towkai.com/ekhon/index.m3u8
-#EXTINF:-1,aakash
+#EXTINF:-1 ,globaltv
+http://ms.towkai.com/globaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GreenTV
+http://ms.towkai.com/GreenTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,channels
+http://ms.towkai.com/channels_ml/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ekhon
+http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,aakash
 http://ms.towkai.com/aakash_ml/index.m3u8
-#EXTINF:-1,aljazeera
+#EXTINF:-1 ,aljazeera
 http://ms.towkai.com/aljazeera_ml/index.m3u8
-#EXTINF:-1,zeenews
+#EXTINF:-1 ,zeenews
 http://ms.towkai.com/zeenews_ml/index.m3u8
-#EXTINF:-1,cgtn
+#EXTINF:-1 ,cgtn
 http://ms.towkai.com/cgtn_ml/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1 ,DW
 http://ms.towkai.com/dw_ml/index.m3u8
-#EXTINF:-1,geonews
+#EXTINF:-1 ,geonews
 http://ms.towkai.com/geonews_ml/index.m3u8
-#EXTINF:-1,rtnews
+#EXTINF:-1 ,rtnews
 http://ms.towkai.com/rtnews_ml/index.m3u8
-#EXTINF:-1,bbcnews
+#EXTINF:-1 ,bbcnews
 http://ms.towkai.com/bbcnews_ml/index.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1 ,CNN
 http://ms.towkai.com/cnn_ml/index.m3u8
-#EXTINF:-1,sonysetmax
+#EXTINF:-1 ,sonysetmax
 http://ms.towkai.com/sonysetmax_ml/index.m3u8
-#EXTINF:-1,b4umovies
+#EXTINF:-1 ,b4umovies
 http://ms.towkai.com/b4umovies_ml/index.m3u8
-#EXTINF:-1,zeecinema
+#EXTINF:-1 ,zeecinema
 http://ms.towkai.com/zeecinema_ml/index.m3u8
-#EXTINF:-1,starmovies
+#EXTINF:-1 ,starmovies
 http://ms.towkai.com/starmovies_ml/index.m3u8
-#EXTINF:-1,jalshamovies
+#EXTINF:-1 ,jalshamovies
 http://ms.towkai.com/jalshamovies_ml/index.m3u8
-#EXTINF:-1,stargold
+#EXTINF:-1 ,stargold
 http://ms.towkai.com/stargold_ml/index.m3u8
-#EXTINF:-1,stargold2
+#EXTINF:-1 ,stargold2
 http://ms.towkai.com/stargold2_ml/index.m3u8
-#EXTINF:-1,sonypix
+#EXTINF:-1 ,sonypix
 http://ms.towkai.com/sonypix_ml/index.m3u8
-#EXTINF:-1,zeebanglacinema
+#EXTINF:-1 ,Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 ,Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 ,Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 ,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 ,Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 ,Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,MU | Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 ,MU | MUSIC INDIA HD
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 ,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 ,zeebanglacinema
 http://ms.towkai.com/zeebanglacinema_ml/index.m3u8
-#EXTINF:-1,andflix
+#EXTINF:-1 ,andflix
 http://ms.towkai.com/andflix_ml/index.m3u8
-#EXTINF:-1,zeetv
+#EXTINF:-1 ,zeetv
 http://ms.towkai.com/zeetv_ml/index.m3u8
-#EXTINF:-1,sonytv
+#EXTINF:-1 ,sonytv
 http://ms.towkai.com/sonytv_ml/index.m3u8
-#EXTINF:-1,starplus
+#EXTINF:-1 ,starplus
 http://ms.towkai.com/starplus_ml/index.m3u8
-#EXTINF:-1,andtv
+#EXTINF:-1 ,andtv
 http://ms.towkai.com/andtv_ml/index.m3u8
-#EXTINF:-1,hum
+#EXTINF:-1 ,hum
 http://ms.towkai.com/hum_ml/index.m3u8
-#EXTINF:-1,zeebangla
+#EXTINF:-1 ,zeebangla
 http://ms.towkai.com/zeebangla_ml/index.m3u8
-#EXTINF:-1,starjalsha
-http://ms.towkai.com/test_starjalsha/index.m3u8
-#EXTINF:-1,arydigital
+#EXTINF:-1 ,starjalsha
+http://ms.towkai.com/starjalsha_ml/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,arydigital
 http://ms.towkai.com/arydigital_ml/index.m3u8
-#EXTINF:-1,sonyaath
+#EXTINF:-1 ,sonyaath
 http://ms.towkai.com/sonyaath_ml/index.m3u8
-#EXTINF:-1,travelxp
+#EXTINF:-1 ,Sun_Bangla
+http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
+#EXTINF:-1 ,Sananda
+http://sananda.bengaldigital.live/Sananda/index.m3u8
+#EXTINF:-1 ,tv5monde
+http://ms.towkai.com/tv5monde_ml/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,travelxp
 http://ms.towkai.com/travelxp_ml/index.m3u8
-#EXTINF:-1,tlc
+#EXTINF:-1 ,tlc
 http://ms.towkai.com/tlc_ml/index.m3u8
-#EXTINF:-1,sony_ten1
+#EXTINF:-1 ,sony_ten1
 http://ms.towkai.com/sony_ten1/index.m3u8
-#EXTINF:-1,sonyten2
+#EXTINF:-1 ,sonyten2
 http://ms.towkai.com/sonyten2_ml/index.m3u8
-#EXTINF:-1,sonyten3
+#EXTINF:-1 ,sonyten3
 http://ms.towkai.com/sonyten3_ml/index.m3u8
-#EXTINF:-1,ssp1
+#EXTINF:-1 ,ssp1
 http://ms.towkai.com/ssp1_ml/index.m3u8
-#EXTINF:-1,ssp2
+#EXTINF:-1 ,ssp2
 http://ms.towkai.com/ssp2_ml/index.m3u8
-#EXTINF:-1,sssel1
+#EXTINF:-1 ,sssel1
 http://ms.towkai.com/sssel1_ml/index.m3u8
-#EXTINF:-1,pogo
+#EXTINF:-1 ,pogo
 http://ms.towkai.com/pogo_ml/index.m3u8
-#EXTINF:-1,hungama
+#EXTINF:-1 ,hungama
 http://ms.towkai.com/hungama_ml/index.m3u8
-#EXTINF:-1,CN
+#EXTINF:-1 ,CN
 http://ms.towkai.com/cn_ml/index.m3u8
-#EXTINF:-1,disneyjr
+#EXTINF:-1 ,disneyjr
 http://ms.towkai.com/disneyjr_ml/index.m3u8
-#EXTINF:-1,nickjunior
+#EXTINF:-1 ,nickjunior
 http://ms.towkai.com/nickjunior_ml/index.m3u8
-#EXTINF:-1,masti
+#EXTINF:-1 ,masti
 http://ms.towkai.com/masti_ml/index.m3u8
-#EXTINF:-1,sangeetbangla
+#EXTINF:-1 ,channelV
+http://ms.towkai.com/channelV_ml/index.m3u8
+#EXTINF:-1 ,sangeetbangla
 http://ms.towkai.com/sangeetbangla_ml/index.m3u8
-#EXTINF:-1,b4umuzic
+#EXTINF:-1 ,b4umuzic
 http://ms.towkai.com/b4umuzic_ml/index.m3u8
-#EXTINF:-1,9XM
+#EXTINF:-1 ,9XM
 http://ms.towkai.com/9XM_ml/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 ,MTV
 http://ms.towkai.com/mtv_mimelive/index.m3u8
-#EXTINF:-1,natgeowild
+#EXTINF:-1 ,natgeowild
 http://ms.towkai.com/natgeowild_mimelive/index.m3u8
-#EXTINF:-1,historytv
+#EXTINF:-1 ,historytv
 http://ms.towkai.com/historytv_mimelive/index.m3u8
-#EXTINF:-1,AP
+#EXTINF:-1 ,AP
 http://ms.towkai.com/ap_mimelive/index.m3u8
-#EXTINF:-1,sonybbcearth
+#EXTINF:-1 ,sonybbcearth
 http://ms.towkai.com/sonybbcearth_mimelive/index.m3u8
-#EXTINF:-1,discoveryscience
+#EXTINF:-1 ,discoveryscience
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
-#EXTINF:-1,discovery
+#EXTINF:-1 ,discovery
 http://ms.towkai.com/discovery_mimelive/index.m3u8
-#EXTINF:-1,qurantv
+#EXTINF:-1 ,qurantv
 http://ms.towkai.com/qurantv_mimelive/index.m3u8
-#EXTINF:-1,sunna
+#EXTINF:-1 ,sunna
 http://ms.towkai.com/sunna_mimelive/index.m3u8
-#EXTINF:-1,national_geographic_channel
+#EXTINF:-1 ,national_geographic_channel
 http://ms.towkai.com/national_geographic_channel/index.m3u8
-#EXTINF:-1,star_movies_select
+#EXTINF:-1 ,star_movies_select
 http://ms.towkai.com/star_movies_select/index.m3u8
-#EXTINF:-1,star_gold_select
+#EXTINF:-1 ,star_gold_select
 http://ms.towkai.com/star_gold_select/index.m3u8
-#EXTINF:-1,LotusMacauHD
-http://ms.towkai.com/LotusMacauHD/index.m3u8
-#EXTINF:-1,andpictures
+#EXTINF:-1 ,LotusMacauHD
+http://ms.towkai.com/LotusMaccauHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,andpictures
 http://ms.towkai.com/andpictures_ml/index.m3u8
-#EXTINF:-1,sabtvHD
+#EXTINF:-1 ,sabtvHD
 http://ms.towkai.com/sabtvHD/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 ,zeecafehd
 http://ms.towkai.com/zeecafehd/index.m3u8
-#
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTI
-
