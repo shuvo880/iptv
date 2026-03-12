@@ -117,6 +117,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 ,Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 ,andflix
+http://ms.towkai.com/andflix_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,Hindi Movie Classic 24
@@ -132,9 +134,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 ,Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,zeebanglacinema
-http://ms.towkai.com/zeebanglacinema_ml/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?
 #EXTINF:-1 ,andflix
-http://ms.towkai.com/andflix_ml/index.m3u8
+http://ms.towkai.com/andflix_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,zeetv
 http://ms.towkai.com/zeetv_ml/index.m3u8
 #EXTINF:-1 ,sonytv
@@ -142,9 +144,9 @@ http://ms.towkai.com/sonytv_ml/index.m3u8
 #EXTINF:-1 ,starplus
 http://ms.towkai.com/starplus_ml/index.m3u8
 #EXTINF:-1 ,andtv
-http://ms.towkai.com/andtv_ml/index.m3u8
-#EXTINF:-1 ,hum
-http://ms.towkai.com/hum_ml/index.m3u8
+http://ms.towkai.com/andtv_ml/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,geonews
+http://ms.towkai.com/geonews_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,zeebangla
 http://ms.towkai.com/zeebangla_ml/index.m3u8
 #EXTINF:-1 ,starjalsha
@@ -157,6 +159,8 @@ http://ms.towkai.com/sonyaath_ml/index.m3u8
 http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
 #EXTINF:-1 ,Sananda
 http://sananda.bengaldigital.live/Sananda/index.m3u8
+#EXTINF:-1 ,arirang
+http://ms.towkai.com/arirang_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,tv5monde
 http://ms.towkai.com/tv5monde_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,travelxp
@@ -217,8 +221,30 @@ http://ms.towkai.com/sunna_mimelive/index.m3u8
 http://ms.towkai.com/national_geographic_channel/index.m3u8
 #EXTINF:-1 ,star_movies_select
 http://ms.towkai.com/star_movies_select/index.m3u8
+#EXTINF:-1 ,hum sitarey
+https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/index.m3u8?
+#EXTINF:-1 ,Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 ,star_gold_select
 http://ms.towkai.com/star_gold_select/index.m3u8
+#EXTINF:-1 ,24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 ,Big Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 ,Colors Cineplex Superhit
+http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:-1 ,E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 ,South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 ,4utv
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 ,alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 ,tntmusic
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 ,LotusMacauHD
 http://ms.towkai.com/LotusMaccauHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,andpictures
