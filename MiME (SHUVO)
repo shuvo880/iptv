@@ -96,7 +96,7 @@ http://ms.towkai.com/bbcnews_ml/index.m3u8
 #EXTINF:-1 ,CNN
 http://ms.towkai.com/cnn_ml/index.m3u8
 #EXTINF:-1 ,sonysetmax
-http://ms.towkai.com/sonysetmax_ml/index.m3u8
+http://103.161.153.165:8000/play/a01k/41982816.m3u8
 #EXTINF:-1 ,b4umovies
 http://ms.towkai.com/b4umovies_ml/index.m3u8
 #EXTINF:-1 ,zeecinema
