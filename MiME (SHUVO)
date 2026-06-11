@@ -96,7 +96,7 @@ http://ms.towkai.com/bbcnews_ml/index.m3u8
 #EXTINF:-1 ,CNN
 http://ms.towkai.com/cnn_ml/index.m3u8
 #EXTINF:-1 ,sonysetmax
-http://103.161.153.165:8000/play/a01k/41982816.m3u8
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,b4umovies
 http://ms.towkai.com/b4umovies_ml/index.m3u8
 #EXTINF:-1 ,zeecinema
@@ -133,14 +133,14 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 ,Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 ,zeebanglacinema
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?
+#EXTINF:-1 ,Zeebanglasonar
+http://ms.towkai.com/Zeebanglasonar_live/index.m3u8
 #EXTINF:-1 ,andflix
 http://ms.towkai.com/andflix_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,zeetv
 http://ms.towkai.com/zeetv_ml/index.m3u8
 #EXTINF:-1 ,sonytv
-http://ms.towkai.com/sonytv_ml/index.m3u8
+http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 ,starplus
 http://ms.towkai.com/starplus_ml/index.m3u8
 #EXTINF:-1 ,andtv
@@ -250,6 +250,6 @@ http://ms.towkai.com/LotusMaccauHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,andpictures
 http://ms.towkai.com/andpictures_ml/index.m3u8
 #EXTINF:-1 ,sabtvHD
-http://ms.towkai.com/sabtvHD/index.m3u8
+http://103.157.248.140:8000/play/a00c/index.m3u8
 #EXTINF:-1 ,zeecafehd
 http://ms.towkai.com/zeecafehd/index.m3u8
