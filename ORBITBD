@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1 ,Tspots 1 Backup
+https://tvdd.easypecker.com/TSportsHD_sf_bdix/index.m3u8
+#EXTINF:-1 ,SPORTS 2
+https://tvdd.easypecker.com/spotyfyz_bdix/index.m3u8
+#EXTINF:-1 ,Tspots 2 Backup
+https://tvdd.easypecker.com/TSportsHD_sf_nix/index.m3u8
+#EXTINF:-1 ,Tspots 4 Backup
+https://tvdd.easypecker.com/TSportsHD_rc_bdix/index.m3u8
+#EXTINF:-1 ,tsportshd
+http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+#EXTINF:-1 ,GLOBAL TV HD
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1 ,Gazi Tv
 
 #EXTINF:-1,SOMOYTV
 http://172.16.29.3:8090/hls/somoytv.m3u8
