@@ -1,27 +1,6 @@
 #EXTM3U
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 ,somoytv
+http://ms.towkai.com/somoytv/index.m3u8
 #EXTINF:-1 ,tsports
 http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BtvNational
@@ -52,8 +31,6 @@ http://ms.towkai.com/mytv/index.m3u8
 http://ms.towkai.com/atnnews_ml/index.m3u8
 #EXTINF:-1 ,MOHONA
 http://ms.towkai.com/MOHONA/index.m3u8
-#EXTINF:-1 ,somoytv
-http://ms.towkai.com/somoytv/index.m3u8
 #EXTINF:-1 ,iTV
 http://ms.towkai.com/itv_ml/index.m3u8
 #EXTINF:-1 ,maasranga
