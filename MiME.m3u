@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,somoytv
-http://ms.towkai.com/somoytv/index.m3u8
 #EXTINF:-1 ,tsports
 http://ms.towkai.com/T_SportsFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BtvNational
@@ -59,8 +57,6 @@ http://ms.towkai.com/News24HD/index.m3u8
 http://ms.towkai.com/banglatv/index.m3u8
 #EXTINF:-1 ,DurontoHD
 http://ms.towkai.com/DurontoHD/index.m3u8
-#EXTINF:-1 ,nagorik
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,anandatv
 http://ms.towkai.com/anandatv_ml/index.m3u8
 #EXTINF:-1 ,globaltv
@@ -90,7 +86,7 @@ http://ms.towkai.com/bbcnews_ml/index.m3u8
 #EXTINF:-1 ,CNN
 http://ms.towkai.com/cnn_ml/index.m3u8
 #EXTINF:-1 ,sonysetmax
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 ,b4umovies
 http://ms.towkai.com/b4umovies_ml/index.m3u8
 #EXTINF:-1 ,zeecinema
@@ -103,22 +99,20 @@ http://ms.towkai.com/jalshamovies_ml/index.m3u8
 http://ms.towkai.com/stargold_ml/index.m3u8
 #EXTINF:-1 ,stargold2
 http://ms.towkai.com/stargold2_ml/index.m3u8
-#EXTINF:-1 ,sonypix
-http://ms.towkai.com/sonypix_ml/index.m3u8
 #EXTINF:-1 ,Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 ,Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 ,Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 ,andflix
-http://ms.towkai.com/andflix_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 ,andpictures
+http://ms.towkai.com/andpictures_ml/index.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ,MU | Joo Music
@@ -129,12 +123,8 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,Zeebanglasonar
 http://ms.towkai.com/Zeebanglasonar_live/index.m3u8
-#EXTINF:-1 ,andflix
-http://ms.towkai.com/andflix_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,zeetv
 http://ms.towkai.com/zeetv_ml/index.m3u8
-#EXTINF:-1 ,sonytv
-http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:-1 ,starplus
 http://ms.towkai.com/starplus_ml/index.m3u8
 #EXTINF:-1 ,andtv
@@ -147,12 +137,6 @@ http://ms.towkai.com/zeebangla_ml/index.m3u8
 http://ms.towkai.com/starjalsha_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,arydigital
 http://ms.towkai.com/arydigital_ml/index.m3u8
-#EXTINF:-1 ,sonyaath
-http://ms.towkai.com/sonyaath_ml/index.m3u8
-#EXTINF:-1 ,Sun_Bangla
-http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
-#EXTINF:-1 ,Sananda
-http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 ,arirang
 http://ms.towkai.com/arirang_ml/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,tv5monde
@@ -161,12 +145,6 @@ http://ms.towkai.com/tv5monde_ml/tracks-v1a1/mono.m3u8
 http://ms.towkai.com/travelxp_ml/index.m3u8
 #EXTINF:-1 ,tlc
 http://ms.towkai.com/tlc_ml/index.m3u8
-#EXTINF:-1 ,sony_ten1
-http://ms.towkai.com/sony_ten1/index.m3u8
-#EXTINF:-1 ,sonyten2
-http://ms.towkai.com/sonyten2_ml/index.m3u8
-#EXTINF:-1 ,sonyten3
-http://ms.towkai.com/sonyten3_ml/index.m3u8
 #EXTINF:-1 ,ssp1
 http://ms.towkai.com/ssp1_ml/index.m3u8
 #EXTINF:-1 ,ssp2
@@ -183,10 +161,6 @@ http://ms.towkai.com/cn_ml/index.m3u8
 http://ms.towkai.com/disneyjr_ml/index.m3u8
 #EXTINF:-1 ,nickjunior
 http://ms.towkai.com/nickjunior_ml/index.m3u8
-#EXTINF:-1 ,masti
-http://ms.towkai.com/masti_ml/index.m3u8
-#EXTINF:-1 ,channelV
-http://ms.towkai.com/channelV_ml/index.m3u8
 #EXTINF:-1 ,sangeetbangla
 http://ms.towkai.com/sangeetbangla_ml/index.m3u8
 #EXTINF:-1 ,b4umuzic
@@ -201,8 +175,6 @@ http://ms.towkai.com/natgeowild_mimelive/index.m3u8
 http://ms.towkai.com/historytv_mimelive/index.m3u8
 #EXTINF:-1 ,AP
 http://ms.towkai.com/ap_mimelive/index.m3u8
-#EXTINF:-1 ,sonybbcearth
-http://ms.towkai.com/sonybbcearth_mimelive/index.m3u8
 #EXTINF:-1 ,discoveryscience
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
 #EXTINF:-1 ,discovery
@@ -215,18 +187,10 @@ http://ms.towkai.com/sunna_mimelive/index.m3u8
 http://ms.towkai.com/national_geographic_channel/index.m3u8
 #EXTINF:-1 ,star_movies_select
 http://ms.towkai.com/star_movies_select/index.m3u8
-#EXTINF:-1 ,hum sitarey
-https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/index.m3u8?
-#EXTINF:-1 ,Kolkata Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 ,star_gold_select
 http://ms.towkai.com/star_gold_select/index.m3u8
-#EXTINF:-1 ,24/7 Shinchan
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 ,Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 ,Colors Cineplex Superhit
-http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1 ,E24
 http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 ,South Movies
@@ -241,9 +205,73 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 ,LotusMacauHD
 http://ms.towkai.com/LotusMaccauHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,andpictures
-http://ms.towkai.com/andpictures_ml/index.m3u8
-#EXTINF:-1 ,sabtvHD
-http://103.157.248.140:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,zeecafehd
-http://ms.towkai.com/zeecafehd/index.m3u8
+#EXTINF:-1 ,Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 ,Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 ,Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Sananda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 ,My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+#EXTINF:-1 ,Sony TV
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+#EXTINF:-1 ,Cine Sony (1080p)
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 ,Mazhavil Manorama HD
+https://cdn-7.pishow.tv/live/1129/master.m3u8
+#EXTINF:-1 ,Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 ,CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 ,Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 ,Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 ,MBC Wanasah Arabic Music (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 ,MBC Persia - Persian (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 ,MBC Drama Arabic (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 ,MBC BOLLYWOOD (1080P) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 ,MBC 5 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 ,MBC 4 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 ,MBC 2 (1080P) (not 24/7)
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MBC 1 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 ,House of Crime
+https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8
+#EXTINF:-1 ,Yrf Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b30846d13df5e0014a957e14fa83439fd501b385865883438422a716c895f2dad1148be4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670363bda39a1ea19bfcbb9471df2d11bc632dc24e2570a8eeb9ce62ec/147/854x480_1724104/index.m3u8
+#EXTINF:-1 ,Baraza Music TV
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 ,Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 ,MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 ,Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 ,E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 ,Colors Infinity HD
+http://66.102.126.10:8000/play/a014/index.m3u8
+#EXTINF:-1 ,Colors Cineplex HD
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 ,TV9 Bangla
+http://103.175.73.12:8080/live/201/201_0.m3u8
+#EXTINF:-1 ,Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 ,G-Serise
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
